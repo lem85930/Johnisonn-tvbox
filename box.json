@@ -1,11 +1,11 @@
-{
+	{
   "spider": "./PantyHose/spider/FTY.jar",
-  "wallpaper": "./Lingerie/raw/main/streetlight.jpg",
+  "wallpaper": "./Lingerie/streetlight.jpg",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "./Garter/raw/main/BOBOLIVE.TXT",
+      "url": "./Garter/BOBOLIVE.TXT",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -25,47 +25,8 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "【小波丁丁蕤】(JIHU)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
+      "name": "【小波丁丁蕤】(JIHULAB)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
       "api": "csp_DouDou"
-    },
-////////////////////////////////////////////////////////////////
-////////////////////////////外挂线路/////////////////////////////
-////////////////////////////////////////////////////////////////
-    {
-        "key": "全集网",
-        "name": "👙全集┃站点",
-        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "jar":"./PantyHose/spider/JunYu.jar",
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/XBPQ/全集网.json"
-    },
-    {
-		"key": "黑狐",
-		"name": "🦊黑狐┃快线",
-		"type": 3,
-		"searchable": 1,
-		"quickSearch": 1,
-		"changeable": 1,
-        "jar":"./PantyHose/spider/JunYu.jar",
-		"api": "csp_XBPQ",
-		"ext": "./PantyHose/lib/XBPQ/黑狐影院.json"
-    },
-    {
-		"key": "freeok",
-		"name": "🌟freeOK┃快线",
-		"type": 3,"searchable": 1,"quickSearch": 1,
-		"api": "csp_XBPQ",
-        "jar":"./PantyHose/spider/JunYu.jar",
-		"playerType": "1",
-		"ext": "./PantyHose/lib/XBPQ/freeok.json"
-	}, 
-    {
-      "key": "天堂",
-      "name": "🎡天堂┃快线",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/JunYu.jar",
-      "ext": "./PantyHose/lib/XBPQ/电影天堂.json"
     },
     {
       "key": "drpy_js_奇珍异兽",
@@ -79,8 +40,7 @@
       "name": "🏆优酷┃大厂",
       "type": 3,
       "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/raw/main/PantyHose/lib/TianV/优酷.js"
-      //gitee显示异常，更换为gitlab库。
+      "ext": "./PantyHose/lib/TianV/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
@@ -118,25 +78,61 @@
       "ext": "./PantyHose/lib/XinMo/菜狗.js"
     },
     {
-      "key": "好趣网",
-      "name": "📺好趣┃快线",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/TianV/好趣网.js"
+        "key": "全集网",
+        "name": "👙全集┃站点",
+        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/XBPQ/全集网.json"
     },
     {
-      "key": "drpy_js_碟调影视",
-      "name": "📀碟调┃站点",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/XinMo/碟调影视.js"
+        "key": "好趣网",
+        "name": "📺好趣┃快线",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/TianV/好趣网.js"
     },
     {
-      "key": "drpy_js_看了么",
-      "name": "👁看了么┃站点",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/XinMo/看了么.js"
+        "key": "黑狐",
+        "name": "🦊黑狐┃快线",
+        "type": 3,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/XBPQ/黑狐影院.json"
+    },
+    {
+        "key": "freeok",
+        "name": "🌟freeOK┃快线",
+        "type": 3,"searchable": 1,"quickSearch": 1,
+        "api": "csp_XBPQ",
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "playerType": "1",
+        "ext": "./PantyHose/lib/XBPQ/freeok.json"
+	  }, 
+    {
+        "key": "天堂",
+        "name": "🎡天堂┃快线",
+        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "ext": "./PantyHose/lib/XBPQ/电影天堂.json"
+    },
+    {
+        "key": "drpy_js_碟调影视",
+        "name": "📀碟调┃站点",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/XinMo/碟调影视.js"
+    },
+    {
+        "key": "drpy_js_看了么",
+        "name": "👁看了么┃站点",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/XinMo/看了么.js"
     },
     {
       "key": "drpy_js_视中影视",
@@ -175,7 +171,7 @@
     },
     {
       "key": "酷奇js",
-      "name": "⚛️酷奇┃MV",
+	      "name": "⚛️酷奇┃MV",
       "type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/TianV/酷奇MV.js"
@@ -199,7 +195,7 @@
     },
     {
       "key": "4KHDR",
-      "name": "✡️HDR┃快线",
+	      "name": "✡️HDR┃快线",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -232,7 +228,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./PantyHose/spider/JunYu.jar",
+      "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/HCCX/土豪影视.json"
     },
     {
@@ -243,7 +239,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./PantyHose/spider/JunYu.jar",
+      "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/HCCX/奇优影视.json"
     },
     {
@@ -254,427 +250,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./PantyHose/spider/JunYu.jar",
+      "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/HCCX/好戏影视.json"
     },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/all/兔小贝.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-////////////////////////////////////////////////////////////////
-/////////////////////////////XBPQ///////////////////////////////
-////////////////////////////////////////////////////////////////
-    {
-      "key": "csp_骚火",
-      "name": "🅱️骚火|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/骚火影视.json"
-    },
-    {
-      "key": "csp_威士",
-      "name": "🅱️威士|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/威士影视.json"
-    },
-    {
-      "key": "csp_Free",
-      "name": "🅱️Free|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/Free影视.json"
-    },
-    {
-      "key": "csp_xBPQ_玖八",
-      "name": "🅱️玖八|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/98影视.json"
-    },
-    {
-      "key": "csp_蛋蛋",
-      "name": "🅱️蛋蛋|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/蛋蛋影视.json"
-    },
-    {
-      "key": "csp_星辰",
-      "name": "🅱️星辰|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/星辰影视.json"
-    },
-    {
-      "key": "csp_TVB",
-      "name": "🅱️TVB|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/TVB云播.json"
-    },
-    {
-      "key": "csp_农民",
-      "name": "🅱️农民|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/农民影视.json"
-    },
-    {
-      "key": "csp_xBPQ_奇优",
-      "name": "🅱️奇优|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/奇优影视.json"
-    },
-    {
-      "key": "csp_疯狗",
-      "name": "🅱️疯狗|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/疯狗影视.json"
-    },
-    {
-      "key": "csp_万达",
-      "name": "🅱️万达|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/万达影视.json"
-    },
-    {
-      "key": "csp_爱看",
-      "name": "🅱️爱看|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/爱看影视.json"
-    },
-    {
-      "key": "csp_七新",
-      "name": "🅱️七新|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/七新影视.json"
-    },
-    {
-      "key": "csp_超前",
-      "name": "🅱️超前|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/超前B站.json"
-    },
-    {
-      "key": "csp_热播",
-      "name": "🅱️热播|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/热播之家.json"
-    },
-    {
-      "key": "csp_玖摇",
-      "name": "🅱️玖摇|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/91影视.json"
-    },
-    {
-      "key": "csp_不卡",
-      "name": "🅱️不卡|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/真不卡影视.json"
-    },
-    {
-      "key": "csp_午舞",
-      "name": "🅱️午舞|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/五五影视.json"
-    },
-    {
-      "key": "csp_师兄",
-      "name": "🅱️师兄|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/大师兄影视.json"
-    },
-    {
-      "key": "csp_xBPQ_视觉",
-      "name": "🅱️视觉|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/新视觉影视.json"
-    },
-    {
-      "key": "csp_圣城",
-      "name": "🅱️圣城|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/圣城影视.json"
-    },
-    {
-      "key": "csp_好戏",
-      "name": "🅱️好戏|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/好戏影视.json"
-    },
-    {
-      "key": "csp_七月",
-      "name": "🅱️七月|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/七月影视.json"
-    },
-    {
-      "key": "csp_佳能",
-      "name": "🅱️佳能|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/348影视.json"
-    },
-    {
-      "key": "csp_土豪",
-      "name": "🅱️土豪|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/土豪影视.json"
-    },
-    {
-      "key": "csp_觅知",
-      "name": "🅱️觅知|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/觅知影视.json"
-    },
-    {
-      "key": "csp_达龟",
-      "name": "🅱️达龟|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/达达龟影视.json"
-    },
-    {
-      "key": "csp_七年",
-      "name": "🅱️七年|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/七年影视.json"
-    },
-    {
-      "key": "csp_黑狐",
-      "name": "🅱️黑狐|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/黑狐影视.json"
-    },
-    {
-      "key": "csp_苹果",
-      "name": "🅱️苹果|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/苹果影视.json"
-    },
-    {
-      "key": "csp_米爱",
-      "name": "🅱️米爱|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/米爱影视.json"
-    },
-    {
-      "key": "csp_低端",
-      "name": "🅱️低端|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/低端影视.json"
-    },
-    {
-      "key": "csp_非凡",
-      "name": "🅱️非凡|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/非凡资源网.json"
-    },
-    {
-      "key": "csp_量子",
-      "name": "🅱️量子|T追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/量子资源网.json"
-    },
-
-    {
-      "key": "mtv_xp_动漫巴士",
-      "name": "🐼动漫丨巴士",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/动漫巴士.json"
-    },
-    {
-      "key": "mtv_xp_维奇动漫",
-      "name": "🐼维奇丨动漫",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/维奇动漫.json"
-    },
-    {
-      "key": "csp_短剧",
-      "name": "🎧刷刷｜短剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/HCCX/短剧网.json"
-    },
-////////////////////////////////////////////////////////////////
-///////////////////////////AppYsV2//////////////////////////////
-////////////////////////////////////////////////////////////////
-    {
-      "key": "csp_beijihu",
-      "name": "🦊MXone┃快线",
-      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.kuin.one/api.php/app/"
-    },
-    {
-      "key":"骑骑影院",
-      "name":"🚵骑骑┃App",
-      "type":3,"playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api":"csp_AppYsV2",
-      "ext":"https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
-      "key": "车妹",
-      "name": "🚔车妹┃App",
-      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-//////////////////////////////////////////////////////////////
-////////////////////////////jar内置接口////////////////////////
-//////////////////////////////////////////////////////////////
-
-  //{"key": "csp_Nbys","name": "🛫泥巴","type": 3,"api": "csp_NiNi","searchable": 1,"quickSearch": 1,"changeable": 1},
-  //{"key": "csp_trj","name": "🛫唐人街","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"changeable": 1},
     {
       "key": "九六",
       "name": "🎀九六┃直连",
@@ -697,26 +275,6 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
     },
     {
-      "key": "电影",
-      "name": "🗽电影┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
-    },
-    {
-      "key": "小柚",
-      "name": "🍊小柚┃App",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="
-    },
-    {
       "key": "萌米",
       "name": "👀萌米┃App",
       "type": 3,
@@ -725,105 +283,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
-    {
-      "key": "Bili",
-      "name": "🅱哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./PantyHose/lib/TianV/bilibili.json"
-      //gitee显示异常，更换gitlab库
-    },
-    {
-      "key": "戏曲杂苑",
-      "name": "🅱哔哩┃戏曲",
-      "type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
-      "api": "csp_Bili",
-      "ext": "./PantyHose/lib/TianV/哔哩戏曲.json"
-    },
-    {
-      "key": "相声小品",
-      "name": "🅱哔哩┃小品",
-      "type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
-      "api": "csp_Bili",
-      "ext": "./PantyHose/lib/TianV/哔哩相声.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哩┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./PantyHose/lib/TianV/biliych.json"
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./PantyHose/lib/TianV/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./PantyHose/lib/TianV/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./PantyHose/lib/TianV/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./PantyHose/lib/TianV/高中课堂.json"
     },
     {
       "key":"csp_Xinsj2",
@@ -841,7 +300,7 @@
     },
     {
         "key":"csp_77",
-        "name":"7️⃣七七┃App","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+	        "name":"7️⃣七七┃App","type":3,"searchable":1,"quickSearch":1,"filterable":1,
         "api":"csp_Kunyu77"
     },
     {
@@ -867,6 +326,13 @@
       "ext": "http://www.xb6v.com/"
     },
     {
+      "key": "csp_beijihu",
+      "name": "🦊MXone┃快线",
+      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
       "key": "DiDuan",
       "name": "👒低端┃App","type": 3,"playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_Ddrk"
@@ -875,6 +341,12 @@
       "key": "蚂蚁","name": "😣忍者┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_MYYS",
       "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "csp_SP33",
+      "name": "☘三三┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,
+      "api": "csp_SP33"
     },
     {
       "key": "毛驴影视",
@@ -931,11 +403,6 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
     },
     {
-        "key": "蜂鸟",
-        "name": "🕊蜂鸟┃App","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,
-        "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
-    },
-    {
       "key": "Auete",
       "name": "🦌奥特┃站点",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -963,6 +430,324 @@
       "ext": "https://www.libvio.pro/"
     },
     {
+      "key": "Bili",
+      "name": "🅱哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/bilibili.json"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "🅱哔哩┃戏曲",
+      "type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
+      "api": "csp_Bili",
+      "ext": "./PantyHose/lib/TianV/哔哩戏曲.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🅱哔哩┃小品",
+      "type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
+      "api": "csp_Bili",
+      "ext": "./PantyHose/lib/TianV/哔哩相声.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哩┃歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/biliych.json"
+    },
+////////////////////////////////////////////////////////////////
+/////////////////////////////XBPQ///////////////////////////////
+////////////////////////////////////////////////////////////////
+    {
+      "key": "csp_Free",
+      "name": "🎖Free┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/Free影视.json"
+    },
+    {
+      "key": "csp_xBPQ_玖八",
+      "name": "🎐玖八┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/98影视.json"
+    },
+    {
+      "key": "csp_星辰",
+      "name": "☪️星辰┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/星辰影视.json"
+    },
+    {
+      "key": "csp_TVB",
+      "name": "🔆TVB┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/TVB云播.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🌠农民┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/农民影视.json"
+    },
+    {
+      "key": "csp_爱看",
+      "name": "🥋爱看┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/爱看影视.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "🍵七新┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/七新影视.json"
+    },
+    {
+      "key": "csp_超前",
+      "name": "🍷超前┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/超前B站.json"
+    },
+    {
+      "key": "csp_玖摇",
+      "name": "🐥玖摇┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/91影视.json"
+    },
+    {
+      "key": "csp_不卡",
+      "name": "🐔不卡┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/真不卡影视.json"
+    },
+    {
+      "key": "csp_午舞",
+      "name": "🐤午舞┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/五五影视.json"
+    },
+    {
+      "key": "csp_xBPQ_视觉",
+      "name": "🌺视觉┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/新视觉影视.json"
+    },
+    {
+      "key": "csp_佳能",
+      "name": "🍀佳能┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/348影视.json"
+    },
+    {
+      "key": "csp_觅知",
+      "name": "🐚觅知┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/觅知影视.json"
+    },
+    {
+      "key": "csp_达龟",
+      "name": "🐳达龟┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/达达龟影视.json"
+    },
+    {
+      "key": "csp_七年",
+      "name": "🐋七年┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/七年影视.json"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "🦂黑狐┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/黑狐影视.json"
+    },
+    {
+      "key": "csp_苹果",
+      "name": "🍏苹果┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/苹果影视.json"
+    },
+    {
+      "key": "csp_米爱",
+      "name": "🐰米爱┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/米爱影视.json"
+    },
+    {
+      "key": "csp_量子",
+      "name": "🔹量子┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/量子资源网.json"
+    },
+////////////////////////////////////////////////////////////////
+///////////////////////////AppYsV2//////////////////////////////
+////////////////////////////////////////////////////////////////
+    {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/兔小贝.js",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+                },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+                },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+                "type": "rect",
+                "ratio": 1.597
+                },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+                  "type": "rect",
+                  "ratio": 1.597
+                },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+                  "type": "rect",
+                  "ratio": 1.597
+                },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/高中课堂.json"
+    },
+    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
@@ -971,26 +756,10 @@
       "quickSearch": 0,
       "changeable": 0,
       "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
+                  "type": "rect",
+                  "ratio": 3.8
+                }
     },
-    {
-      "key": "csp_SP33",
-      "name": "☘三三┃App",
-      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,
-      "api": "csp_SP33"
-    },
-
-///////////////////////////新添加////////////////////////////////
-    {
-      "key": "csp_woggcli",
-      "name": "🐨哥哥┃T4","type": 4,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "http://home.jundie.top:9520/PantyHose/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=8e14121f900f4bdfb861306f7a67b17c"
-    },
-/////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////
-    
 //////////////////////////////////////////////////////
 //////////////////////////搜索///////////////////////// 
 //////////////////////////////////////////////////////
@@ -1009,7 +778,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
     },
     {
       "key": "Zhaozy",
@@ -1019,7 +788,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$fanty$$$qqq111"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -1029,7 +798,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
     },
     {
       "key": "UpYun",
@@ -1039,7 +808,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
     },
     {
       "key": "PanSearch",
@@ -1049,7 +818,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
     },
 //////////////////////////////////////////////////////
 /////////////////////////视频采集站/////////////////////
@@ -1126,9 +895,6 @@
        "爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺",
        "日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]
     }
-/////////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////////
-
 
   ],
 
