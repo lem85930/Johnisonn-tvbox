@@ -79,7 +79,7 @@
       "name": "🏆优酷┃大厂",
       "type": 3,
       "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "https://gitlab.com/Johnisonn/PantyHose/raw/main/PantyHose/lib/TianV/优酷.js"
+      "ext": "./PantyHose/raw/main/PantyHose/lib/TianV/优酷.js"
       //gitee显示异常，更换为gitlab库。
     },
     {
@@ -738,7 +738,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/Johnisonn/PantyHose/raw/main/PantyHose/lib/TianV/bilibili.json"
+      "ext": "./PantyHose/lib/TianV/bilibili.json"
       //gitee显示异常，更换gitlab库
     },
     {
