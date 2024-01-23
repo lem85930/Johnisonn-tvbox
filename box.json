@@ -1,4 +1,4 @@
-	{
+{
   "spider": "./PantyHose/spider/FTY.jar",
   "wallpaper": "./Lingerie/streetlight.jpg",
   "lives": [
@@ -25,7 +25,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "【小波丁丁蕤】(JIHULAB)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
+      "name": "【小波丁丁蕤】(GITEE)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
       "api": "csp_DouDou"
     },
     {
