@@ -8,8 +8,8 @@
       "api": "csp_XBPQ",
       "ext": {
                 "主页url":"https://bondagevalley.cc",
-                //"分类url":"https://bondagevalley.cc/videos/category/{cateId}?page_id={catePg}",
-                //"分类":"Cafe$849#Metal$852#Chastity$871#Restricted$855#Tieable$850#TiedinHeels$866#Brenda'sBound$908#TucsonTied$853",
+                "分类url":"https://bondagevalley.cc/videos/category/{cateId}?page_id={catePg}",
+                "分类":"Cafe$849#Metal$852#Chastity$871#Restricted$855#Tieable$850#TiedinHeels$866#Brenda'sBound$908#TucsonTied$853",
 
 
                 "数组":"class=\"video-list-image\"&&class=\"play_hover_btn\"",
@@ -26,11 +26,11 @@
                 "搜索模式":"1",
                 "搜索url": "https://bondagevalley.cc/search?keyword={wd}",
                 "搜索数组": "class=\"video-thumb\"&&class=\"play_hover_btn\"",
-				"搜索图片": "src=\"&&\"",
-				"搜索标题": "alt=\"&&\"",
-				"搜索链接": "href=\"&&\""
+                "搜索图片": "src=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索链接": "href=\"&&\""
 
-            }
+              }
     
     },
     {
