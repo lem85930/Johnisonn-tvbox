@@ -3,12 +3,14 @@
 [
 
 {"name":"小波EE旧","url":"https://gitee.com/johnisonn/PantyHose/raw/main/Johnisonn.json"},
+{"name":"小BDG波","url":"https://jihulab.com/Johnisonn/tvbox/-/raw/main/lines.json"},
 
 {"name":"小JIHULAB波","url":"https://jihulab.com/Johnisonn/tvbox/raw/main/box.json"},
 {"name":"小GITEE波","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
 {"name":"小GITCODE波","url":"https://raw.gitcode.com/Johnisonn/tvbox/raw/main/box.json"},
 {"name":"小GITLAB波","url":"https://gitlab.com/Johnisonn/tvbox/raw/main/box.json"},
 {"name":"小CODEBERG波","url":"https://codeberg.org/Johnisonn/tvbox/raw/main/box.json"},
+
 
 {"name":"心魔","url":"https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"},
 {"name":"欧歌","url":"http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"},
