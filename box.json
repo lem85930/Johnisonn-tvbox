@@ -425,6 +425,48 @@
 
 
     {
+      "key": "Bili",
+      "name": "🅱哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/ALL/bilibili.json"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "🅱哔哩┃戏曲",
+      "type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
+      "api": "csp_Bili",
+      "ext": "./PantyHose/lib/TianV/哔哩戏曲.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🅱哔哩┃小品",
+      "type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
+      "api": "csp_Bili",
+      "ext": "./PantyHose/lib/TianV/哔哩相声.json"
+    },
+    {
+      "key": "Biliych",
+      "name": "🅱哔哩┃歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./PantyHose/lib/TianV/biliych.json"
+    },
+    {
       "key": "drpy_js_奇珍异兽",
       "name": "🥝爱奇艺┃大厂",
       "type": 3,
