@@ -68,6 +68,16 @@
         "ext": "./PantyHose/lib/XBPQ/黑狐影院.json"
     },
     {
+      "key": "csp_黑狐",
+      "name": "🦂黑狐┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/黑狐影视.json"
+    },
+    {
         "key": "freeok",
         "name": "🌟freeOK┃快线",
         "type": 3,"searchable": 1,"quickSearch": 1,
@@ -76,6 +86,36 @@
         "playerType": "1",
         "ext": "./PantyHose/lib/XBPQ/freeok.json"
 	  }, 
+    {
+      "key": "csp_Free",
+      "name": "🎖Free┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/Free影视.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🌠农民┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/农民影视.json"
+    },
+    {
+      "key": "csp_Nmys",
+      "name": "🌽农民┃站点",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Nmys",
+      "ext": "./PantyHose/lib/TianV/nmys.json"
+    },
+
+
+
 
 
     {
