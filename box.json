@@ -48,6 +48,34 @@
         "api": "./PantyHose/frame/drpy2.min.js",
         "ext": "./PantyHose/lib/TianV/好趣网.js"
     },
+    {
+        "key": "全集网",
+        "name": "👙全集┃站点",
+        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/XBPQ/全集网.json"
+    },
+    {
+        "key": "黑狐",
+        "name": "🦊黑狐┃快线",
+        "type": 3,
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/XBPQ/黑狐影院.json"
+    },
+    {
+        "key": "freeok",
+        "name": "🌟freeOK┃快线",
+        "type": 3,"searchable": 1,"quickSearch": 1,
+        "api": "csp_XBPQ",
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "playerType": "1",
+        "ext": "./PantyHose/lib/XBPQ/freeok.json"
+	  }, 
 
 
     {
