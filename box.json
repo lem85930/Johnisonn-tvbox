@@ -267,7 +267,103 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/HCCX/五五影视.json"
     },
-    
+    {
+        "key":"csp_77",
+	        "name":"7️⃣七七┃App","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api":"csp_Kunyu77"
+    },
+    {
+        "key":"csp_WoGG",
+        "name": "🐨哥哥┃4K",
+        "type": 3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api": "csp_WoGG"
+    },
+    {
+      "key": "YGP",
+      "name": "🚀叨观┃App","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
+      "api": "csp_YGP"
+    },
+    {
+      "key": "Czsapp","name": " 🏭厂长┃站点","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "ext": "https://www.czzy33.com/"
+    },
+    {
+      "key": "新6V",
+      "name": "🗼新6V┃快线",
+      "searchable": 1,"quickSearch": 1,"changeable": 0,"type": 3,
+      "api": "csp_SixV",
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "csp_beijihu",
+      "name": "🦊MXone┃快线",
+      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "DiDuan",
+      "name": "👒低端┃App","type": 3,"playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Ddrk"
+    },
+    {
+      "key": "蚂蚁","name": "😣忍者┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_MYYS",
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "csp_SP33",
+      "name": "☘三三┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,
+      "api": "csp_SP33"
+    },
+    {
+      "key": "毛驴影视",
+      "name": "🐴毛驴┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_MLYS",
+      "ext": "https://www.maolvys.com/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🌐比特┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Bttwoo"
+    },
+    {
+      "key": "77",
+      "name": "🍏苹果┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Kunyu77"
+    },
+
+    {
+      "key": "Auete",
+      "name": "🦌奥特┃站点",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Auete",
+      "ext": "https://haozhansou.com/"
+    },
+    {
+      "key": "zxzj",
+      "name": "📶在线┃快线",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Zxzj",
+      "ext": "https://www.zxzj.pro/"
+    },
+    {
+      "key": "一起看 ",
+      "name": "🍿一起看┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_YQKan"
+    },
+    {
+      "key": "Lib",
+      "name": "🎥利播┃站点",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Libvio",
+      "ext": "https://www.libvio.pro/"
+    },    
         
     
     {
