@@ -129,13 +129,6 @@
         "ext": "./PantyHose/lib/XinMo/碟调影视.js"
     },
     {
-        "key": "drpy_js_看了么",
-        "name": "👁看吗┃站点",
-        "type": 3,
-        "api": "./PantyHose/frame/drpy2.min.js",
-        "ext": "./PantyHose/lib/XinMo/看了么.js"
-    },
-    {
       "key": "drpy_js_视中影视",
       "name": "👓视中┃站点",
       "type": 3,
