@@ -113,7 +113,56 @@
       "api": "csp_Nmys",
       "ext": "./PantyHose/lib/TianV/nmys.json"
     },
-
+    {
+        "key": "天堂",
+        "name": "🎡天堂┃快线",
+        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "ext": "./PantyHose/lib/XBPQ/电影天堂.json"
+    },
+    {
+        "key": "drpy_js_碟调影视",
+        "name": "📀碟调┃站点",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/XinMo/碟调影视.js"
+    },
+    {
+        "key": "drpy_js_看了么",
+        "name": "👁看吗┃站点",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/XinMo/看了么.js"
+    },
+    {
+      "key": "drpy_js_视中影视",
+      "name": "👓视中┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/XinMo/视中心影视.js"
+    },
+    {
+      "key": "drpy_js_爱看机器人",
+      "name": "🤖机器人┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/DaoZhang/ikanbot2.js"
+    },
+    {
+      "key": "贱贱",
+      "name": "🤨荐片┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/jp.js"
+    },
+    {
+      "key": "畅梦",
+      "name": "💋畅梦┃快线",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/changmeng.js"
+    },
 
 
 
