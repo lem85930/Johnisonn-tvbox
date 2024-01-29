@@ -207,7 +207,66 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/HCCX/TVB云播.json"
     },
-
+    {
+      "key": "csp_爱看",
+      "name": "🥋爱看┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/爱看影视.json"
+    },
+    {
+      "key": "csp_七新",
+      "name": "🍵七新┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/七新影视.json"
+    },
+    {
+      "key": "csp_超前",
+      "name": "🍷超前┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/超前B站.json"
+    },
+    {
+      "key": "csp_玖摇",
+      "name": "🐥玖摇┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/91影视.json"
+    },
+    {
+      "key": "csp_不卡",
+      "name": "🐔不卡┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/真不卡影视.json"
+    },
+    {
+      "key": "csp_午舞",
+      "name": "🐤午舞┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/五五影视.json"
+    },
     
         
     
