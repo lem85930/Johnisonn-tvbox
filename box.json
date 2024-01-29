@@ -135,27 +135,7 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/XinMo/视中心影视.js"
     },
-    {
-      "key": "drpy_js_爱看机器人",
-      "name": "🤖机器人┃站点",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/DaoZhang/ikanbot2.js"
-    },
-    {
-      "key": "贱贱",
-      "name": "🤨荐片┃App",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/TianV/jp.js"
-    },
-    {
-      "key": "畅梦",
-      "name": "💋畅梦┃快线",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/TianV/changmeng.js"
-    },
+
 
 
 
