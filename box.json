@@ -351,7 +351,76 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+    {
+      "key": "csp_佳能",
+      "name": "🍀佳能┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/348影视.json"
+    },
+    {
+      "key": "csp_觅知",
+      "name": "🐚觅知┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/觅知影视.json"
+    },
+    {
+      "key": "csp_达龟",
+      "name": "🐳达龟┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/达达龟影视.json"
+    },
+    {
+      "key": "csp_七年",
+      "name": "🐋七年┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/七年影视.json"
+    },
+    {
+      "key": "csp_苹果",
+      "name": "🍏苹果┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/苹果影视.json"
+    },
+    {
+      "key": "csp_米爱",
+      "name": "🐰米爱┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/米爱影视.json"
+    },
+    {
+      "key": "csp_量子",
+      "name": "🔹量子┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/HCCX/量子资源网.json"
+    },
 
 
 
