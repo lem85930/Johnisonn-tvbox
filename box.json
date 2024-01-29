@@ -1,11 +1,11 @@
-	{
+{
   "spider": "./PantyHose/spider/FTY.jar",
   "wallpaper": "./Lingerie/streetlight.jpg",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitlab.com/Johnisonn/tvbox/raw/main/Garter/BOBOLIVE.TXT",
+      "url": "./Garter/BOBOLIVE.TXT",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -25,7 +25,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "【小波丁丁蕤】(GITEE)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
+      "name": "【小波丁丁蕤】(JIHULAB)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
       "api": "csp_DouDou"
     },
     {
@@ -40,8 +40,7 @@
       "name": "🏆优酷┃大厂",
       "type": 3,
       "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "https://gitlab.com/Johnisonn/tvbox/raw/main/PantyHose/lib/ALL/优酷.js"
-      //gitee库显示异常，再换为gitlab
+      "ext": "./PantyHose/lib/TianV/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
@@ -442,8 +441,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitlab.com/Johnisonn/tvbox/raw/main/PantyHose/lib/ALL/bilibili.json"
-      //gitee库显示异常，再换为gitlab
+      "ext": "./PantyHose/lib/TianV/bilibili.json"
     },
     {
       "key": "戏曲杂苑",
@@ -1148,3 +1146,4 @@
 
 
 }
+
