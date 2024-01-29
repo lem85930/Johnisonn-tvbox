@@ -32,6 +32,56 @@
 /////////////////////////视频采集站/////////////////////
 //////////////////////////////////////////////////////
 
+
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "🥝爱奇艺┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "🏆优酷┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/ALL/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🐧腾讯┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "🥭芒果┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "🕒360┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/DaoZhang/360影视.js"
+    },
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "🥔豆瓣┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/frame/drpy.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "🐕搜狗┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/XinMo/菜狗.js"
+    },
 //////////////////////////////////////////////////////
 //////////////////////////搜索///////////////////////// 
 //////////////////////////////////////////////////////
