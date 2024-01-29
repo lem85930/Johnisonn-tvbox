@@ -364,7 +364,18 @@
       "api": "csp_Libvio",
       "ext": "https://www.libvio.pro/"
     },    
-        
+    {
+      "key": "drpy_js_爱看机器人",
+      "name": "🤖机器人┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/DaoZhang/ikanbot2.js"
+    },
+
+
+
+
+
     
     {
         "key": "drpy_js_碟调影视",
