@@ -135,6 +135,13 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/XinMo/视中心影视.js"
     },
+    {
+      "key": "畅梦",
+      "name": "💋畅梦┃快线",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/changmeng.js"
+    },
 
 
 
