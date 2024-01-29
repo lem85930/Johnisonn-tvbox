@@ -142,6 +142,34 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/TianV/changmeng.js"
     },
+    {
+      "key": "4KHDR",
+	      "name": "✡️HDR┃快线",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/TianV/4khdr.js"
+    },
+    {
+      "key": "drpy_js_影探",
+      "name": "📹影探┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/Dxawi0/影探v2.js"
+    },    
+    {
+      "key": "csp_土豪",
+      "name": "💰土豪┃快线",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/HCCX/土豪影视.json"
+    },
 
 
 
