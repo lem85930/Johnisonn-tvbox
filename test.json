@@ -2,6 +2,23 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
     {
+      "key": "央视频",
+      "name": "央视频┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+                "主页url":"https://www.yangshipin.cn/#/tv/home",
+                "分类url":"https://www.yangshipin.cn/#/tv/home?pid={cateId}",
+                "分类":"CCTV4K$600002264#CCTV1$600001859#CCTV2$600001800#CCTV3$600001801",
+                "数组":"class=\"comH-item-a-cover\"&&class=\"comH-item-a-t1 overflow-1\"",
+                "图片":"src=\"&&\"",
+                "标题":"title=\"&&\"",
+                "链接":"'https://www.yangshipin.cn/#/video/home?vid='+src=*videoPic/&&/2014*"
+
+                
+    },
+
+    {
       "key": "BDG",
       "name": "BDG┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
