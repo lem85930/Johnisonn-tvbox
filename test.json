@@ -1,6 +1,7 @@
 {
   "spider": "./PantyHose/spider/HCCX.jar",
-  "sites": [
+  "sites": 
+  [
     {
       "key": "央视频",
       "name": "央视频┃TEST",
@@ -9,15 +10,28 @@
       "ext": {
                 "主页url":"https://www.yangshipin.cn/#/tv/home",
                 "分类url":"https://www.yangshipin.cn/#/tv/home?pid={cateId}",
-                "分类":"CCTV4K$600002264#CCTV1$600001859#CCTV2$600001800#CCTV3$600001801",
+                "分类":"CCTV4K$600002264#CCTV1$600001859#CCTV2$600001800#CCTV3$600001801"
                 "数组":"class=\"comH-item-a-cover\"&&class=\"comH-item-a-t1 overflow-1\"",
                 "图片":"src=\"&&\"",
                 "标题":"title=\"&&\""
-                //"链接":"'https://www.yangshipin.cn/#/video/home?vid='+src=*videoPic/&&/2014*"
-
-                
+                "链接":"'https://www.yangshipin.cn/#/video/home?vid='+src=*videoPic/&&/2014*"
+              } 
     },
-
+    {
+      "key": "CCTV",
+      "name": "CCTV┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": {
+                "主页url":"https://tv.cctv.com/live",
+                "分类url":"https://tv.cctv.com/live/{cateId}.html",
+                "分类":"CCTV1$cctv1#CCTV2$cctv2#CCTV3$cctv3",
+                "数组":"<dt>&&</dt>",
+                "图片":"data-spm-anchor-id=\"&&\"",
+                "标题":"data-spm-anchor-id=\"*\">&&</a>",
+                "链接":"href=\"&&\""
+              }
+    },
     {
       "key": "BDG",
       "name": "BDG┃TEST",
@@ -35,43 +49,20 @@
                 "主页url":"https://bondagevalley.cc",
                 "分类url":"https://bondagevalley.cc/videos/category/{cateId}?page_id={catePg}",
                 "分类":"Cafe$849#Metal$852#Chastity$871#Restricted$855#Tieable$850#TiedinHeels$866#Brenda'sBound$908#TucsonTied$853",
-
-
                 "数组":"class=\"video-list-image\"&&class=\"play_hover_btn\"",
                 "图片":"src=\"&&\"",
                 "标题":"alt=\"&&\"",
                 "链接":"href=\"&&\"",
                 //"链接":"https://bondagevalley.cc/watch/sage-vs-her-hanging-isolation_0af0ab01eb08c7d87eedab1e4e655f74.html",
-
-
                 //"播放数组": "class=\"video-player pt_video_player \"&&</video>",
-                
-
-
                 "搜索模式":"1",
                 "搜索url": "https://bondagevalley.cc/search?keyword={wd}",
                 "搜索数组": "class=\"video-thumb\"&&class=\"play_hover_btn\"",
                 "搜索图片": "src=\"&&\"",
                 "搜索标题": "alt=\"&&\"",
                 "搜索链接": "href=\"&&\""
-
               }
     
-    },
-    {
-      "key": "CCTV",
-      "name": "CCTV┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-                "主页url":"https://tv.cctv.com/live",
-                "分类url":"https://tv.cctv.com/live/{cateId}.html",
-                "分类":"CCTV1$cctv1#CCTV2$cctv2#CCTV3$cctv3",
-                "数组":"<dt>&&</dt>",
-                "图片":"data-spm-anchor-id=\"&&\"",
-                "标题":"data-spm-anchor-id=\"*\">&&</a>",
-                "链接":"href=\"&&\""
-            }
     },
     {
       "key": "看剧吧",
@@ -80,7 +71,6 @@
       "api": "csp_XBPQ",
       "ext": {
                 "主页url":"https://kanjuda.com/",
-                
                 "分类url":"https://kanjuda.com/cat/?{cateId}.html",
                 "分类":"电影$1#电视剧$2#综艺$3#纪录片$11#喜剧片$10",
                 "数组":"class=\"myui-vodlist__thumb\"&&class=\"lazyload\"",
@@ -90,9 +80,9 @@
                 "搜索模式":"1",
                 "搜索url": "https://kanjuda.com/search.php?searchword={wd}",
                 "搜索数组": "class=\"thumb\">&&class=\"play hidden-xs\"",
-				"搜索图片": "data-original=\"&&\"",
-				"搜索标题": "title=\"&&\"",
-				"搜索链接": "href=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
                 "线路数组":"class=\"nav nav-tabs active\"&&</ul>",
                 "播放数组":"class=\"col-md-8 col-sm-6 col-xs-4\"&&</li>"
             }
