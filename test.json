@@ -27,8 +27,8 @@
                 "分类url":"https://tv.cctv.com/live/{cateId}/",
                 "分类":"CCTV1$cctv1#CCTV2$cctv2#CCTV3$cctv3",
                 "数组":"<dt>&&</dt>",
-                "图片":"data-spm-anchor-id=\"&&\"",
-                "标题":"data-spm-anchor-id=\"*\">&&</a>",
+                //"图片":"data-spm-anchor-id=\"&&\"",
+                "标题":"\">&&</a></dt>",
                 "链接":"href=\"&&\""
               }
     },
