@@ -8,7 +8,7 @@
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": {
-                "主页url":"https://www.yangshipin.cn/#/tv/home/",
+                //"主页url":"https://www.yangshipin.cn/#/tv/home/",
                 "分类url":"https://www.yangshipin.cn/#/tv/home?pid={cateId}",
                 "分类":"CCTV4K$600002264#CCTV1$600001859#CCTV2$600001800#CCTV3$600001801",
                 "数组":"class=\"logo_left\"&&class=\"logo_right\"",
