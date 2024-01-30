@@ -24,7 +24,7 @@
       "api": "csp_XBPQ",
       "ext": {
                 "主页url":"https://tv.cctv.com/live",
-                "分类url":"https://tv.cctv.com/live/{cateId}.html",
+                "分类url":"https://tv.cctv.com/live/{cateId}",
                 "分类":"CCTV1$cctv1#CCTV2$cctv2#CCTV3$cctv3",
                 "数组":"<dt>&&</dt>",
                 "图片":"data-spm-anchor-id=\"&&\"",
