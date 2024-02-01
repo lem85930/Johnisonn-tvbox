@@ -45,10 +45,10 @@
                 "数组":"role-pop thumb-image-container\"&&class=\"thumb-image-container__sprite\"",
                 "图片":"src=\"&&\"",
                 "标题":"alt=\"&&\"",
-                "链接":"href=\"&&\""
+                "链接":"href=\"&&\"",
 
-                //"直接播放":"1",
-                //"嗅探词":"webm",
+                "直接播放":"1",
+                "嗅探词":"webm#mp4#m3u8"
                 //"搜索模式":"1",
                 //"搜索url": "https://bondagevalley.cc/search?keyword={wd}",
                 //"搜索数组": "class=\"video-thumb\"&&class=\"play_hover_btn\"",
