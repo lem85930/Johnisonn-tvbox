@@ -3,16 +3,16 @@
   "wallpaper": "./Lingerie/streetlight.jpg",
   "lives": [
     {
-      "name": "live",
+      "name": "BOBO_live",
       "type": 0,
-      "url": "https://gitlab.com/Johnisonn/tvbox/raw/main/Garter/BOBOLIVE.TXT",
+      "url": "https://jihulab.com/Johnisonn/tvbox/raw/main/Garter/BOBOLIVE.TXT",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "ipv6",
+      "name": "FMM_ipv6",
       "type": 0,
       "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
