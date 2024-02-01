@@ -5,7 +5,7 @@
     {
       "name": "BOBO_live",
       "type": 0,
-      "url": "https://jihulab.com/Johnisonn/tvbox/raw/main/Garter/BOBOLIVE.TXT",
+      "url": "./Garter/BOBOLIVE.TXT",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
