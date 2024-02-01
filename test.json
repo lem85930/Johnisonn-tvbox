@@ -63,7 +63,8 @@
                 "搜索数组": "class=\"video-thumb\"&&class=\"play_hover_btn\"",
                 "搜索图片": "src=\"&&\"",
                 "搜索标题": "alt=\"&&\"",
-                "搜索链接": "href=\"&&\""
+                "搜索链接": "href=\"&&\"",
+                "简介": "itemprop=\"description\">&&</p>"
               }
     
     },
