@@ -21,7 +21,7 @@
                 "搜索模式":"1",
                 "搜索url": "https://www.gntv.top/index.php/vod/search.html?wd={wd}",
                 "搜索数组": "class=\"public-list-exp\"&&class=\"public-play",
-                "搜索图片": "src=\"&&\"",
+                "搜索图片": "data-src=\"&&\"",
                 "搜索标题": "title=\"&&\"",
                 "搜索链接": "href=\"&&\"",
 
