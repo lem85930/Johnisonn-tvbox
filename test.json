@@ -12,7 +12,7 @@
                 "分类url":"https://www.gntv.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类":"动作$6#喜剧$7#爱情$10#剧情$11#犯罪$26#悬疑$27#纪录片$20#动画电影$21",
                 "数组":"class=\"public-list-exp\"&&class=\"public-play",
-                "图片":"src=\"&&\"",
+                "图片":"data-src=\"&&\"",
                 "标题":"title=\"&&\"",
                 "链接":"href=\"&&\"",
 
