@@ -991,13 +991,13 @@
     },
 
 
-/////////////////////////////////////////////////////////////
+/////////////////////////自选//////////////////////////////
     {
       "key": "光年影视",
       "name": "GNTV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 //"分类url":"https://www.gntv.top/index.php/vod/show/area/{area}/id/{class}/year/{year}.html",
                 "分类url":"https://www.gntv.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
@@ -1029,7 +1029,7 @@
       "name": "央视频┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 //"主页url":"https://www.yangshipin.cn/#/tv/home/",
                 //"分类url":"https://www.yangshipin.cn/#/tv/home?pid={cateId}",
@@ -1046,7 +1046,7 @@
       "name": "CCTV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 "主页url":"https://tv.cctv.com/live/",
                 "分类url":"https://tv.cctv.com/live/{cateId}/",
@@ -1063,7 +1063,7 @@
       "name": "Hamster┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 //"分类url":"https://zh.megaxh.com/categories/{cateId}/{catePg}",
                 "分类url":"https://zh.xhtotal.com/categories/{cateId}/{catePg}",
@@ -1089,7 +1089,7 @@
       "name": "villa┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
                 "分类":"bondage$bondage#chinese$chinese-bdsm",
@@ -1108,7 +1108,7 @@
       "name": "freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 "主页url":"https://freebdsmxxx.org/",
                 "分类url":"https://freebdsmxxx.org/tags/{cateId}/page/{catePg}/",
@@ -1136,7 +1136,7 @@
       "name": "Valley┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 "分类url":"https://bondagevalley.cc/videos/category/{cateId}?page_id={catePg}",
                 "分类":"Cafe$849#Metal$852#Chastity$871#Restricted$855#Tieable$850#TiedinHeels$866#Brenda$908#TucsonTied$853#BondageJunkies$861#Shiny$869#Rubens$856#House$870#Hucows$858#Office$862#FetishPros$864#RestrictedSenses$855#CharlotteFetish$873#CinchedandSecured$889#BoundLife$867#AsianaStarr$902#Bedroom$895#Hardtied$898#DreaMorgan$900#Hunter'sLair$912#B2B$896#TiedGirls$860#FutileStruggles$877#BondageGlam$857#SereneIsley$883#MILFGiGi$905#DP$909#JBRoper$904#JWV$891#UniqueRope$903#HardBoundGirls$914#IvanBoulder$916#CuffedTeens$899",
@@ -1163,7 +1163,7 @@
       "name": "看剧┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "spider": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
                 "主页url":"https://kanjuda.com/",
                 "分类url":"https://kanjuda.com/cat/?{cateId}.html",
