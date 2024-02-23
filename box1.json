@@ -697,3 +697,34 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/量子资源网.json"
     },
+    {
+      "key": "drpy_js_短剧网",
+      "name": "🗡短剧┃快线",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/短剧网.js"
+    },
+    {
+      "key": "dr_迷迷剧",
+      "name": "😱迷迷剧┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/mimiju.js" 
+    },
+    {
+      "key": "csp_聚短视频",
+      "name": "📽️聚短┃快线",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/短视频.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "酷奇js",
+	      "name": "⚛️酷奇┃MV",
+      "type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/酷奇MV.js"
+    },
