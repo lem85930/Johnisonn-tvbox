@@ -468,3 +468,37 @@
       "api": "csp_Auete",
       "ext": "https://haozhansou.com/"
     },
+    {
+      "key": "一起看 ",
+      "name": "🍿一起看┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_YQKan"
+    },
+    {
+      "key": "Lib",
+      "name": "🎥利播┃站点",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Libvio",
+      "ext": "https://www.libvio.pro/"
+    },    
+    {
+      "key": "drpy_js_爱看机器人",
+      "name": "🤖机器人┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/ikanbot2.js"
+    },
+    {
+      "key": "贱贱",
+      "name": "🤨荐片┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/jp.js"
+    },
+    {
+        "key": "drpy_js_看了么",
+        "name": "👁看吗┃站点",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/看了么.js"
+    },
