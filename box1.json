@@ -204,3 +204,21 @@
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
     },
+    {
+      "key": "茶杯",
+      "name": "🦊茶杯狐┃快线",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar":"./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/茶杯狐.json"
+    },
+    {
+      "key": "csp_黑狐",
+      "name": "🦂黑狐┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/黑狐影视.json"
+    },
