@@ -2,13 +2,11 @@
 "urls":
 [
 
-{"name":"小波EE旧","url":"https://gitee.com/johnisonn/PantyHose/raw/main/Johnisonn.json"},
-//{"name":"小TEST波","url":"https://jihulab.com/Johnisonn/tvbox/raw/main/test.json"},
-{"name":"小JIHULAB波","url":"https://jihulab.com/Johnisonn/tvbox/raw/main/box.json"},
-{"name":"小GITEE波","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
-{"name":"小GITLAB波","url":"https://gitlab.com/Johnisonn/tvbox/raw/main/box.json"},
-{"name":"小GITCODE波","url":"https://raw.gitcode.com/Johnisonn/tvbox/raw/main/box.json"},
-{"name":"小CODEBERG波","url":"https://codeberg.org/Johnison/tvbox/raw/main/box.json"},
+{"name":"小波【JIHULAB】","url":"https://jihulab.com/Johnisonn/tvbox/raw/main/box.json"},
+{"name":"小波【GITEE】","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
+{"name":"小波【GITLAB】","url":"https://gitlab.com/Johnisonn/tvbox/raw/main/box.json"},
+{"name":"小波【GITCODE】","url":"https://raw.gitcode.com/Johnisonn/tvbox/raw/main/box.json"},
+{"name":"小波【CODEBERG】","url":"https://codeberg.org/Johnison/tvbox/raw/main/box.json"},
 
 
 {"name":"饭太硬","url":"http://饭太硬.top/tv"},
