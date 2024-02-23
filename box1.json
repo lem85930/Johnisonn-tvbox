@@ -189,25 +189,4 @@
         "api": "./PantyHose/frame/drpy2.min.js",
         "ext": "./PantyHose/lib/好趣网.js"
     },
-    {
-        "key": "全集网",
-        "name": "👙全集┃站点",
-        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "jar":"./PantyHose/spider/JunYu.jar",
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/全集网.json"
-    },
-    {
-      "key": "cctv",
-      "name": "📺央视｜快线",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/央视大全.json"
-    },
-
-
-
 
