@@ -396,3 +396,19 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/超前B站.json"
     },
+    {
+        "key":"csp_77",
+	        "name":"7️⃣七七┃App","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api":"csp_Kunyu77"
+    },
+    {
+        "key":"csp_WoGG",
+        "name": "🐨哥哥┃4K",
+        "type": 3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api": "csp_WoGG"
+    },
+    {
+      "key": "YGP",
+      "name": "🚀叨观┃App","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
+      "api": "csp_YGP"
+    },
