@@ -222,3 +222,23 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/黑狐影视.json"
     },
+    {
+      "key": "csp_Free",
+      "name": "🎖FreeOK┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/Free影视.json"
+    },
+    {
+      "key": "csp_农民",
+      "name": "🌠农民┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/农民影视.json"
+    },
