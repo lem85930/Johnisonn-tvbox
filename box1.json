@@ -980,3 +980,198 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
     },
+
+    {
+      "key": "光年影视",
+      "name": "GNTV┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                //"分类url":"https://www.gntv.top/index.php/vod/show/area/{area}/id/{class}/year/{year}.html",
+                "分类url":"https://www.gntv.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类":"动作$6#喜剧$7#爱情$10#剧情$11#犯罪$26#悬疑$27#纪录片$20#动画电影$21",
+                "数组":"class=\"public-list-exp\"&&class=\"public-play",
+                "图片":"data-src=\"&&\"",
+                "标题":"title=\"&&\"",
+                "链接":"href=\"&&\"",
+
+                //"直接播放":"1",
+                //"嗅探词":"webm",
+                "搜索模式":"1",
+                "搜索url": "https://www.gntv.top/index.php/vod/search.html?wd={wd}",
+                "搜索数组": "class=\"public-list-exp\"&&class=\"public-play",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+
+                "线路数组":"class=\"swiper-wrapper\"&&</div>",
+                "线路标题":"data-form=\"&&\" class=\"vod-playerUrl"
+
+
+                //"简介": "itemprop=\"description\">&&</p>"
+              }
+    
+    },
+    {
+      "key": "央视频",
+      "name": "央视频┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                //"主页url":"https://www.yangshipin.cn/#/tv/home/",
+                //"分类url":"https://www.yangshipin.cn/#/tv/home?pid={cateId}",
+                //"分类":"CCTV4K$600002264#CCTV1$600001859#CCTV2$600001800#CCTv3$600001801",
+                "直接播放":"1",
+                "数组":"class=\"logo_left\"&&class=\"logo_right\"",
+                "图片":"src=\"&&\""
+                //"标题":"title=\"&&\"",
+                //"链接":"'https://www.yangshipin.cn/#/video/home?vid='+src=*videoPic/&&/2014*"
+              } 
+    },
+    {
+      "key": "CCTV",
+      "name": "CCTV┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                "主页url":"https://tv.cctv.com/live/",
+                "分类url":"https://tv.cctv.com/live/{cateId}/",
+                "直接播放":"1",
+                "分类":"CCTV1$cctv1#CCTV2$cctv2#CCTV3$cctv3",
+                "数组":"<div class=\"image\">&&</li>",
+                "图片":"src=\"&&\"",
+                "标题":"class=\"title\">*target=\"_blank\">&&</a>",
+                "链接":"href=\"&&\""
+              }
+    },
+    {
+      "key": "hamster",
+      "name": "Hamster┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                //"分类url":"https://zh.megaxh.com/categories/{cateId}/{catePg}",
+                "分类url":"https://zh.xhtotal.com/categories/{cateId}/{catePg}",
+                "分类":"predicament$predicament-bondage#lezdom$lezdom#bdsm$bdsm#mouth$mouth-fetish#fetish$fetish#suspension$suspension-bondage#punishment$punishment#tied-up$tied-up#domination$domination#shibari$shibari#bondage$bondage#femdom$femdom#hogtied$hogtied#sybian$sybian#ball-gagged$ball-gagged#blindfolded$blindfolded#thong$thong#stockings$stockings#lingerie$lingerie#panties$panties#nylon$nylon#bra$bra#spandex$spandex#pantyhose$pantyhose#high-heels$high-heels#skirt$skirt#police$police#upskirt$upskirt#asian$asian#kinky$kinky",
+                "数组":"role-pop thumb-image-container\"&&class=\"thumb-image-container__sprite\"",
+                "图片":"src=\"&&\"",
+                "标题":"alt=\"&&\"",
+                "链接":"href=\"&&\"",
+
+                //"直接播放":"1",
+                "嗅探词":"webm#mp4#m3u8"
+                //"搜索模式":"1",
+                //"搜索url": "https://bondagevalley.cc/search?keyword={wd}",
+                //"搜索数组": "class=\"video-thumb\"&&class=\"play_hover_btn\"",
+                //"搜索图片": "src=\"&&\"",
+                //"搜索标题": "alt=\"&&\"",
+                //"搜索链接": "href=\"&&\""
+              }
+    
+    },
+    {
+      "key": "villa",
+      "name": "villa┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
+                "分类":"bondage$bondage#chinese$chinese-bdsm",
+
+                "数组":"class=\"card-img-top vidthumb\"&&class=\"likedcalc d-inline-block\"",
+                "图片":"src=\"&&\"",
+                "标题":"class=\"card-title titlesize\">&&</h6>",
+                "链接":"href=\"&&\""
+
+                //"直接播放":"1"
+                //"嗅探词":"webm#mp4#m3u8"
+              }
+    },
+    {
+      "key": "freesm",
+      "name": "freebd┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                "主页url":"https://freebdsmxxx.org/",
+                "分类url":"https://freebdsmxxx.org/tags/{cateId}/page/{catePg}/",
+                "分类":"NippleClamps$Nipple+Clamps#Nosebondage$Nosebondage#Metal$Metal+Bondage#asian$asian-bdsm#ElectricPlay$Electric+Play#Hogtie$Hogtie#Gags$Gags#HighHeels$High+Heels#Predicament$Predicament#NippleTorture$Nipple+torture#Bound$Bound",
+
+                "数组":"class=\"shortstory\">&&class=\"quality\"",
+                "图片":"src=\"&&\"",
+                "标题":"title=\"&&\"",
+                "链接":"href=\"&&\"",
+
+                "直接播放":"1"
+                //"嗅探词":"webm#mp4#m3u8"
+              }
+    },
+    {
+      "key": "BBV",
+      "name": "BBV┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar":"./PantyHose/spider/JunYu.jar",
+      "ext": "./PantyHose/lib/bondage.json"
+    },
+    {
+      "key": "bdgvl",
+      "name": "Valley┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                "分类url":"https://bondagevalley.cc/videos/category/{cateId}?page_id={catePg}",
+                "分类":"Cafe$849#Metal$852#Chastity$871#Restricted$855#Tieable$850#TiedinHeels$866#Brenda$908#TucsonTied$853#BondageJunkies$861#Shiny$869#Rubens$856#House$870#Hucows$858#Office$862#FetishPros$864#RestrictedSenses$855#CharlotteFetish$873#CinchedandSecured$889#BoundLife$867#AsianaStarr$902#Bedroom$895#Hardtied$898#DreaMorgan$900#Hunter'sLair$912#B2B$896#TiedGirls$860#FutileStruggles$877#BondageGlam$857#SereneIsley$883#MILFGiGi$905#DP$909#JBRoper$904#JWV$891#UniqueRope$903#HardBoundGirls$914#IvanBoulder$916#CuffedTeens$899",
+                //"数组":"class=\"video-list-image\"&&class=\"play_hover_btn\"",
+                    //it's the homepage array above!
+                "数组":"class=\"video-thumb\"&&class=\"play_hover_btn\"",
+                "图片":"src=\"&&\"",
+                "标题":"alt=\"&&\"",
+                "链接":"href=\"&&\"",
+                "直接播放":"1",
+                "嗅探词":"webm",
+                "搜索模式":"1",
+                "搜索url": "https://bondagevalley.cc/search?keyword={wd}",
+                "搜索数组": "class=\"video-thumb\"&&class=\"play_hover_btn\"",
+                "搜索图片": "src=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "简介": "itemprop=\"description\">&&</p>"
+              }
+    
+    },
+    {
+      "key": "看剧吧",
+      "name": "看剧┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
+                "主页url":"https://kanjuda.com/",
+                "分类url":"https://kanjuda.com/cat/?{cateId}.html",
+                "分类":"电影$1#电视剧$2#综艺$3#纪录片$11#喜剧片$10",
+                "数组":"class=\"myui-vodlist__thumb\"&&class=\"lazyload\"",
+                "图片":"src=\"&&\"",
+                "标题":"title=\"&&\"",
+                "链接":"href=\"&&\"",
+                "搜索模式":"1",
+                "搜索url": "https://kanjuda.com/search.php?searchword={wd}",
+                "搜索数组": "class=\"thumb\">&&class=\"play hidden-xs\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "线路数组":"class=\"nav nav-tabs active\"&&</ul>",
+                "播放数组":"class=\"col-md-8 col-sm-6 col-xs-4\"&&</li>"
+            }
+    }
+
+
+
+  ],
