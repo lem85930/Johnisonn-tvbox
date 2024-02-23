@@ -442,3 +442,29 @@
       "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,
       "api": "csp_SP33"
     },
+    {
+      "key": "毛驴影视",
+      "name": "🐴毛驴┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_MLYS",
+      "ext": "https://www.maolvys.com/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🌐比特┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Bttwoo"
+    },
+    {
+      "key": "77",
+      "name": "🍏苹果┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Kunyu77"
+    },
+    {
+      "key": "Auete",
+      "name": "🦌奥特┃站点",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Auete",
+      "ext": "https://haozhansou.com/"
+    },
