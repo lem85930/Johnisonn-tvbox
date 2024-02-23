@@ -502,3 +502,17 @@
         "api": "./PantyHose/frame/drpy2.min.js",
         "ext": "./PantyHose/lib/看了么.js"
     },
+    {
+      "key": "Czsapp",
+      "name": " 🏭厂长┃站点",
+      "type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Czsapp",
+      "ext": "https://www.czzy55.com/"
+    },
+    {
+      "key": "zxzj",
+      "name": "📶在线┃快线",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Zxzj",
+      "ext": "https://www.zxzj.pro/"
+    },
