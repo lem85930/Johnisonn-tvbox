@@ -184,15 +184,5 @@
 
 
 
-    {
-      "key": "cctv",
-      "name": "📺央视｜快线",
-      "type": 3,
-      "api": "csp_CCTV",
-      "searchable": 0,
-      "filterable": 0,
-      "jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/央视大全.json"
-    },
 
 
