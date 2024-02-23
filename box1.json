@@ -540,3 +540,48 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/影探v2.js"
     },    
+    {
+      "key": "csp_玖摇",
+      "name": "🐥玖摇┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/91影视.json"
+    },
+    {
+      "key": "csp_不卡",
+      "name": "🐔不卡┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/真不卡影视.json"
+    },
+    {
+      "key": "csp_午舞",
+      "name": "🐤午舞┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/五五影视.json"
+    },
+    {
+        "key": "drpy_js_碟调影视",
+        "name": "📀碟调┃站点",
+        "type": 3,
+        "api": "./PantyHose/frame/drpy2.min.js",
+        "ext": "./PantyHose/lib/碟调影视.js"
+    },
+    {
+      "key": "drpy_js_视中影视",
+      "name": "👓视中┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/视中心影视.js"
+    },
+  
