@@ -516,3 +516,27 @@
       "api": "csp_Zxzj",
       "ext": "https://www.zxzj.pro/"
     },
+    {
+      "key": "畅梦",
+      "name": "💋畅梦┃快线",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/changmeng.js"
+    },
+    {
+      "key": "4KHDR",
+	      "name": "✡️HDR┃快线",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/4khdr.js"
+    },
+    {
+      "key": "drpy_js_影探",
+      "name": "📹影探┃站点",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/影探v2.js"
+    },    
