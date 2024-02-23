@@ -412,3 +412,33 @@
       "name": "🚀叨观┃App","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
       "api": "csp_YGP"
     },
+    {
+      "key": "新6V",
+      "name": "🗼新6V┃快线",
+      "searchable": 1,"quickSearch": 1,"changeable": 0,"type": 3,
+      "api": "csp_SixV",
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "csp_beijihu",
+      "name": "🦊MXone┃快线",
+      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_AppYsV2",
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+    {
+      "key": "DiDuan",
+      "name": "👒低端┃App","type": 3,"playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_Ddrk"
+    },
+    {
+      "key": "蚂蚁","name": "😣忍者┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_MYYS",
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "csp_SP33",
+      "name": "☘三三┃App",
+      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,
+      "api": "csp_SP33"
+    },
