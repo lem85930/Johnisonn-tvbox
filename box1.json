@@ -242,3 +242,20 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/农民影视.json"
     },
+    {
+      "key":"csp_Xinsj2",
+      "name":"✨视觉1┃站点",
+      "type":3,"searchable":1,"quickSearch":1,"filterable":1,
+      "api":"csp_Xinsj",
+      "ext":"https://www.6080yy3.com/"
+    },
+    {
+      "key": "csp_xBPQ_视觉",
+      "name": "🌺视觉2┃追剧",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./PantyHose/lib/新视觉影视.json"
+    },
