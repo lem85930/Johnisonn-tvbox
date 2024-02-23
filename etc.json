@@ -1,0 +1,19 @@
+{
+  "spider": "./PantyHose/spider/FTY.jar",
+  
+  "sites": [
+
+    {
+      "key": "drpy_js_量子资源",
+      "name": "🛒量子[js]┃采集",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/量子资源.js"
+    },
+
+
+
+
+
+    
+  ]
