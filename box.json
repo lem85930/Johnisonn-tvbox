@@ -104,7 +104,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "【小波丁丁蕤】(JIHULAB)","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
+      "name": "【小波丁丁蕤】","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
       "api": "csp_DouDou"
     },
 /////////////////////////////////////////////////////////
@@ -272,13 +272,6 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "jar": "./PantyHose/spider/PG.jar",
       "ext": "./PantyHose/lib/酷6网.js"
-    },
-    {
-      "key": "csp_beijihu",
-      "name": "🦊MXone┃快线",
-      "type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_AppYsV2",
-      "ext": "https://www.kuin.one/api.php/app/"
     },
     {
       "key": "茶杯",
