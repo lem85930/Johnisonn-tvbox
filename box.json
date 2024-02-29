@@ -292,16 +292,6 @@
       "ext": "./PantyHose/lib/黑狐影视.json"
     },
     {
-      "key": "csp_555",
-      "name": "🥜555┃快线",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/555豌豆.json"
-    },
-    {
       "key": "南瓜",
       "name": "🎃南瓜┃App",
       "type": 3,
@@ -944,7 +934,10 @@
       "name": "🔎七夜┃搜索",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
       "api": "csp_Dovx",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./PantyHose/frame/token.txt"
+
+      
     },
     {
       "key": "YiSo",
@@ -954,7 +947,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -964,7 +958,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
+      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
+      "ext": "./PantyHose/frame/token.txt"
     },
     {
       "key": "PanSou",
@@ -974,7 +969,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
     },
     {
       "key": "UpYun",
@@ -984,7 +980,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
     },
     {
       "key": "PanSearch",
@@ -994,7 +991,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
     },
     {
       "key": "光年影视",
