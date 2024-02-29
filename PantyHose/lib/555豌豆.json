@@ -10,7 +10,7 @@
                 "链接":"href=\"&&\"",
 
                 "搜索模式": "1",
- 				"搜索url":"https://5look.site/vodsearch/-------------.html?wd={wd}",
+                "搜索url":"https://5look.site/vodsearch/-------------.html?wd={wd}",
 
                 "搜索数组":"class=\"module-card-item-class\"&&class=\"module-card-item-info\"",
                 "搜索图片":"scr=\"&&\"",
