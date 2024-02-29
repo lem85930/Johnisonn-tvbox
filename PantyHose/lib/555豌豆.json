@@ -9,6 +9,11 @@
                 "标题":"title=\"&&\"",
                 "链接":"href=\"&&\"",
 
+                "跳转二次截取": "",
+                "跳转数组": "class=\"module-info-play\"&&class=\"icon-play\"",
+                "跳转链接": "href=\"&&\"",
+
+
                 "搜索模式": "1",
                 "搜索url":"https://5look.site/vodsearch/-------------.html?wd={wd}",
 
