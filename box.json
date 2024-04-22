@@ -320,20 +320,10 @@
       "ext": "./PantyHose/lib/4khdr.js"
     },
     {
-        "key":"csp_77",
-	        "name":"7️⃣七七┃App","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-        "api":"csp_Kunyu77"
-    },
-    {
         "key":"csp_WoGG",
         "name": "🐨哥哥┃4K",
         "type": 3,"searchable":1,"quickSearch":1,"filterable":1,
         "api": "csp_WoGG"
-    },
-    {
-      "key": "YGP",
-      "name": "🚀叨观┃App","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_YGP"
     },
     {
       "key": "DiDuan",
@@ -352,24 +342,6 @@
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_MLYS",
       "ext": "https://www.maolvys.com/"
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "🌐比特┃App",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_Bttwoo"
-    },
-    {
-      "key": "77",
-      "name": "🍏苹果┃App",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_Kunyu77"
-    },
-    {
-      "key": "一起看 ",
-      "name": "🍿一起看┃App",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_YQKan"
     },
     {
       "key": "Lib",
@@ -402,16 +374,6 @@
         "jar":"./PantyHose/spider/JunYu.jar",
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
-    },
-    {
-      "key": "csp_Free",
-      "name": "🎖FreeOK┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/Free影视.json"
     },
     {
       "key":"csp_Xinsj2",
@@ -503,18 +465,11 @@
       "ext": "./PantyHose/lib/jp.js"
     },
     {
-        "key": "drpy_js_看了么",
-        "name": "👁看吗┃站点",
-        "type": 3,
-        "api": "./PantyHose/frame/drpy2.min.js",
-        "ext": "./PantyHose/lib/看了么.js"
-    },
-    {
       "key": "Czsapp",
       "name": " 🏭厂长┃站点",
       "type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_Czsapp",
-      "ext": "https://www.czzy55.com/"
+      "ext": "https://www.cz233.com"
     },
     {
       "key": "drpy_js_影探",
@@ -532,16 +487,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./PantyHose/lib/91影视.json"
-    },
-    {
-      "key": "csp_不卡",
-      "name": "🐔不卡┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/真不卡影视.json"
     },
     {
       "key": "csp_午舞",
