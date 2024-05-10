@@ -235,22 +235,6 @@
       "ext": "./PantyHose/lib/奈飞狗[V2].js"
     },
     {
-      "key": "drpy_js_咕噜[V2]",
-      "name": "⚽咕噜┃快线",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "jar": "./PantyHose/spider/PG.jar",
-      "ext": "./PantyHose/lib/咕噜[V2].js"
-    },
-    {
-      "key": "drpy_js_曲奇影视[V2]",
-      "name": "🍪曲奇┃快线",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "jar": "./PantyHose/spider/PG.jar",
-      "ext": "./PantyHose/lib/曲奇影视[V2].js"
-    },
-    {
       "key": "drpy_js_思古影视[V2]",
       "name": "💗思古┃快线",
       "type": 3,
@@ -394,14 +378,6 @@
       "ext": "./PantyHose/lib/新视觉影视.json"
     },
     {
-        "key": "天堂",
-        "name": "🎡天堂┃快线",
-        "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "jar":"./PantyHose/spider/JunYu.jar",
-        "ext": "./PantyHose/lib/电影天堂.json"
-    },
-    {
       "key": "csp_xBPQ_玖八",
       "name": "🎐玖八┃追剧",
       "type": 3,
@@ -470,7 +446,7 @@
       "name": " 🏭厂长┃站点",
       "type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_Czsapp",
-      "ext": "https://www.cz233.com"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "drpy_js_影探",
@@ -479,16 +455,6 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/影探v2.js"
     },    
-    {
-      "key": "csp_玖摇",
-      "name": "🐥玖摇┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/91影视.json"
-    },
     {
       "key": "csp_午舞",
       "name": "🐤午舞┃追剧",
@@ -507,15 +473,8 @@
         "ext": "./PantyHose/lib/碟调影视.js"
     },
     {
-      "key": "drpy_视中影视",
-      "name": "👓视中┃站点",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/视中心影视.js"
-    },
-    {
       "key": "csp_土豪",
-      "name": "💰土豪┃快线",
+      "name": "💰土豪┃站点",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -526,7 +485,7 @@
     },
     {
       "key": "csp_xBPQ_奇优",
-      "name": "🎗️奇优┃站点",
+      "name": "🎗️奇优┃快线",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -555,16 +514,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./PantyHose/lib/348影视.json"
-    },
-    {
-      "key": "csp_觅知",
-      "name": "🐚觅知┃追剧",
-      "type": 3,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./PantyHose/lib/觅知影视.json"
     },
     {
       "key": "csp_达龟",
@@ -598,7 +547,7 @@
     },
     {
       "key": "csp_米爱",
-      "name": "🐰米爱┃追剧",
+      "name": "🐰米爱┃快线",
       "type": 3,
       "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
       "searchable": 1,
