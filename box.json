@@ -202,6 +202,17 @@
       "api": "csp_SixV",
       "ext": "http://www.xb6v.com/"
     },
+ {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djuu","searchable":1,"quickSearch":1,"changeable":1},
+ {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+ {"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
+ {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+ {"key":"白嫖","name":"👻白飘┃不卡","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.baipiaoys.com:9092/"},
+ {"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+ {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+ 
+ 
+ 
+ 
     {
       "key": "drpy_js_voflix",
       "name": "🦅voflix┃快线",
@@ -599,6 +610,8 @@
       "filterable": 1,
       "ext": "./PantyHose/lib/农民影视.json"
     },
+{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/酷奇MV.js",
+"style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
     {
       "key": "MTV",
       "name": "🎧明星┃MV",
