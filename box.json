@@ -175,7 +175,19 @@
  {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
  
  
- 
+ /////////////////////////////////////////////////////////
+
+{"key":"Wexxpgtv","name":"🍎红富士┃App","type":3,"api":"csp_Wexxpgtv","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"api":"csp_Wexhuaruitv","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexkukantv","name":"😁看呗┃App","type":3,"api":"csp_Wexkukantv","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"WexTiantianys","name":"🌤️明天┃直连","type":3,"api":"csp_WexTiantianys","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Fangniu4k","name":"👎放牛┃App","type":3,"api":"csp_WexFangniu4k","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexxiongdiys","name":"👬基友┃App","type":3,"api":"csp_Wexxiongdiys","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexwencai","name":"🎇文才┃直连","type":3,"api":"csp_Wexwencai","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexshandian","name":"⚡️闪电┃直连","type":3,"api":"csp_Wexshandian","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"mingriyingshi","name":"☀️明日┃App","type":3,"api":"csp_WexMingriys","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"WexShijuedy","name":"👓看看┃直连","type":3,"api":"csp_WexShijuedy","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+
  
 
     {
