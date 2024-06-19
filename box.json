@@ -571,12 +571,17 @@
                 }
     },
 
+{"key":"csp_AliPS","name":"🕣喵狸┃搜索","type":3,"api":"csp_AliPS","jar": "./PantyHose/spider/chuanxin.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+ {"key": "csp_XYQHiker_影搜","name":"🕘影搜┃搜索","type":3,"api":"csp_XYQHiker","jar": "./PantyHose/spider/chuanxin.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://router.bopop.buzz:9999/kxlib/影搜.json"},
+ {"key":"csp_Upyunso","name":"⏱云搜┃搜索","type":3,"api":"csp_Upyunso","jar": "./PantyHose/spider/chuanxin.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
+
     {
       "key": "七夜",
       "name": "🔎七夜┃搜索",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
       "api": "csp_Dovx",
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "./PantyHose/frame/token.txt"
 
       
     },
@@ -588,7 +593,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
+      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
+
     },
     {
       "key": "Zhaozy",
@@ -598,7 +605,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
+      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
+      "ext": "./PantyHose/frame/token.txt"
+
     },
     {
       "key": "PanSou",
@@ -608,8 +617,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
-      //"ext": "./PantyHose/frame/token.txt"
+      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
     },
     {
       "key": "UpYun",
@@ -619,7 +628,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
+      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
+      "ext": "./PantyHose/frame/token.txt"
+      
     },
     {
       "key": "PanSearch",
