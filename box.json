@@ -576,8 +576,7 @@
       "name": "🔎七夜┃搜索",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
       "api": "csp_Dovx",
-      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-      "ext": "./PantyHose/frame/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
 
       
     },
@@ -589,8 +588,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
-      "ext": "./PantyHose/frame/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
     },
     {
       "key": "Zhaozy",
@@ -600,8 +598,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
-      "ext": "./PantyHose/frame/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
     },
     {
       "key": "PanSou",
@@ -611,7 +608,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "9b43217079cc4937a7cf89ea22125e3e+4k┃auto┃fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
       //"ext": "./PantyHose/frame/token.txt"
     },
     {
@@ -622,8 +619,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k┃auto┃fhd"
-      "ext": "./PantyHose/frame/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
     },
     {
       "key": "PanSearch",
@@ -633,8 +629,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "9b43217079cc4937a7cf89ea22125e3e+4k┃auto┃fhd"
-      //"ext": "./PantyHose/frame/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
     },
     {
       "key": "光年影视",
