@@ -575,73 +575,13 @@
  {"key": "csp_XYQHiker_影搜","name":"🕘影搜┃搜索","type":3,"api":"csp_XYQHiker","jar": "./PantyHose/spider/chuanxin.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://router.bopop.buzz:9999/kxlib/影搜.json"},
  {"key":"csp_Upyunso","name":"⏱云搜┃搜索","type":3,"api":"csp_Upyunso","jar": "./PantyHose/spider/chuanxin.jar","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 
-    {
-      "key": "七夜",
-      "name": "🔎七夜┃搜索",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
-      "api": "csp_Dovx",
-      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
-      "ext": "./PantyHose/frame/token.txt"
+{"key":"夸搜","name":"🐌夸搜┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
+{"key":"YiSo","name":"😹易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
+{"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
+{"key":"UpYun","name":"😻Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
+{"key":"PanSearch","name":"🙀盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
 
-      
-    },
-    {
-      "key": "YiSo",
-      "name": "🔎易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
-      "ext": "./PantyHose/frame/token.txt"
 
-    },
-    {
-      "key": "Zhaozy",
-      "name": "🔎找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd$$$fanty$$$qqq111"
-      "ext": "./PantyHose/frame/token.txt"
-
-    },
-    {
-      "key": "PanSou",
-      "name": "🔎盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
-      "ext": "./PantyHose/frame/token.txt"
-    },
-    {
-      "key": "UpYun",
-      "name": "🔎Up搜┃搜索",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      //"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
-      "ext": "./PantyHose/frame/token.txt"
-      
-    },
-    {
-      "key": "PanSearch",
-      "name": "🔎盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k┃auto┃fhd"
-    },
     {
       "key": "光年影视",
       "name": "光年┃TEST",
