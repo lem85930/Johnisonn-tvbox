@@ -3,7 +3,9 @@
   //"wallpaper": "./Lingerie/streetlight.jpg",
   "sites": [
 
-{"key": "csp_New6v","name": "🕐新6","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.xb6v.com"},
+{"key": "csp_New6v","name": "🕐新6","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,
+"jar": "http://router.bopop.buzz:9999/kxlib/md.jar",
+"ext":"https://www.xb6v.com"},
 
 ////////////////////////////////
 
