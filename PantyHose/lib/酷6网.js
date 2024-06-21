@@ -6,7 +6,7 @@ var rule = {
     class_name:'资讯&娱乐&搞笑&少儿&自制节目&影视&音乐&原创&生活&游戏&健康&汽车&时事',
     class_url:'69&70&76&73&71&72&74&75&80&93&81&47&149',
     searchUrl:'',
-    searchable:0,
+    searchable:1,
     quickSearch:0,
     headers:{
         'User-Agent':'MOBILE_UA',
