@@ -3,17 +3,10 @@
   //"wallpaper": "./Lingerie/streetlight.jpg",
   "sites": [
 
-{"key": "csp_New6v","name": "🕐新6","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,
-"jar": "http://router.bopop.buzz:9999/kxlib/md.jar",
-"ext":"https://www.xb6v.com"},
+
 
 ////////////////////////////////
 
-    {
-      "key": "新6V","name": "🗼新6V┃快线","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
-      "api": "csp_SixV",
-      "ext": "http://www.xb6v.com/"
-    },
     {
       "key": "drpy_js_酷6网","name": "♣酷6┃聚合","type": 3,"changeable": 0,
       "api": "./PantyHose/frame/drpy2.min.js",
@@ -25,13 +18,8 @@
         "api":"csp_WexFangniu4k",
         "jar":"./PantyHose/spider/wex.jar"
     },
-    {
-      "key": "萌米","name": "👀萌米┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_AppMao",
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    }, 
 
-    {"key":"萌米","name":"🌙萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"jar": "http://router.bopop.buzz:9999/kxlib/md.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+
     {
         "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "jar":"./PantyHose/spider/JunYu.jar",
