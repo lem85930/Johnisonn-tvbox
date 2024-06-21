@@ -3,6 +3,7 @@
 [
 {"name":"小波【GITEE】","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
 {"name":"小波【GITHUB】","url":"https://ghproxy.net/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
+{"name":"【TEST】","url":"https://gitee.com/johnisonn/tvbox/raw/main/test.json"},
 
 {"name":"★船新★","url":"http://router.bopop.buzz:9999/mdkdb.json"},
 {"name":"★LIU673★","url":"https://raw.kkgithub.com/liu673cn/box/main/m.json"},
