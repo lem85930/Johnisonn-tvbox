@@ -236,9 +236,9 @@
       "ext": "./PantyHose/lib/央视大全.json"
     },
     {
-      "key": "新6V","name": "🗼新6V┃快线","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
-      "api": "csp_SixV",
-      "ext": "http://www.xb6v.com/"
+        "key": "csp_New6v","name": "🕐新6V┃快线","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,
+        "jar": "./PantyHose/spider/chuanxin.jar",
+        "ext": "https://www.xb6v.com"
     },
     {
         "key":"热播","name":"📺热播┃多线","type":3,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,
@@ -350,9 +350,9 @@
       "ext": "https://www.libvio.pro/"
     },    
     {
-      "key": "萌米","name": "👀萌米┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_AppMao",
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+       "key":"萌米","name":"🌙萌米┃APP","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,
+       "jar": "./PantyHose/spider/chuanxin.jar",
+       "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
       "key": "橘子","name": "🍊橘子┃APP","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -378,7 +378,7 @@
     {
       "key": "csp_星辰","name": "☪️星辰┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/chuanxin.jar",
       "ext": "./PantyHose/lib/星辰影视.json"
     },
     {
@@ -529,11 +529,6 @@
         "key":"夸搜","name":"🔍夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
         "api":"csp_PanSearch",
         "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
-    },
-    {
-        "key":"YiSo","name":"🔍易搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_YiSo",
-        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     },
     {
         "key":"UpYun","name":"🔍Up搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
