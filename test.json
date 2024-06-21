@@ -3,15 +3,6 @@
   //"wallpaper": "./Lingerie/streetlight.jpg",
   "sites": [
 
-{"key": "lzzy","name": "量子┃资源","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/" ,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories": ["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
-
-    {"key": "ffzy","name": "非凡┃资源","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
-    {"key": "snzy","name": "索尼┃资源","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://suoniapi.com/api.php/provide/vod/?ac=list","categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
-    {"key": "bfzy","name": "暴风┃资源","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","categories": ["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"],"jar":"http://m1839732.cf.caoni.ru/meow2.jar;md5;0683D513E74B1B6BFF831AB7876B398A"},
-    
-    {"key": "kkzy","name": "快看┃资源","type": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/","playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories": ["国产剧","港台剧","国产动漫","日韩剧","欧美剧","海外剧","动作片","爱情片","剧情片","科幻片","奇幻片","战争片","犯罪片","恐怖片","悬疑片","惊悚片","冒险片"]},
 
 
 ////////////////////////////////
@@ -66,21 +57,46 @@
     {
         "key":"csp_AliPS","name":"🔍喵狸┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":0,
         "api":"csp_AliPS",
-        "jar": "./PantyHose/spider/chuanxin.jar",
+        //"jar": "./PantyHose/spider/chuanxin.jar",
         "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+        "key": "csp_XYQHiker_影搜","name":"🔍影搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api":"csp_XYQHiker",
+        //"jar": "./PantyHose/spider/chuanxin.jar",
+        "ext":"http://router.bopop.buzz:9999/kxlib/影搜.json"
     },
     {
         "key":"csp_Upyunso","name":"🔍云搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":0,
         "api":"csp_Upyunso",
-        "jar": "./PantyHose/spider/chuanxin.jar",
+        //"jar": "./PantyHose/spider/chuanxin.jar",
         "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
+    },
+    {
+        "key":"夸搜","name":"🔍夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_PanSearch",
+        "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
+    },
+    {
+        "key":"YiSo","name":"🔍易搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_YiSo",
+        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     },
     {
         "key":"PanSou","name":"🔍盘搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
         "api":"csp_PanSou",
         "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
+    },
+    {
+        "key":"UpYun","name":"🔍Up搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_UpYun",
+        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
+    },
+    {
+        "key":"PanSearch","name":"🔍盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_PanSearch",
+        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     }
-
 
 
 
