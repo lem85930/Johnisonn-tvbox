@@ -30,6 +30,8 @@
       "api": "csp_AppMao",
       "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
     }, 
+
+    {"key":"萌米","name":"🌙萌米","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"jar": "http://router.bopop.buzz:9999/kxlib/md.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
     {
         "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "jar":"./PantyHose/spider/JunYu.jar",
