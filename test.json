@@ -50,40 +50,11 @@
       "api": "csp_XBPQ",
       "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/348影视.json"
-    },
+    }
 
 /////////////////////////////////
 
-    {
-        "key":"csp_AliPS","name":"🔍喵狸┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":0,
-        "api":"csp_AliPS",
-        "jar": "./PantyHose/spider/chuanxin.jar",
-        "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-        "key": "csp_XYQHiker_影搜","name":"🔍影搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-        "api":"csp_XYQHiker",
-        "jar": "./PantyHose/spider/chuanxin.jar",
-        "ext":"http://router.bopop.buzz:9999/kxlib/影搜.json"
-    },
-    {
-        "key":"csp_Upyunso","name":"🔍云搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":0,
-        "api":"csp_Upyunso",
-        "jar": "./PantyHose/spider/chuanxin.jar",
-        "ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-        "key":"YiSo","name":"🔍易搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_YiSo",
-         "jar": "./PantyHose/spider/chuanxin.jar",
-       "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
-    },
-    {
-        "key":"PanSou","name":"🔍盘搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_PanSou",
-         "jar": "./PantyHose/spider/chuanxin.jar",
-       "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
-    }
+  
 
 
 
