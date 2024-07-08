@@ -249,50 +249,7 @@
  
  /////////////////////////////////////////////////////////
 
-    {
-        "key":"Wexxpgtv","name":"🍎富士┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexxpgtv","jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexhuaruitv",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexkukantv","name":"😁看呗┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexkukantv",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"WexTiantianys","name":"🌤️天天┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexTiantianys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexxiongdiys","name":"👬基友┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexxiongdiys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexwencai","name":"🎇文才┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexwencai",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexshandian","name":"⚡️闪电┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexshandian",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"mingriyingshi","name":"☀️明日┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexMingriys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"WexShijuedy","name":"👓看看┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexShijuedy",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
+
     {
       "key": "drpy_js_思古影视[V2]","name": "💗思古┃快线","type": 3,
       "api": "./PantyHose/frame/drpy2.min.js",
