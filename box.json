@@ -148,13 +148,6 @@
         "爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩国剧","台湾剧","日本剧","泰国剧","纪录片","动画片",
         "电影解说","其他片","其他剧","体育赛事","短剧"]
     },
-    {   
-        "key": "奇虎资源","name": "🛒奇虎┃采集","type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
-        "playUrl": "","searchable": 1,"quickSearch": 1,
-        "categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","纪录片","国产剧","香港剧","韩国剧",
-        "欧美剧","日本剧","台湾剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","港台综艺","欧美综艺","日韩综艺",
-        "动画片","体育","短剧","网络电影"]
-    },
     {
         "key": "火狐","name": "🛒火狐┃采集","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/",
         "searchable": 1,"quickSearch": 0,"filterable": 1,
@@ -164,11 +157,6 @@
 
 ////////////////////////////////////////
 
-    {
-      "key": "量子资源","name": "🛒量子┃采集","type": 0,"api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 0,"quickSearch": 1,
-      "categories": ["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]
-    },
     {
       "key": "虎牙","name": "🛒虎牙┃采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 0,"quickSearch": 1,
@@ -190,18 +178,9 @@
         "searchable": 0,"quickSearch": 1,"filterable": 1,
         "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
         "categories": 
-        ["短剧","邵氏电影","爽文短剧",,"动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", 
+        ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", 
         "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", 
         "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]
-    },
-    {
-        "key": "新浪","name": "🛒新浪┃采集","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-        "searchable": 0,"quickSearch": 1,"filterable": 1,
-        "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
-        "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫",
-        "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
     },
     {
         "key": "百度","name": "🛒百度┃采集","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
@@ -230,6 +209,13 @@
         "ext": "./PantyHose/lib/好趣网.js"
     },
     {
+      "key": "光年影视","type":3,"searchable":0,"quickSearch": 0,"changeable": 1,
+      "name": "光年┃TEST",
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/光年.json"
+    },
+    {
       "key": "cctv","name": "📺央视┃快线","type": 3,"searchable": 0,"filterable": 0,
       "api": "csp_CCTV",
       "jar":"./PantyHose/spider/HCCX.jar",
@@ -245,12 +231,12 @@
         "api":"csp_AppTT",
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },
- 
+
  
  /////////////////////////////////////////////////////////
     {
       "key": "csp_Duopan",
-      "name": "🖍︎┃蜡笔┃影视",
+      "name": "🖍︎蜡笔┃影视",
       "type": 3,
       "api": "csp_Duopan",
       "jar": "./PantyHose/spider/FeiMao240711.jar",
@@ -258,80 +244,16 @@
       "filterable": 1,
       "ext": "https://duopan.fun/"
     },
-        {
+    {
       "key": "csp_SuBaiBai",
-      "name": "🏳️┃素白┃影视",
+      "name": "🏳️素白┃影视",
       "type": 3,
       "jar": "./PantyHose/spider/FeiMao240711.jar",
       "api": "csp_SuBaiBai"
     },
     {
-      "key": "csp_Zx1080",
-      "name": " 👰┃最新┃影视",
-      "type": 3,
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "api": "csp_Zx1080",
-      "playerType": 2
-    },
-    {
-      "key": "csp_Ikan",
-      "name": "💕┃爱看┃影视",
-      "type": 3,
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "api": "csp_Ikan",
-      "playerType": 2
-    },
-    {
-      "key": "csp_PTT",
-      "name": "🦨┃屁颠┃影视",
-      "type": 3,
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "api": "csp_PTT"
-    },
-    {
-      "key": "csp_Taozi",
-      "name": "🍑┃桃子┃影视",
-      "type": 3,
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "api": "csp_Taozi"
-    },
-    {
-      "key": "哔嘀",
-      "name": "😹┃哔嘀┃影视",
-      "type": 3,
-      "api": "csp_Bdys",
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_FengGo",
-      "name": "🐕┃疯狗┃影视",
-      "type": 3,
-      "api": "csp_FengGo",
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "playerType": 2
-    },
-    {
-      "key": "csp_Nkdy",
-      "name": "🏔┃耐看┃影视",
-      "type": 3,
-      "playerType": "2",
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "api": "csp_Nkdy"
-    },
-    {
-      "key": "csp_Juqq",
-      "name": "⭕┃剧圈┃影视",
-      "type": 3,
-      "playerType": "2",
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "api": "csp_Juqq"
-    },
-        {
       "key": "csp_Netfixtv",
-      "name": "💌┃至臻┃影视",
+      "name": "💌至臻┃影视",
       "type": 3,
       "api": "csp_Netfixtv",
       "jar": "./PantyHose/spider/FeiMao240711.jar",
@@ -339,29 +261,15 @@
       "filterable": 1,
       "ext": ""
     },
-        {
+    {
       "key": "兄弟",
-      "name": "👯┃兄弟┃影视",
+      "name": "👯兄弟┃影视",
       "type": 3,
       "api": "csp_Xdys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "可可",
-      "name": " 😝┃可可┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-
-
-
 
 
 
@@ -445,11 +353,6 @@
         "jar":"./PantyHose/spider/JunYu.jar",
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
-    },
-    {
-       "key":"csp_Xinsj2","name":"✨视觉┃站点","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-       "api":"csp_Xinsj",
-       "ext":"https://www.6080yy3.com/"
     },
     {
       "key": "玖八","name": "🎐玖八┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -620,13 +523,6 @@
         "key":"PanSearch","name":"🔍盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
         "api":"csp_PanSearch",
         "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
-    },
-    {
-      "key": "光年影视","type":3,"searchable":0,"quickSearch": 0,"changeable": 1,
-      "name": "光年┃TEST",
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/光年.json"
     }
 
 
