@@ -1,56 +1,16 @@
 {
   "spider": "./PantyHose/spider/FTY.jar",
-  //"wallpaper": "./Lingerie/streetlight.jpg",
+  "wallpaper": "http://home.jundie.top:81/image/w8.png",
   "sites": [
 
-
-    {"key":"Zx4k","name":"🚝专线┃秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
-    {"key":"蛋蛋","name":"🍓蛋蛋┃多线","type":3,"api":"csp_Cddys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {
-      "key": "drpy_js_酷6网","name": "♣酷6┃聚合","type": 3,"searchable":0,"changeable": 0,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "jar": "./PantyHose/spider/PG.jar",
-      "ext": "./PantyHose/lib/酷6网.js"
-    },
-    {
-        "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "jar":"./PantyHose/spider/JunYu.jar",
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/全集网.json"
-    },
-    {
-      "key": "csp_超前","name": "🍷超前┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/超前B站.json"
-    },
     {
       "key": "drpy_js_爱看机器人","name": "🤖机器人┃站点","type": 3,
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/ikanbot2.js"
     },
-    {
-      "key": "csp_佳能","name": "🍀佳能┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/348影视.json"
-    },
-    {
-        "key":"UpYun","name":"🔍Up搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_UpYun",
-        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
-    },
 
 
-
-
-
-    {
-        "key":"Wexxpgtv","name":"🍎富士┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexxpgtv","jar":"./PantyHose/spider/wex.jar"
-    },
     {
         "key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"searchable":1,"changeable":1,
         "api":"csp_Wexhuaruitv",
@@ -72,16 +32,6 @@
         "jar":"./PantyHose/spider/wex.jar"
     },
     {
-        "key":"Wexwencai","name":"🎇文才┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexwencai",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexshandian","name":"⚡️闪电┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexshandian",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
         "key":"mingriyingshi","name":"☀️明日┃App","type":3,"searchable":1,"changeable":1,
         "api":"csp_WexMingriys",
         "jar":"./PantyHose/spider/wex.jar"
@@ -91,57 +41,9 @@
         "api":"csp_WexShijuedy",
         "jar":"./PantyHose/spider/wex.jar"
     },
-    {
-        "key":"Fangniu4k","name":"👎放牛┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexFangniu4k",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
 
 ////////////////////////////////
-    {
-      "key": "索尼",
-      "name": "🛒索尼┃采集",
-      "type": 1,"playerType": 2,"playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "categories":
-      ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧", "韩剧", 
-      "日剧", "港剧", "台剧", "泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]
-    },
     
-    {
-      "key": "drpy_js_量子资源",
-      "name": "🛒量子[js]┃采集",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/量子资源.js"
-    },
-    {
-      "key": "zxzj",
-      "name": "📶在线┃快线",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_Zxzj",
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
-      "key": "量子资源","name": "🛒量子┃采集","type": 0,"api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 0,"quickSearch": 1,
-      "categories": ["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]
-    },
-
-    {
-        "key": "新浪","name": "🛒新浪┃采集","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
-        "searchable": 0,"quickSearch": 1,"filterable": 1,
-        "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
-        "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫",
-        "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-    },
-    {
-       "key":"csp_Xinsj2","name":"✨视觉┃站点","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-       "api":"csp_Xinsj",
-       "ext":"https://www.6080yy3.com/"
-    },
 
      {
       "key": "hardcore",
