@@ -455,7 +455,8 @@
       "key": "Bili","name": "🅱哔哩┃合集","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 0,
       "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/bilibili.json"
+      //"ext": "./PantyHose/lib/bilibili.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bilibili.json"
     },
     {
       "key": "戏曲杂苑","name": "🅱哔哩┃戏曲","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
