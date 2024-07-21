@@ -282,13 +282,9 @@
 
 
 
-    //{"key":"Zx4k","name":"🚝专线┃秒播","type":3,"api":"csp_Zx4k","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
     {"key":"小点","name":"💥小点┃多线","type":3,"api":"csp_Xdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"蛋蛋","name":"🍓蛋蛋┃多线","type":3,"api":"csp_Cddys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
     {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
@@ -301,12 +297,6 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "jar": "./PantyHose/spider/PG.jar",
       "ext": "./PantyHose/lib/思古影视[V2].js"
-    },
-    {
-      "key": "drpy_js_酷6网","name": "♣酷6┃聚合","type": 3,"searchable":0,"changeable": 0,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "jar": "./PantyHose/spider/PG.jar",
-      "ext": "./PantyHose/lib/酷6网.js"
     },
     {
       "key": "茶杯","name": "🦊茶狐┃快线","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -358,12 +348,6 @@
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
     },
     {
-        "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "jar":"./PantyHose/spider/JunYu.jar",
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/全集网.json"
-    },
-    {
       "key": "玖八","name": "🎐玖八┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/98影视.json"
@@ -387,17 +371,6 @@
       "ext": "./PantyHose/lib/七新影视.json"
     },
     {
-      "key": "csp_超前","name": "🍷超前┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/超前B站.json"
-    },
-    {
-      "key": "drpy_js_爱看机器人","name": "🤖机器人┃站点","type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/ikanbot2.js"
-    },
-    {
       "key": "贱贱","name": "🤨荐片┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/jp.js"
@@ -418,13 +391,6 @@
       "api": "csp_XBPQ",
       "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/奇优影视.json"
-    },
-
-    {
-      "key": "csp_佳能","name": "🍀佳能┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/348影视.json"
     },
     {
       "key": "csp_达龟","name": "🐳达龟┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -523,11 +489,6 @@
         "key":"夸搜","name":"🔍夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
         "api":"csp_PanSearch",
         "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
-    },
-    {
-        "key":"UpYun","name":"🔍Up搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_UpYun",
-        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     },
     {
         "key":"PanSearch","name":"🔍盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
