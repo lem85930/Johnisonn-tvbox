@@ -207,6 +207,22 @@
         ["动作片","喜剧片","爱情片","科幻片", "剧情片","恐怖片", "战争片","动漫电影","大陆剧","欧美剧", 
         "港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]
     },
+    {
+      "key": "drpy_js_量子资源",
+      "name": "🛒量子┃采集",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/量子资源.js"
+    },
+    {
+        "key": "新浪","name": "🛒新浪┃采集","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide//vod/",
+        "searchable": 0,"quickSearch": 1,"filterable": 1,
+        "playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=",
+        "categories":
+        ["短剧","邵氏电影","爽文短剧","动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
+        "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫",
+        "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+    },
 
 
 
@@ -405,6 +421,36 @@
       "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/米爱影视.json"
     },
+
+
+
+    {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"蛋蛋","name":"🍓蛋蛋┃多线","type":3,"api":"csp_Cddys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+
+    
+    {
+      "key": "drpy_js_酷6网","name": "♣酷6┃聚合","type": 3,"searchable":0,"changeable": 0,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "jar": "./PantyHose/spider/PG.jar",
+      "ext": "./PantyHose/lib/酷6网.js"
+    },
+    {
+        "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar":"./PantyHose/spider/JunYu.jar",
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/全集网.json"
+    },
+    {
+      "key": "csp_超前","name": "🍷超前┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "jar":"./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/超前B站.json"
+    },
+
+
+
+/////////////////////////////////
+
     {
         "key":"酷奇","name":"🎤酷奇┃MV","type": 3,"searchable": 0,"quickSearch": 0,"changeable":0,
         "api":"./PantyHose/frame/drpy2.min.js",
