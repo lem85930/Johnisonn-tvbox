@@ -42,7 +42,7 @@
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
+                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}.html",
                 "分类":"BD$bondage#CN$chinese-bdsm#ELEC$electro-tens#FORCE$forced-orgasm",
 
                 //"数组":"class=\"card-img-top\" src=\"&&class=\"likedcalc d-inline-block\"",//主页数组
