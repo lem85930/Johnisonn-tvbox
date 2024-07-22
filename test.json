@@ -12,11 +12,6 @@
         "jar":"./PantyHose/spider/wex.jar"
     },
     {
-        "key":"Wexkukantv","name":"😁看呗┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexkukantv",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
         "key":"WexTiantianys","name":"🌤️天天┃直连","type":3,"searchable":1,"changeable":1,
         "api":"csp_WexTiantianys",
         "jar":"./PantyHose/spider/wex.jar"
