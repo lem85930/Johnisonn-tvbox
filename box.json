@@ -211,7 +211,7 @@
     {
       "key": "drpy_js_量子资源",
       "name": "🛒量子┃采集",
-      "type": 3,
+      "type": 3,"searchable": 0,
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/量子资源.js"
     },
@@ -230,7 +230,7 @@
 
 //////////////////////////////////////////////////////////
     {
-        "key": "好趣网","name": "📺好趣┃快线","type": 3,
+        "key": "好趣网","name": "📺好趣┃快线","type": 3,"searchable": 0,
         "api": "./PantyHose/frame/drpy2.min.js",
         "ext": "./PantyHose/lib/好趣网.js"
     },
