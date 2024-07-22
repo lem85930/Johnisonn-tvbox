@@ -3,12 +3,7 @@
   "wallpaper": "http://home.jundie.top:81/image/w8.png",
   "sites": [
 
-    {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://czzy.top/"},
-    {
-      "key": "drpy_js_爱看机器人","name": "🤖机器人┃站点","type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/ikanbot2.js"
-    },
+
 
 
     {
