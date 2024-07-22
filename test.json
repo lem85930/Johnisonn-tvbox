@@ -46,8 +46,8 @@
 
                 "分类":"bondage$bondage#chinese$chinese-bdsm",
 
-                "数组":"class=\"card-img-top vidthumb\"&&class=\"likedcalc d-inline-block\"",
-                "图片":"src=\"&&\"",
+                "数组":"class=\"card-img-top\" src=\"&&class=\"likedcalc d-inline-block\"",
+                "图片":"card-img-top\" src=\"&&\"",
                 "标题":"class=\"card-title titlesize\">&&</h6>",
                 "链接":"href=\"&&\""
 
