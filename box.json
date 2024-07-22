@@ -260,6 +260,10 @@
 
  
  /////////////////////////////////////////////////////////
+    {"key":"机器人bot","name":"🤖机器┃蓝光","type":3,"api":"csp_Ikanbot","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"csp_Kuaikan","name":"🫣快看┃蓝光","type":3,"api":"csp_Kuaikan","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"JOJO","name":"🍭JOJO┃蓝光","type":3,"api":"csp_Jiohub","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
+ 
     {
       "key": "csp_Duopan",
       "name": "🖍︎蜡笔┃影视",
