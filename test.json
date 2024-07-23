@@ -16,7 +16,7 @@
                 "数组":"class=\"card-body p-2 vidbody\"&&<video class=\"card-img-top\"",
                 "图片":"card-img-top\" src=\"&&\"",
                 "标题":"class=\"card-title titlesize\">&&</h6>",
-                "链接":"href=\"&&\"",
+                "链接":"\"><a href=\"&&\"",
                
                 "搜索模式":"1",
                 "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
