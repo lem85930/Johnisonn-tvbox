@@ -10,12 +10,14 @@
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
-                "主页url":"https://bdsmvilla.com",
-                //"数组":"class=\"card-img-top\" src=\"&&class=\"likedcalc d-inline-block\"",//主页数组
-                //"图片":"card-img-top\" src=\"&&\"",
-                //"标题":"class=\"card-title titlesize\">&&</h6>",
-                //"链接":"\"><a href=\"&&\"",
-               
+
+                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
+                "分类":"Bondage$bondage#Chinese$chinese-bdsm#Electro$electro-tens#Forced$forced-orgasm",
+                "数组":"class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
+                "图片":"poster=\"&&\"",
+                "标题":"class=\"card-title titlesize\">&&</h6>",
+                "链接":"href=\"&&\"",
+              
                 "搜索模式":"1",
                 "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
                 "搜索数组": "class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
@@ -24,14 +26,6 @@
                 "搜索链接": "href=\"&&\"",
 
  
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
-                "分类":"BD$bondage#CN$chinese-bdsm#ELEC$electro-tens#FORCE$forced-orgasm",
-
-
-                "数组":"class=\"card colorbackground vidholder d-inline-block\"&&</h6>",//分类数组
-                "图片":"poster=\"&&\"",
-                "标题":"class=\"card-title titlesize\">&&</h6>",
-                "链接":"href=\"&&\"",
 
                 
 
