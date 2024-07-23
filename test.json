@@ -101,7 +101,15 @@
 
 
 ////////////////////////////////
-    
+        {
+      "key": "bdgvl",
+      "name": "Valley┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/gaoax.json"    
+    },
+
 
 
 
