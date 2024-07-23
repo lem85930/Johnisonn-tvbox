@@ -70,8 +70,8 @@
     
 
      {
-      "key": "hardcore",
-      "name": "Hardcore┃TEST",
+      "key": "BDSMvilla",
+      "name": "villa┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
@@ -118,28 +118,7 @@
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/vally.json"    
-    },
-    {
-      "key": "villa",
-      "name": "villa┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
-                "分类":"bondage$bondage#chinese$chinese-bdsm",
-
-                "数组":"class=\"card-img-top vidthumb\"&&class=\"likedcalc d-inline-block\"",
-                "图片":"src=\"&&\"",
-                "标题":"class=\"card-title titlesize\">&&</h6>",
-                "链接":"href=\"&&\""
-
-                //"直接播放":"1"
-                //"嗅探词":"webm#mp4#m3u8"
-              }
     }
-
-
 
   ]
 }
