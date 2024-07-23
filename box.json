@@ -254,13 +254,20 @@
     },
     {
         "key": "rarbt",
-        "name": "rarbt┃影视",
+        "name": "🦖rarbt┃影视",
         "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/rarbtv.json"
     },  
-
+    {
+        "key": "圣城",
+        "name": "⛅️酷云┃影视",
+        "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/酷云影视.json"    
+    },
 
  /////////////////////////////////////////////////////////
     {"key":"机器人bot","name":"🤖机器┃蓝光","type":3,"api":"csp_Ikanbot","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"changeable":1},
