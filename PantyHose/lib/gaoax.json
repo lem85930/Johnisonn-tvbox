@@ -1,7 +1,8 @@
 {
 "站名":"GAOAA",
 "主页url":"https://67gaoaa.com/",
-"图片":"data-original=\"&&\"",
+"数组":"class=\"video-pic loading\"&&data-original",
+"图片":"\"content-img lazy\" src=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"<div class=\"img-tag\">&&</div>",
