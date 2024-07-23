@@ -109,9 +109,14 @@
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/gaoax.json"    
     },
-
-
-
+        {
+      "key": "圣城",
+      "name": "酷云┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/酷云影视.json"    
+    },
 
 
 /////////////////////////////////
