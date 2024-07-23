@@ -252,8 +252,16 @@
         "api":"csp_AppTT",
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },
+    {
+        "key": "rarbt",
+        "name": "rarbt┃影视",
+        "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/rarbtv.json"
+    },  
 
- 
+
  /////////////////////////////////////////////////////////
     {"key":"机器人bot","name":"🤖机器┃蓝光","type":3,"api":"csp_Ikanbot","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"csp_Kuaikan","name":"🫣快看┃蓝光","type":3,"api":"csp_Kuaikan","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"filterable":1},
