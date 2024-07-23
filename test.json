@@ -26,8 +26,7 @@
                 "搜索链接": "href=\"&&\"",
 
  
- 
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
+                "分类url":"https://bdsmvilla.com/category/{cateId}?page_id={catePg}",
                 "分类":"BD$bondage#CN$chinese-bdsm#ELEC$electro-tens#FORCE$forced-orgasm"
 
 
