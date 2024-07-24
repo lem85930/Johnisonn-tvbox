@@ -52,9 +52,6 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/frame/drpy.js"
     },
-    
-
-
     {
         "key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"searchable":1,"changeable":1,
         "api":"csp_Wexhuaruitv",
@@ -79,53 +76,13 @@
         "key":"WexShijuedy","name":"👓看看┃直连","type":3,"searchable":1,"changeable":1,
         "api":"csp_WexShijuedy",
         "jar":"./PantyHose/spider/wex.jar"
-    },
-
-////////////////////////////////
-    
-
-
-
-/////////////////////////////////
-    {
-      "key": "hamster",
-      "name": "Hamster┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext":"./PantyHose/lib/hamster.json"    
-    },
-    {
-      "key": "BBV",
-      "name": "BBV┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/JunYu.jar",
-      "ext": "./PantyHose/lib/bondage.json"
-    },
-    
-    {
-      "key": "freesm",
-      "name": "freebd┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                "主页url":"https://freebdsmxxx.org/",
-                "分类url":"https://freebdsmxxx.org/tags/{cateId}/page/{catePg}/",
-                "分类":"NippleClamps$Nipple+Clamps#Nosebondage$Nosebondage#Metal$Metal+Bondage#asian$asian-bdsm#ElectricPlay$Electric+Play#Hogtie$Hogtie#Gags$Gags#HighHeels$High+Heels#Predicament$Predicament#NippleTorture$Nipple+torture#Bound$Bound",
-
-                "数组":"class=\"shortstory\">&&class=\"quality\"",
-                "图片":"src=\"&&\"",
-                "标题":"title=\"&&\"",
-                "链接":"href=\"&&\"",
-
-                "直接播放":"1"
-                //"嗅探词":"webm#mp4#m3u8"
-              }
     }
 
-    
+////////////////////////////////
+
+
+
+
   ]
 
 
