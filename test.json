@@ -10,27 +10,15 @@
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
+                "主页url":"https://bdsmvilla.com/",
+                "数组":"vidholder d-inline-block\"&&</h6>",
+                "图片":"card-img-top\" src=\"&&\"",
+                "标题":"titlesize\">&&</h6>",
+                "链接":"href=\"&&\""
 
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
-                "分类":"Bondage$bondage#Chinese$chinese-bdsm#Electro$electro-tens#Forced$forced-orgasm",
-                "数组":"class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
-                "图片":"poster=\"&&\"",
-                "标题":"class=\"card-title titlesize\">&&</h6>",
-                "链接":"href=\"&&\"",
-              
-                "搜索模式":"1",
-                "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
-                "搜索数组": "class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
-                "搜索图片": "poster=\"&&\"",
-                "搜索标题": "class=\"card-title titlesize\">&&</h6>",
-                "搜索链接": "href=\"&&\"",
 
- 
 
-                
 
-                "直接播放":"1"
-                //"嗅探词":"webm#mp4#m3u8"
               }
     },
  
