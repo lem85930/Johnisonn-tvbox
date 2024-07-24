@@ -10,9 +10,8 @@
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": {
-                //"主页url":"https://bdsmvilla.com/",
                 
-                "数组":"vidholder d-inline-block\"&&class=\"fa fa-eye likedcalc\"",
+                "数组":"class=\"card-img-top\" src=\"&&class=\"fa fa-eye likedcalc\"",
                 "图片":"class=\"card-img-top\" src=\"&&\"",
                 "标题":"titlesize\">&&</h6>",
                 "链接":"href=\"&&\"",
