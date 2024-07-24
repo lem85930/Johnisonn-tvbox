@@ -17,8 +17,7 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/菜狗.js"
     },
-
-        {
+    {
       "key": "drpy_js_优酷",
       "name": "🏆优酷┃大厂",
       "type": 3,
@@ -130,7 +129,7 @@
 
 
 /////////////////////////////////
-{
+    {
       "key": "hamster",
       "name": "Hamster┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
@@ -251,3 +250,7 @@
 
     
   ]
+
+
+
+}
