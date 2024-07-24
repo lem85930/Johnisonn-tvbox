@@ -3,77 +3,7 @@
   "wallpaper": "http://home.jundie.top:81/image/w8.png",
   "sites": [
 
-    {
-      "key": "BDSMvilla",
-      "name": "villa┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                
-                "数组":"class=\"card colorbackground vidholder d-inline-block\"&&class=\"fa fa-eye likedcalc\">",
-                "图片":"class=\"card-img-top\" src=\"&&\"",
-                "标题":"titlesize\">&&</h6>",
-                "链接":"href=\"&&\"",
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
-                "分类":"Bondage$bondage#Chinese$chinese-bdsm#Electro$electro-tens#Forced$forced-orgasm",
 
-                "搜索模式": "1",
-                "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
-                "搜索数组": "class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
-                "搜索图片": "poster=\"&&\"",
-                "搜索标题": "class=\"card-title titlesize\">&&</h6>",
-                "搜索链接": "href=\"&&\"",
-                "直接播放": "1"
-
-
-
-              }
-    },
-    {
-      "key": "aaxx",
-      "name": "aaxx┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                //"主页url":"https://100gaoaa.com/index.html",
-                //"数组":"class=\"video-pic loading\"&&class=\"title\"",
-                //"图片":"scr=\"&&\"",
-                //"标题":"title=\"&&\"",
-                //"链接":"href=\"&&\""
-                //"分类url":"https://100gaoaa.com/gaotype/{cateId}_{catePg}.html",
-                //"分类":"国产$25#日无$20#日有$9#中字$2#人七$8#欧美&18#自服$16#拍拍&17#强乱&14#仍夭&7#绝美&13#HEY&5#主播&6#日韩&10#自研&23"
-                
-                "主页url":"https://67gaoaa.com/",
-                "图片":"data-original=\"&&\"",
-                "标题":"title=\"&&\"",
-                "链接":"href=\"&&\"",
-                "副标题":"<div class=\"img-tag\">&&</div>",
-                "线路数组":"<div class=\"item line\">&&</div>",
-                "线路标题":">&&</a>",
-                "搜索url":"/gaosearch/{wd}-/page/{pg}/",
-                "搜索模式":"1",
-                "搜索副标题":"<div class=\"img-tag\">&&</div>",
-                "搜索链接前缀":"https://67gaoaa.com",
-                "搜索链接后缀":"-1-1.html",
-                "搜索后缀":"/gaoplay/",
-                "播放数组":"class=\"item line\">&&</div>",
-                "影片类型":"target=\"_blank\">&&</a><i",
-                "导演":"class=\"data\">类型：&&</p>",
-                "主演":"class=\"data\">主演：&&</p>",
-                "简介":"<h1>&&</h1>",
-                "播放列表":"<a&&/a>",
-                "播放标题":">&&<",
-                "播放链接":"href=\"&&\"",
-                "免嗅":"0",
-                "分类":"GAOAA$25",
-                "分类url":"https://67gaoaa.com/gaotype/{cateId}_{catePg}.html"
-    
-
-               
-             }
-    },
 
     {
         "key": "红牛","name": "🛒红牛┃采集","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
@@ -98,27 +28,11 @@
         ["短剧","邵氏电影","爽文短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影",
         "大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片",
         "体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-    },
+    }
 
 
 ////////////////////////////////
 
-    {
-      "key": "aV",
-      "name": "IAV┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/iav.json"    
-    },
-    {
-      "key": "bdgvl",
-      "name": "Valley┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/vally.json"    
-    }
 
   ]
 }
