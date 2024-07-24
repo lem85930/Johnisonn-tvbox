@@ -30,15 +30,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "范明明_PLUS",
-      "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6Plus.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "YueChan",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
@@ -68,15 +59,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },    
     {
-      "name": "云星",
-      "type": 0,
-      "url": "https://my5353.com/v6zby",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "俊于",
       "type": 0,
       "playerType": 1,
@@ -105,8 +87,8 @@
     {
         "key": "豪华","name": "🛒豪华┃采集","type": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,
         //"api": "https://hhzyapi.com/api.php/provide/vod/",
-        "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
-                "categories": 
+        "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
+        "categories": 
         ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
         "香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","大陆综艺","动画片","中国动漫","日本动漫","欧美动漫"]
     },
