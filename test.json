@@ -3,6 +3,13 @@
   "wallpaper": "http://home.jundie.top:81/image/w8.png",
   "sites": [
 
+    {
+      "key": "量子采集","name": "⑬量子┃采集","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,"quickSearch": 1,"filterable": 1,
+      "categories":
+      ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
+        "香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","大陆综艺","动画片","中国动漫","日本动漫","欧美动漫"]
+    },
 
 
     {
