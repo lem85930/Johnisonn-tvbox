@@ -4,11 +4,32 @@
   "sites": [
 
     {
-      "key": "量子采集","name": "⑬量子┃采集","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "categories":
-      ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
-        "香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","大陆综艺","动画片","中国动漫","日本动漫","欧美动漫"]
+      "key": "BDSMvilla",
+      "name": "Villa┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": 
+          {
+
+                "数组":"class=\"card colorbackground vidholder d-inline-block\"&&class=\"fa fa-eye likedcalc\">",
+                "图片":"class=\"card-img-top\" src=\"&&\"",
+                "标题":"titlesize\">&&</h6>",
+                "链接":"href=\"&&\"",
+                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
+                "分类":"Bondage$bondage#Chinese$chinese-bdsm#Electro$electro-tens#Forced$forced-orgasm",
+
+                "搜索模式": "1",
+                "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
+                "搜索数组": "class=\"card colorbackground vidholder d-inline-block\"&&class=\"fa fa-eye likedcalc\">",
+                "搜索图片": "poster=\"&&\"",
+                "搜索标题": "titlesize\">&&</h6>",
+                "搜索链接": "href=\"&&\"",
+                "直接播放": "1"
+
+
+
+        }
     },
 
 
