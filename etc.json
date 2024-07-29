@@ -4,36 +4,12 @@
   "sites": [
 
 
-    {
-        "key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexhuaruitv",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"WexTiantianys","name":"🌤️天天┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexTiantianys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexxiongdiys","name":"👬基友┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexxiongdiys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"mingriyingshi","name":"☀️明日┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexMingriys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"WexShijuedy","name":"👓看看┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexShijuedy",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
+
 
 ////////////////////////////////
     {
       "key": "BDSMvilla",
-      "name": "Villa┃影视",
+      "name": "Villa┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
@@ -41,7 +17,7 @@
     },
     {
       "key": "aaxx",
-      "name": "Aaxx┃影视",
+      "name": "Aaxx┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
@@ -49,7 +25,7 @@
     },
     {
       "key": "aV",
-      "name": "IAV┃影视",
+      "name": "IAV┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
@@ -57,7 +33,7 @@
     },
     {
       "key": "bdgvl",
-      "name": "Valley┃影视",
+      "name": "Valley┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
@@ -65,7 +41,7 @@
     },
     {
       "key": "hamster",
-      "name": "Hamster┃TEST",
+      "name": "Hamster┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
