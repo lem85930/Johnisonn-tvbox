@@ -3,7 +3,31 @@
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "sites": [
        
+{
+      "key": "BBV",
+      "name": "BBV┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": {
 
+            "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
+            "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
+            "数组":"class=\"thumb-video img-responsive-16by9\"&&</span>",
+            "图片":"scr=\"&&\"",
+            "标题":"title=\"&&\"",
+            "链接":"href=\"&&\"",
+
+            "搜索模式": "1",
+            "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
+            
+            "直接播放":"1"
+            //"嗅探词":"m3u8#mp4"
+
+
+
+      }
+    },
 
 
     {
