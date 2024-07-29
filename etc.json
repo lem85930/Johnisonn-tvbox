@@ -1,7 +1,7 @@
 {
-  "spider": "./PantyHose/spider/FTY.jar",
-  
-  "sites": [
+    "spider": "./PantyHose/spider/HCCX.jar",
+    "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+    "sites": [
 
 
 
@@ -12,7 +12,6 @@
       "name": "Villa┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
     },
     {
@@ -20,7 +19,6 @@
       "name": "Aaxx┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
     },
     {
@@ -28,7 +26,6 @@
       "name": "IAV┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
     },
     {
@@ -36,7 +33,6 @@
       "name": "Valley┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/vally.json"    
     },
     {
@@ -44,7 +40,6 @@
       "name": "Hamster┃七彩",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
     },
     {
@@ -60,7 +55,6 @@
       "name": "Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
     }
 
