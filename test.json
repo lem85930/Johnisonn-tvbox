@@ -30,6 +30,26 @@
 
     },
 
+     {
+      "key": "hamster",
+      "name": "ham┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": 
+              {
+                    "分类url":"https://zh.xhaccess.com/channels/{cateId}/{catePg}",
+                    "分类":"KINK$kink",
+                    "数组":"role-pop thumb-image-container\"&&class=\"thumb-image-container__sprite\"",
+                    "图片":"src=\"&&\"",
+                    "标题":"alt=\"&&\"",
+                    "链接":"href=\"&&\""
+
+             }
+
+
+
+    },
 
 
 
