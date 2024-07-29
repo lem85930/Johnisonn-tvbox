@@ -38,13 +38,16 @@
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": 
               {
-                    "分类url":"https://zh.xhaccess.com/channels/{cateId}/{catePg}",
-                    "分类":"KINK$kink",
-                    "数组":"role-pop thumb-image-container\"&&class=\"thumb-image-container__sprite\"",
+                    //"分类url":"https://zh.xhaccess.com/channels/{cateId}/{catePg}",
+                    "分类url":"https://zh.xhaccess.com/categories/{cateId}/{catePg}",
+                    "分类":"BDSN$bdsm#SUSP&suspension-bondage#TIE$tied-up#JP$shibari#BD$bondage#HOG$hogtied#KINK$kinky#SYBIAN$sybian$HITACHI$hitachi#GAG$ball-gagged#BLIND$blindfolded#STOCKING$stockings#THONG$thong#PANTY$pantyhose#HIGHEEL$high-heels#LINGERIE$lingerie#NYLON$nylon#SECRETARY$secretary#STRIPTEASE￥striptease",
+                    "数组":"role-pop thumb-image-container\"&&class=\"video-thumb-info\"",
                     "图片":"src=\"&&\"",
                     "标题":"alt=\"&&\"",
-                    "链接":"href=\"&&\""
-
+                    "链接":"href=\"&&\"",
+                    //"嗅探词":"webm#mp4#m3u8"
+                    "搜索url":"https://zh.xhaccess.com//search/{wd}?page={catePg}"
+//https://zh.awesomexh.life/search/{wd}?page={catePg}
              }
 
 
