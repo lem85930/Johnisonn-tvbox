@@ -234,7 +234,7 @@
         "name": "🦖rarbt┃影视",
         "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
+        "jar": "./PantyHose/spider/XBPQ.jar",
         "ext": "./PantyHose/lib/rarbtv.json"
     },
     {
@@ -242,7 +242,7 @@
         "name": "⛅️酷云┃影视",
         "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
+        "jar": "./PantyHose/spider/XBPQ.jar",
         "ext": "./PantyHose/lib/酷云.json"
     },
 
@@ -301,13 +301,13 @@
     {
       "key": "茶杯","name": "🦊茶狐┃快线","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/茶杯狐.json"
     },
     {
       "key": "csp_黑狐","name": "🦂黑狐┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/黑狐.json"
     },
 {"key": "南瓜","name": "🎃南瓜┃App","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"api": "csp_NanGua"},
@@ -341,7 +341,7 @@
     {
       "key": "csp_TVB","name": "🔆TVB┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/TVB云播.json"
     },
     {
@@ -351,25 +351,26 @@
     },
     {
       "key": "玖八","name": "🎐玖八┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ","jar":"./PantyHose/spider/HCCX.jar",
+      "api": "csp_XBPQ",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/98.json"
     },
     {
       "key": "csp_星辰","name": "☪️星辰┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/chuanxin.jar",
+      "jar": "./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/星辰.json"
     },
     {
       "key": "csp_七新","name": "🍵七新┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/七新.json"
     },
     {
       "key": "csp_午舞","name": "🐤午舞┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/55.json"
     },
     {
@@ -380,20 +381,20 @@
     {
       "key": "csp_xBPQ_奇优","name": "🎗️奇优┃快线","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/奇优.json"
     },
     {
       "key": "csp_达龟","name": "🐳达龟┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/达达龟.json"
     },
 
     {
       "key": "csp_米爱","name": "🐰米爱┃快线","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar":"./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/米爱.json"
     },
 
@@ -409,14 +410,14 @@
     },
     {
         "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 0,"quickSearch": 1,"changeable": 1,//网站需验证
-        "jar":"./PantyHose/spider/JunYu.jar",
+        "jar": "./PantyHose/spider/XBPQ.jar",
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
     },
     {
-      "key": "csp_超前","name": "🍷超前┃追剧","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,//网站需验证
+      "key": "csp_超前","name": "🍷超前┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,//网站需验证
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/HCCX.jar",
+      "jar": "./PantyHose/spider/XBPQ.jar",
       "ext": "./PantyHose/lib/超前B站.json"
     },
 
