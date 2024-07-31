@@ -4,7 +4,7 @@
     //"数组":"class=\"thumb-video img-responsive-16by9\"&&</span>",
     "数组":"><img src=&&</span>",
     
-    "图片":"scr=\"&&\"",
+    "图片":"src=\"&&\"",
     "标题":"title=\"&&\"",
     "链接":"href=\"&&\"",
 
