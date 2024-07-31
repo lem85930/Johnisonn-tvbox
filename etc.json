@@ -9,53 +9,59 @@
 ////////////////////////////////
     {
       "key": "BDSMvilla",
-      "name": "Villa┃七彩",
+      "name": "Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
+      "ext": "./PantyHose/lib/villa.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
     },
     {
       "key": "aaxx",
-      "name": "Aaxx┃七彩",
+      "name": "AX┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
     },
     {
       "key": "aV",
-      "name": "IAV┃七彩",
+      "name": "IAV┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
+      "ext": "./PantyHose/lib/iav.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
     },
     {
       "key": "bdgvl",
-      "name": "Valley┃七彩",
+      "name": "Valley┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/vally.json"    
+      "ext": "./PantyHose/lib/vally.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/vally.json"    
     },
     {
       "key": "hamster",
-      "name": "Hamster┃七彩",
+      "name": "Hamster┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
+      "ext": "./PantyHose/lib/hamster.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
     },
     {
       "key": "BBV",
       "name": "BBV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/JunYu.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bondage.json"
+      "jar": "./PantyHose/spider/JunYu.jar",
+      "ext": "./PantyHose/lib/bbv.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bbv.json"
     },
     {
       "key": "freesm",
       "name": "Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
+      "ext": "./PantyHose/lib/freebd.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
     }
 
     
