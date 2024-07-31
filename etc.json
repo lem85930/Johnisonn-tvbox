@@ -1,5 +1,5 @@
 {
-    "spider": "./PantyHose/spider/HCCX.jar",
+    "spider": "./PantyHose/spider/XBPQ.jar",
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [
 
@@ -51,7 +51,6 @@
       "name": "BBV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/JunYu.jar",
       "ext": "./PantyHose/lib/bbv.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bbv.json"
     },
