@@ -4,20 +4,12 @@
     "数组":"class=\"thumb-video img-responsive-16by9\"&&class=\"post-info\">",
     //"数组":"><img src=&&</span>",
     
-    //"图片":"src=\"&&\"",
-    //"标题":"title=\"&&\"",
-    //"链接":"href=\"&&\"",
 
     "搜索模式": "1",
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
               
-    //"搜索数组":"class=\"thumb-video img-responsive-16by9\"&&class=\"post-info\"",
-    //"搜索图片":"scr=\"&&\"",
-    //"搜索标题":"title=\"&&\"",
 
-    "直接播放":"1",
-    "免嗅":"0",
-    "嗅探词":".m3u8#.mp4#.flv#.webm"
+    "直接播放":"1"
 
 
 }
