@@ -1,6 +1,5 @@
 {
   "spider": "./PantyHose/spider/FTY.jar",
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "sites": [
        
 {
@@ -19,9 +18,9 @@
             "链接":"href=\"&&\"",
 
             "搜索模式": "1",
-            "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
+            "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}"
             
-            "直接播放":"1"
+            //"直接播放":"1"
             //"嗅探词":"m3u8#mp4"
 
 
