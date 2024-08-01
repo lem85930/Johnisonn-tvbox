@@ -85,7 +85,7 @@
         "日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]
     },
     {
-        "key": "豪华","name": "②豪华┃采集","type": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,
+        "key": "豪华","name": "②豪华┃采集","type": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod",
         "categories":
         ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
@@ -119,7 +119,7 @@
     },
     {
         "key": "光速资源","name": "⑦光速┃采集","type": 1,"api": "http://api.guangsuapi.com/api.php/provide/vod/",
-        "searchable": 1,"changeable": 1,
+        "searchable": 0,"changeable": 1,
         "categories":
         ["动作片","喜剧片","爱情片","科幻片", "剧情片","恐怖片", "战争片","动漫电影","大陆剧","欧美剧",
         "港澳剧","韩剧","日剧","台湾剧","泰剧","综艺","动漫","记录片"]
@@ -251,8 +251,8 @@
     {"key":"csp_Kuaikan","name":"👀快看┃蓝光","type":3,"api":"csp_Kuaikan","jar":"./PantyHose/spider/MoYu.jar","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"JOJO","name":"🍭JOJO┃蓝光","type":3,"api":"csp_Jiohub","jar":"./PantyHose/spider/MoYuDanMu.jar","searchable":1,"quickSearch":1,"filterable":1,"timeout":10},
     {"key":"厂长弹幕版","name":"🏭️厂长┃蓝光","type":3,"api":"csp_Czzy","jar":"./PantyHose/spider/MoYuDanMu.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
-    {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"蛋蛋","name":"🍓蛋蛋┃多线","type":3,"api":"csp_Cddys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+    {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":0,"quickSearch":1,"changeable":1},
+    {"key":"蛋蛋","name":"🍓蛋蛋┃多线","type":3,"api":"csp_Cddys","timeout":15,"playerType":2,"searchable":0,"quickSearch":1,"changeable":1},
 
     {
       "key": "csp_Duopan",
