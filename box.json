@@ -255,31 +255,11 @@
     {"key":"蛋蛋","name":"🍓蛋蛋┃多线","type":3,"api":"csp_Cddys","timeout":15,"playerType":2,"searchable":0,"quickSearch":1,"changeable":1},
 
     {
-      "key": "csp_Duopan",
-      "name": "🖍︎蜡笔┃影视",
-      "type": 3,
-      "api": "csp_Duopan",
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://duopan.fun/"
-    },
-    {
       "key": "csp_SuBaiBai",
       "name": "🏳️素白┃影视",
       "type": 3,
       "jar": "./PantyHose/spider/FeiMao240711.jar",
       "api": "csp_SuBaiBai"
-    },
-    {
-      "key": "csp_Netfixtv",
-      "name": "💌至臻┃影视",
-      "type": 3,
-      "api": "csp_Netfixtv",
-      "jar": "./PantyHose/spider/FeiMao240711.jar",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
     },
     {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
