@@ -3,20 +3,22 @@
   "sites": [
        
        {
-            "key": "SBB","name": "素白┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+            "key": "兄弟影视","name": "兄弟┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
             "ext": 
                     {
-            "分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}",
-            "分类":"电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama",
-            "数组":"<li>&&><span",
+            "分类url":"https://www.brovod.com/type/{cateId}/",
+            
+            "分类":"电影$1#剧集$2#综艺$2#动漫$4#纪录片$5#短剧$6",
+            //"数组":"<li>&&><span",
 
-            "播放数组":"class=\"paly_list_btn\">&&</div>",
-            "播放标题":">&&<",
-            "播放列表":"<a&&/a>",
+            //"播放数组":"class=\"paly_list_btn\">&&</div>",
+            //"播放标题":">&&<",
+            //"播放列表":"<a&&/a>",
 
             "搜索模式": "1",
-            "搜索url":"https://www.subaibaiys.com/page/{catePg}/?s={wd}"
+            "搜索url": "https://www.brovod.com/ss/{wd}----------{catePg}---/"
+            
             
             //"嗅探词":".m3u8#.mp4"
                      }
