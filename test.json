@@ -1,38 +1,12 @@
 {
-  "spider": "./PantyHose/spider/FTY.jar",
+  "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
        
-{
-      "key": "BBV",
-      "name": "BBV┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-
-            "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
-            "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
-            "数组":"class=\"thumb-video img-responsive-16by9\"&&</span>",
-
-            "搜索模式": "1",
-            "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}"
-            
-            //"直接播放":"1"
-            //"嗅探词":"m3u8#mp4"
-
-
-
-      }
-    },
-
-{
-      "key": "SBB",
-      "name": "素白┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-
+       {
+            "key": "SBB","name": "素白┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+            "api": "csp_XBPQ",
+            "ext": 
+                    {
             "分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}",
             "分类":"电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama",
             "数组":"<li>&&><h3",
@@ -42,82 +16,8 @@
             
             "直接播放":"1",
             "嗅探词":".m3u8#.mp4"
-
-
-             }
-    },
-
-
-
-
-
-
-
-
-
-
-
-
-    {
-        "key": "虎牙","name": "⑪虎牙┃采集","type": 1,"searchable": 1,"quickSearch": 1,
-        "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
-        "categories":
-        ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧",
-        "台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]
-    },
-    {
-        "key": "新浪","name": "⑫新浪┃采集","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-        "searchable": 1,"quickSearch": 1,"filterable": 1,
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
-        "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫",
-        "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-    },
-    {
-      "key": "量子采集","name": "⑬量子┃采集","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,
-      "categories":
-      ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
-        "香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","大陆综艺","动画片","中国动漫","日本动漫","欧美动漫"]
-    },
-
-
-///////////////////////
-    {
-        "key": "红牛","name": "⑭红牛┃采集","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-        "searchable": 1,"quickSearch": 1,"filterable": 1,
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
-        "欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫",
-        "日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-    },
-    {
-        "key": "索尼","name": "⑮索尼┃采集","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-        "searchable": 1,"quickSearch": 1,"filterable": 1,
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧",
-        "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫",
-        "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]
-    },
-   {
-        "key": "百度","name": "⑯百度┃采集","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
-        "searchable": 1,"quickSearch": 1,"filterable": 1,
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动画电影",
-        "大陆剧","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片",
-        "体育赛事","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-    },
-    {
-      "key": "drpy_js_量子资源",
-      "name": "⑰量子┃采集",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/量子资源.js"
-    }
-
-
-////////////////////////////////
-
+                     }
+       }
 
   ]
 }
