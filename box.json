@@ -230,6 +230,12 @@
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
+    "key": "SBB","name": "👙素白┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+    "api": "csp_XBPQ",
+    "jar": "./PantyHose/spider/HCCX.jar",
+    "ext": "./PantyHose/lib/素白.json"
+    },
+    {
         "key": "rarbt",
         "name": "🦖rarbt┃影视",
         "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
