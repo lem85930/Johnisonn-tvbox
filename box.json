@@ -404,7 +404,7 @@
       "ext": "./PantyHose/lib/酷6.js"
     },
     {
-        "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 0,"quickSearch": 1,"changeable": 1,//网站需验证
+        "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,//网站需验证
         "jar": "./PantyHose/spider/HCCX.jar",
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
