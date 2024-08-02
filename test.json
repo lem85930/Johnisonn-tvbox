@@ -10,7 +10,7 @@
             "分类url":"https://www.brovod.com/type/{cateId}/",
             
             "分类":"电影$1#剧集$2#综艺$2#动漫$4#纪录片$5#短剧$6",
-            //"数组":"<a href=&&class=\"icon-play\">",
+            "数组":"<a href=&&class=\"icon-play\">",
             //"数组":"<a&&/div></div></a>",
 
             "播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
