@@ -2,7 +2,19 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
        
-       {
+     {
+        "key": "全集网","name": "👙全集┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,//网站需验证
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/全集网.json"
+    },
+    {
+      "key": "csp_超前","name": "🍷超前┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,//网站需验证
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/超前B站.json"
+    },
+      {
             "key": "FreeOk","name": "FreeOk┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
             "ext": //"https://gitee.com/JKzb/bh/raw/master/lib/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.json"
