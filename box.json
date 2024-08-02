@@ -260,6 +260,12 @@
         "ext": "./PantyHose/lib/素白.json"
     },
     {
+        "key": "蛋蛋","name": "🍳蛋蛋┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/ddys.json"
+    },
+    {
         "key": "rarbt",
         "name": "🦖rarbt┃影视",
         "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
