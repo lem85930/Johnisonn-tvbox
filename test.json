@@ -5,24 +5,24 @@
        {
             "key": "兄弟影视","name": "兄弟┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
-            "ext": 
-                    {
-            "分类url":"https://www.brovod.com/type/{cateId}/",
+            "ext": "https://gitee.com/JKzb/bh/raw/master/lib/%E5%85%84%E5%BC%9F%E5%BD%B1%E8%A7%86.json"
+                    //{
+            //"分类url":"https://www.brovod.com/type/{cateId}/",
             
-            "分类":"电影$1#剧集$2#综艺$2#动漫$4#纪录片$5#短剧$6",
-            "数组":"<a href=&&class=\"icon-play\">",
+            //"分类":"电影$1#剧集$2#综艺$2#动漫$4#纪录片$5#短剧$6",
+            //"数组":"<a href=&&class=\"icon-play\">",
             //"数组":"<a&&/div></div></a>",
 
-            "播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
-            "播放标题":">&&<",
-            "播放列表":"<a&&/a>",
+            //"播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
+            //"播放标题":">&&<",
+            //"播放列表":"<a&&/a>",
 
-            "搜索模式": "1",
-            "搜索url": "https://www.brovod.com/ss/{wd}----------{catePg}---/"
+            //"搜索模式": "1",
+            //"搜索url": "https://www.brovod.com/ss/{wd}----------{catePg}---/"
             
             
             //"嗅探词":".m3u8#.mp4"
-                     }
+                   //  }
        }
 
   ]
