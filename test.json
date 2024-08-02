@@ -4,24 +4,25 @@
        
 
       {
-            "key": "FreeOk","name": "FreeOk┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+            "key": "蛋蛋","name": "蛋蛋┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
-            "ext": "https://gitee.com/JKzb/bh/raw/master/lib/Free.json"
-                    //{
-            //"分类url":"https://www.freeok.vip/v-type/{cateId}.html",
-            //"分类":"电影$1#剧集$2#动漫$2#综艺$4#少儿$5",
+            "ext": //"https://gitee.com/JKzb/bh/raw/master/lib/Free.json"
+                    {
+            "分类url":"https://www.dandanju.cc/type/{cateId}-{catePg}.html",
+            
+            "分类":"电影$1#剧集$2#综艺$2#动漫$4",
             //"数组":"<a&&/div></div></a>",
 
             //"播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
             //"播放标题":">&&<",
             //"播放列表":"<a&&/a>",
 
-            //"搜索模式": "1",
-            //"搜索url": "https://www.freeok.vip/so1so/{wd}----------{catePg}---.html"
+            "搜索模式": "1",
+            "搜索url": "https://www.dandanju.cc/search/{wd}----------{catePg}---.html"
             
             
             //"嗅探词":".m3u8#.mp4"
-                    //}
+                    }
        }
 
   ]
