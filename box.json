@@ -254,13 +254,13 @@
         "ext": "./PantyHose/lib/freeok.json"
     },
     {
-        "key": "SBB","name": "👙素白┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "sbb","name": "👙素白┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/素白.json"
     },
     {
-        "key": "蛋蛋","name": "🍳蛋蛋┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "Ddys","name": "🍳蛋蛋┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/ddys.json"
