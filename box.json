@@ -248,7 +248,7 @@
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-        "key": "FreeOK","name": "👌FreeOK┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "FreeOK","name": "👌FrOK┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/freeok.json"
