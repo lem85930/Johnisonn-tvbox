@@ -31,8 +31,8 @@
             "分类url":"https://pornlab.xxx/{cateId}/?page={catePg}",
 
             "分类":"流行$best#最新$new#明星$pornstars",
-            "数组":"class=\"js-gallery-stats js-gallery-link\"&&</h3>",
-            "图片":"type=\"image/jpeg\" srcset=\"&&\"",
+            "数组":"class=\"js-gallery-stats js-gallery-link\"&&class=\"icon-tag\"",
+            "图片":"src=\"&&\"",
             "标题":"class=\"b-thumb-item__title js-gallery-title\">&&</h3>",
             "链接":"href=\"&&\"",
 
@@ -41,10 +41,10 @@
             //"播放列表":"<a&&/a>",
 
             "搜索模式": "1",
-            "搜索url": "https://pornlab.xxx/search/{wd}?page={catePg}"
+            "搜索url": "https://pornlab.xxx/search/{wd}?page={catePg}",
             
             
-            //"嗅探词":".m3u8#.mp4"
+            "嗅探词":".m3u8#.mp4"
                     }
        }
 
