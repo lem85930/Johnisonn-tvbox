@@ -11,8 +11,6 @@
             "分类url":"http://www.qdsolong.cn/product/{cateId}.html",
             
             "分类":"电影$1#剧集$2#综艺$2#动漫$4#短剧$337#伦理片$30#日韩$36",
-            //"数组":"<a&&/div></div></a>",
-
             //"播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
             //"播放标题":">&&<",
             //"播放列表":"<a&&/a>",
@@ -33,7 +31,10 @@
             "分类url":"https://pornlab.xxx/{cateId}/?page={catePg}",
 
             "分类":"流行$best#最新$new#明星$pornstars",
-            //"数组":"<a&&/div></div></a>",
+            "数组":"class=\"js-gallery-stats js-gallery-link\"&&</h3>",
+            "图片":"type=\"image/jpeg\" srcset=\"&&\"",
+            "标题":"class=\"b-thumb-item__title js-gallery-title\">&&</h3>",
+            "链接":"href=\"&&\"",
 
             //"播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
             //"播放标题":">&&<",
