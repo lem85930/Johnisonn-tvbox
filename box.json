@@ -336,7 +336,7 @@
     {
       "key": "Lib","name": "🎥利播┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_Libvio",
-      "ext": "https://www.libvio.pro/"
+      "ext": "https://www.libvio.cc/"
     },
     {
       "key": "玖八","name": "🎐玖八┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
