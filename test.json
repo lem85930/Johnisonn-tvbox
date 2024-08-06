@@ -12,7 +12,7 @@
             "分类url":"https://www.libvio.cc/type/{cateId}-{catePg}.html",
             
             "分类":"电影$1#剧集$2#动漫$4#日韩$15#欧美$16",
-            //"数组":"class=\"stui-vodlist__thumb lazyload\"&&class=\"stui-vodlist__detail\"",
+            "数组":"class=\"stui-vodlist__thumb lazyload\"&&class=\"play hidden-xs\"",
             //"图片":"data-original=\"&&\"",
             //"标题":"title=\"&&\"",
             //"链接":"href=\"&&\"",
