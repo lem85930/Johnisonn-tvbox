@@ -3,12 +3,6 @@
   "sites": [
           
           
-    {
-      "key": "七新","name": "🍵七新┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/七新.json"
-    },
-
       {
             "key": "苹果","name": "苹果┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
@@ -32,27 +26,7 @@
              {
             "key": "pornlab","name": "pornlab┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
-            "ext": //"https://gitee.com/JKzb/bh/raw/master/lib/Free.json"
-                    {
-            "分类url":"https://pornlab.xxx/{cateId}/?page={catePg}",
-
-            "分类":"流行$best#最新$new#明星$pornstars",
-            "数组":"js-gallery-link\"&&</picture>",
-            "图片":"type=\"image/jpeg\" srcset==\"&&\"",
-            "标题":"alt=\"&&\"",
-            "链接":"href=\"&&\"",
-
-            //"播放数组":"class=\"module-play-list-content module-play-list-base\">&&</div>",
-            //"播放标题":">&&<",
-            //"播放列表":"<a&&/a>",
-
-            "直接播放": "1",
-            "搜索模式": "1",
-            "搜索url": "https://pornlab.xxx/search/{wd}?page={catePg};k",
-            
-            
-            "嗅探词":".m3u8#.mp4"
-                    }
+            "ext": "./PantyHose/spider/lib/pornlab.json"
        }
 
 
