@@ -1,7 +1,13 @@
 {
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
-       
+          
+          
+    {
+      "key": "七新","name": "🍵七新┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/七新.json"
+    },
 
       {
             "key": "苹果","name": "苹果┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
