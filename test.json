@@ -4,14 +4,15 @@
           
           
       {
-            "key": "libvio","name": "光棍┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+            "key": "XXXXX","name": "骚火┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
-            "ext": "./PantyHose/lib/光棍.json"
+            "ext": 
             
-            //{
+            {
                     
-                        //"分类url": "https://www.libvio.cc/type/{cateId}-{catePg}.html",
-                        //"分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
+                        "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html",
+                        
+                        "分类": "电影$1#剧集$2"
                         //"数组":"stui-vodlist__thumb&&</a>",
 
                        
@@ -22,7 +23,7 @@
   
 
 
-            //}
+            }
       }
 
 
