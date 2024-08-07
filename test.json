@@ -12,7 +12,9 @@
                     
                         "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html",
                         
-                        "分类": "电影$1#剧集$2"
+                        "分类": "电影$1#剧集$2",
+
+                        "搜索模式":"1"
                         //"数组":"stui-vodlist__thumb&&</a>",
 
                        
