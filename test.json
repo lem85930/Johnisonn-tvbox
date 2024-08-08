@@ -4,7 +4,7 @@
           
           
       {
-            "key": "XXXXX","name": "骚火┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+            "key": "XXXXX","name": "骚火1┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
             "api": "csp_XBPQ",
             "ext": 
             
@@ -13,6 +13,31 @@
                         "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html;;d",
                         
                         "分类": "电影$1#剧集$2",
+
+                        "搜索模式":"1"
+                        //"数组":"stui-vodlist__thumb&&</a>",
+
+                       
+                        //"搜索模式":"1",
+                        //"搜索url":"https://www.libvio.cc/search/{wd}----------{catePg}---.html"
+                        
+                        
+  
+
+
+            }
+      },
+
+            {
+            "key": "XXX2X","name": "骚火2┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+            "api": "csp_XBPQ",
+            "ext": 
+            
+            {
+                    
+                        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html",
+                        
+                        "分类": "电影$1#剧集$2#喜剧$6",
 
                         "搜索模式":"1"
                         //"数组":"stui-vodlist__thumb&&</a>",
