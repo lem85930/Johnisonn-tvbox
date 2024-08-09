@@ -2,6 +2,12 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
           
+
+              {
+        "key": "HME","name": "👙木耳┃采集","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/黑木耳.json"
+    },
           
       {
             "key": "XXXXX","name": "骚火1┃TEST","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
