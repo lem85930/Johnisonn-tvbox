@@ -333,7 +333,7 @@
       "ext": "./PantyHose/lib/TVB云播.json"
     },
     {
-      "key": "Lib","name": "🎥利播┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "key": "Lib","name": "💻️利播┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       //"api": "csp_Libvio",
       //"ext": "https://www.libvio.cc/"
       "api": "csp_XBPQ",
@@ -389,7 +389,7 @@
         "ext": "./PantyHose/lib/全集网.json"
     },
     {
-      "key": "csp_超前","name": "🚄超前┃追剧","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,//网站需验证
+      "key": "csp_超前","name": "🔀超前┃追剧","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,//网站需验证
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/超前B站.json"
@@ -419,7 +419,6 @@
     {
       "key": "思古影视","name": "💗思古┃快线","type": 3,
       "api": "./PantyHose/frame/drpy2.min.js",
-      //"jar": "./PantyHose/spider/PG.jar",
       //"ext": "./PantyHose/lib/思古.js",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/思古.js"
     },
