@@ -333,7 +333,7 @@
       "ext": "./PantyHose/lib/TVB云播.json"
     },
     {
-      "key": "Lib","name": "💻️利播┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "key": "Lib","name": "🎉利播┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       //"api": "csp_Libvio",
       //"ext": "https://www.libvio.cc/"
       "api": "csp_XBPQ",
