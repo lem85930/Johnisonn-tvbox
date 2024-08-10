@@ -234,7 +234,7 @@
     },
 
 
-//////////////////////内置接口(8)///////////////////////////////
+//////////////////////内置接口(7)///////////////////////////////
 
     {   
         "key":"可可","name":"🐥可可┃多线","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
@@ -266,14 +266,8 @@
         "api":"csp_Zxzj",
         "ext":"https://www.zxzja.com/"
     },
-    {
-        "key": "csp_New6v","name": "🕐新6V┃快线","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-        "api": "csp_New6v",
-        //"jar": "./PantyHose/spider/chuanxin.jar",
-        "ext": "https://www.xb6v.com"
-    },
 
-/////////////////////外挂JAR(3)///////////////////////////////
+/////////////////////外挂JAR(4)///////////////////////////////
 
     {   
         "key":"机器人bot","name":"🤖机器┃蓝光","type":3,"searchable":1,"quickSearch":1,"changeable":1,
@@ -289,6 +283,12 @@
         "key":"JOJO","name":"🍭JOJO┃蓝光","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,
         "api":"csp_Jiohub",
         "jar":"./PantyHose/spider/MoYuDanMu.jar"
+    },
+    {
+        "key": "csp_New6v","name": "🕐新6V┃快线","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+        "api": "csp_New6v",
+        "jar": "./PantyHose/spider/chuanxin.jar",
+        "ext": "https://www.xb6v.com"
     },
 
 //////////////////////////XBPQ(18)///////////////////////////
