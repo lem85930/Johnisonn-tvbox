@@ -288,11 +288,13 @@
     {
         "key": "HME","name": "👂️木耳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./NOTES/采集站规则.json"
     },
     {
         "key": "XXX2X","name": "🌋骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/骚火.json"
     },
     {
