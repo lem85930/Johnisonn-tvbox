@@ -85,7 +85,7 @@
       "name": "【小波丁丁蕤】","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
       "api": "csp_DouDou"
     },
-/////////////////////////采集站（搜索错误）///////////////////////////
+/////////////////////////采集站（搜索不兼容）///////////////////////////
     {
         "key": "豪华","name": "🛒豪华┃采集","type": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -146,8 +146,15 @@
     },
 
 
-////////////////////////采集站(9)//////////////////////////
+////////////////////////采集站(10)//////////////////////////
 
+    {
+        "key": "爱酷猫","name": "✨️i酷猫┃采集","type": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,
+        "api": "http://caiji.ikum.cc:8099/api.php/provide/vod",
+        "categories":
+        ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
+        "香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","大陆综艺","动画片","中国动漫","日本动漫","欧美动漫"]
+    },
     {
         "key": "暴风","name": "✨️暴风┃采集","type": 1,"playUrl": "","searchable": 1,
         "api": "https://app.bfzyapi.com/api.php/provide/vod/",
@@ -223,18 +230,18 @@
 //////////////////////内置接口(7)///////////////////////////////
 
     {   
-        "key":"可可","name":"🐥可可┃多线","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
+        "key":"可可","name":"🐥可可┃内置","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_Kekys"
     },
     {
-        "key":"苹果","name":"🍎苹果┃不卡","type":3,"searchable":1,"quickSearch":1,"changeable":1,
+        "key":"苹果","name":"🍎苹果┃内置","type":3,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_LiteApple"
     },
     {
-        "key":"南瓜","name":"🎃南瓜┃App","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key":"南瓜","name":"🎃南瓜┃APP","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_NanGua"
     },
-    {   "key":"酷看","name":"💡酷看┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+    {   "key":"酷看","name":"💡酷看┃APP","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_Kkys"
     },
     {
@@ -248,7 +255,7 @@
        "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-        "key":"zxzj","name":"📡在线┃外剧","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
+        "key":"zxzj","name":"📡在线┃内置","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_Zxzj",
         "ext":"https://www.zxzja.com/"
     },
@@ -277,7 +284,17 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(17)///////////////////////////
+//////////////////////////XBPQ(19)///////////////////////////
+    {
+        "key": "HME","name": "👂️木耳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./NOTES/采集站规则.json"
+    },
+    {
+        "key": "XXX2X","name": "🌋骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/骚火.json"
+    },
     {
         "key": "rcsdhssc","name": "🎋立播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
@@ -385,7 +402,7 @@
 
 //////////////////////////DRPY(4)///////////////////////////
     {
-      "key": "贱贱","name": "🤪荐片┃App","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
+      "key": "贱贱","name": "🤪荐片┃APP","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/荐片.js"
     },
