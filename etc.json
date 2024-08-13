@@ -4,7 +4,24 @@
     "sites": [
 
 
-
+    {
+      "key": "drpy_js_酷6网","name": "🔯酷6┃DR","type": 3,"searchable":0,"changeable": 0,//无搜索
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "jar": "./PantyHose/spider/PG.jar",
+      "ext": "./PantyHose/lib/酷6.js"
+    },
+    {
+      "key": "4KHDR","name": "✡️HDR┃DR","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/4khdr.js"
+    },
+    {
+      "key": "csp_超前","name": "🔀超前┃PQ","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,//网站需验证
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "./PantyHose/lib/超前B站.json"
+    },
+    
 
 ////////////////////////////////
     {
