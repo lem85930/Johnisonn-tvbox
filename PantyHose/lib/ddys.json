@@ -7,7 +7,11 @@
             "图片":"data-original=\"&&\"",
             "标题":"title=\"&&\"",
             "链接":"href=\"&&\"",
+
+            "线路数组":"date-val=\"t6jf97ajuq\"&&</a>",
+            "线路标题":"title=\"&&\"",
             
+
             "搜索模式": "1",
             //"搜索url": "https://www.dandanju.cc/search/{wd}----------{catePg}---.html"
             "搜索url": "https://www.shcgoo.com/cechi/page/{catePg}/wd/{wd}.html"
