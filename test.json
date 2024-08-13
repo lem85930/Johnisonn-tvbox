@@ -6,7 +6,7 @@
     {
         "key": "HME","name": "👙木耳┃采集","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "ext": ".NOTES/采集站规则.json"
+        "ext": "./NOTES/采集站规则.json"
     },
     {
         "key": "木耳","name": "🛒木耳┃采集","type": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,
