@@ -146,15 +146,8 @@
     },
 
 
-////////////////////////采集站(10)//////////////////////////
+////////////////////////采集站(8)//////////////////////////
 
-    {
-        "key": "爱酷猫","name": "✨️i酷猫┃采集","type": 1,"searchable": 1,"quickSearch": 0,"filterable": 1,
-        "api": "http://caiji.ikum.cc:8099/api.php/provide/vod",
-        "categories":
-        ["内地剧","动作片","科幻片","战争片","灾难片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧",
-        "香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","大陆综艺","动画片","中国动漫","日本动漫","欧美动漫"]
-    },
     {
         "key": "暴风","name": "✨️暴风┃采集","type": 1,"playUrl": "","searchable": 1,
         "api": "https://app.bfzyapi.com/api.php/provide/vod/",
@@ -284,7 +277,13 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(19)///////////////////////////
+//////////////////////////XBPQ(20)///////////////////////////
+    {
+        "key": "DSX","name": "🧙师兄┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/师兄.json"
+    },
     {
         "key": "HME","name": "👂️木耳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
@@ -354,7 +353,7 @@
       "ext": "./PantyHose/lib/libvio.json"
     },
     {
-      "key": "玖八","name": "🎐玖八┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "key": "98","name": "🎐玖八┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
       "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/98.json"
@@ -372,7 +371,7 @@
       "ext": "./PantyHose/lib/七新.json"
     },
     {
-      "key": "午舞","name": "🐤午舞┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "key": "55","name": "🐤午舞┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
       "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/55.json"
@@ -404,7 +403,7 @@
 
 //////////////////////////DRPY(4)///////////////////////////
     {
-      "key": "贱贱","name": "🤪荐片┃APP","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
+      "key": "贱贱","name": "🤪荐片┃DR","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/荐片.js"
     },
