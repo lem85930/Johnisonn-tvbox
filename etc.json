@@ -90,7 +90,27 @@
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/freebd.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
+    },
+
+///////////////////网盘资源///////////////////////////
+
+    {
+        "key":"csp_XYQHiker_影搜","name":"💠影搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api":"csp_XYQHiker",
+        "jar":"./PantyHose/spider/chuanxin.jar",
+        "ext":"./PantyHose/lib/影搜.json"
+    },
+    {
+        "key":"夸搜","name":"💠夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_PanSearch",
+        "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
+    },
+    {
+        "key":"PanSearch","name":"💠盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_PanSearch",
+        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     }
+
 
     
 
