@@ -280,6 +280,12 @@
 //////////////////////////XBPQ(21)///////////////////////////
 
     {
+        "key": "knvod","name": "🚹柯南┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/柯南.json"
+    },
+    {
         "key": "lkvod","name": "🍁来看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
