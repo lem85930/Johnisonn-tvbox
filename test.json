@@ -12,15 +12,15 @@
             "分类url":"https://www.knvod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
             "分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#短剧$6",
 
-            //"二次截取":"module-poster-items-base&&</a></div>",
             "二次截取":"new Function(b)&&</a></div>",
             "数组":"<a&&</a>",
             "图片":"data-original=\"&&\"",
             "标题":"title=\"&&\"",
             "链接":"href=\"&&\"",
 
-            "线路数组":"data-dropdown-value=\"&&</small>",
-            "线路标题":"<span>&&</small>[替换：我>>空#</span><small>>>共]+集",
+            "线路二次截取":"class=\"swiper-wrapper\"&&</div>",
+            "线路数组":"swiper-slide module-tab-item tab-item&&<small",
+            "线路标题":">&&<[替换：我>>空]",
 
             //"播放数组":"",
             //"播放标题":"",
