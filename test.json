@@ -18,6 +18,13 @@
             "标题":"title=\"&&\"",
             "链接":"href=\"&&\"",
 
+            "线路数组":"data-dropdown-value=\"&&</small>",
+            "线路标题":"<span>&&</small>[替换：我>>空#</span><small>>>共]+集",
+
+            //"播放数组":"",
+            //"播放标题":"",
+            //"播放列表":"",
+
             "搜索模式":"1",
             "搜索url":"https://www.knvod.com/daxiaoren/{wd}----------{catePg}---/"
 
