@@ -48,7 +48,7 @@
 
             //"二次截取":"new Function(b)&&</a></div>",
             "数组":"class=\"item preview\"&&class=\"item_tags\"",
-            "图片":"src=\"&&\"",
+            "图片":"data-src=\"&&\"",
             "标题":"class=\"item_title\">&&</div>",
             "链接":"href=\"&&\"",
 
