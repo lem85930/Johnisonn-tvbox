@@ -8,10 +8,10 @@
         "ext": 
         {
             "主页url":"https://bunkr.si/{cateId}",
-            "分类":"video$a/Ed7H8P21",
+            "分类":"VD$a/Ed7H8P21",
 
-            "二次截取":"grid-images_box rounded-lg dark:bg-gray-200 xl:aspect-w-7 xl:aspect-h-8 p-2.5 border-2 display relative flex text-center&&</div></div>",
-            "数组":"<a&&</p><p>",
+            //"二次截取":"grid-images_box rounded-lg dark:bg-gray-200 xl:aspect-w-7 xl:aspect-h-8 p-2.5 border-2 display relative flex text-center&&</div></div>",
+            "数组":"text-center\"&&</p><p>",
             "图片":"src=\"&&\"",
             "标题":"text-white-700*>&&</p>",
             //"副标题":"#ffd369 !important;\">&&</p>",
