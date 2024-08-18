@@ -26,7 +26,7 @@
 ////////////////////////////////
     {
       "key": "BDSMvilla",
-      "name": "Villa┃ColorF",
+      "name": "🔌Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/villa.json"
@@ -34,15 +34,22 @@
     },
     {
       "key": "bdgvl",
-      "name": "Valley┃ColorF",
+      "name": "🔌Valley┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/valley.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/valley.json"    
     },
     {
+      "key": "pornXP",
+      "name": "🚅pornXP┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/pornXP.json"
+    },
+    {
       "key": "hamster",
-      "name": "Hamster┃ColorF",
+      "name": "🚅Hamster┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/hamster.json"
@@ -50,7 +57,7 @@
     },
     {
       "key": "PornLab",
-      "name": "PornLab┃ColorF",
+      "name": "🚅PornLab┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/pornlab.json"
@@ -58,14 +65,14 @@
     },
     {
       "key": "aaxx",
-      "name": "AX┃ColorF",
+      "name": "🚅AX┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
     },
     {
       "key": "aV",
-      "name": "IAV┃ColorF",
+      "name": "🚅IAV┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/iav.json"
@@ -77,7 +84,7 @@
 
     {
       "key": "BBV",
-      "name": "BBV┃TEST",
+      "name": "🔌BBV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/bbv.json"
@@ -85,7 +92,7 @@
     },
     {
       "key": "freesm",
-      "name": "Freebd┃TEST",
+      "name": "🔌Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/freebd.json"
