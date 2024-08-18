@@ -36,6 +36,41 @@
 
 
         }
+    },
+
+        {
+        "key": "PORNXP","name": "XP┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": 
+        {
+            "分类url":"https://pornxp.one/{cateId}/?page={catePg}",
+            "分类":"NEW$released#HD$hd#BEST$best#TAGS$tags",
+
+            //"二次截取":"new Function(b)&&</a></div>",
+            "数组":"class=\"item preview\"&&class=\"item_tags\"",
+            "图片":"src=\"&&\"",
+            "标题":"class=\"item_title\">&&</div>",
+            "链接":"href=\"&&\"",
+
+            //"线路二次截取":"class=\"swiper-wrapper\"&&</div>",
+            //"线路数组":"iconfont hl-icon-shipin&&</a>",
+            //"线路标题":"</i>&&</a>[排序：量子>>暴风>>非凡>>黑木耳]",
+
+            //"播放数组":"",
+            //"播放标题":"",
+            //"播放列表":"",
+            
+            "直接播放":"1",
+            "搜索模式":"1",
+            "搜索url":"https://pornxp.one/tags/{wd}?page={catePg}"
+
+
+
+
+
+
+
+        }
     }
 
 
