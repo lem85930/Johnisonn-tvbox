@@ -2,39 +2,6 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
           
-
-
-    {
-        "key": "knvod","name": "追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": 
-        {
-            "分类url":"http://svip.zhuiying.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-            "分类":"电影$20#剧集$21#综艺$22#动漫$23#短剧$24",
-
-            //"二次截取":"new Function(b)&&</a></div>",
-            "数组":"hl-item-thumb hl-lazy&&hl-pic-icon hl-hidden-xs",
-            "图片":"data-original=\"&&\"",
-            "标题":"title=\"&&\"",
-            "链接":"href=\"&&\"",
-
-            //"线路二次截取":"class=\"swiper-wrapper\"&&</div>",
-            "线路数组":"iconfont hl-icon-shipin&&</a>",
-            "线路标题":"</i>&&</a>[排序：量子>>暴风>>非凡>>黑木耳]",
-
-            //"播放数组":"",
-            //"播放标题":"",
-            //"播放列表":"",
-
-            "搜索模式":"1",
-            "搜索url":"http://svip.zhuiying.cyou/index.php/vod/search/page/{catePg}/wd/{wd}.html"
-
-
-
-
-        }
-    },
-
         {
         "key": "XXX","name": "Shiny┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
@@ -52,10 +19,6 @@
             "直接播放":"1"
             //"搜索模式":"1",
             //"搜索url":"https://pornxp.one/tags/{wd}?page={catePg}",
-
-
-
-
 
 
 
