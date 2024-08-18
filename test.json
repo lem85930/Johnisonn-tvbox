@@ -40,8 +40,8 @@
         "api": "csp_XBPQ",
         "ext": 
         {
-            "主页url":"https://bunkr.si/a/Ed7H8P21",
-            //"分类":"NEW$released#HD$hd#BEST$best",
+            "主页url":"https://bunkr.si/{cateId}",
+            "分类":"video$a/Ed7H8P21",
 
             "数组":"flex text-center&&</p></div></div>",
             "图片":"src=\"&&\"",
