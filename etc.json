@@ -25,54 +25,53 @@
 
 ////////////////////////////////
     {
-      "key": "BDSMvilla",
-      "name": "🔌Villa┃ColorF",
+      "key": "BDSMvilla","name": "🔌Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/villa.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
     },
     {
-      "key": "bdgvl",
-      "name": "🔌Valley┃ColorF",
+      "key": "bdgvl","name": "🔌Valley┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/valley.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/valley.json"    
     },
     {
-      "key": "pornXP",
-      "name": "🚅pornXP┃ColorF",
+      "key": "pornXP","name": "🚅pornXP┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/pornXP.json"
     },
     {
-      "key": "hamster",
-      "name": "🚅Hamster┃ColorF",
+      "key": "asianPorn","name": "🚅Asian┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/asian.json"
+    },
+    {
+      "key": "hamster","name": "🚅Hamster┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/hamster.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
     },
     {
-      "key": "PornLab",
-      "name": "🚅PornLab┃ColorF",
+      "key": "PornLab","name": "🚅PornLab┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/pornlab.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/pornlab.json"
     },
     {
-      "key": "aaxx",
-      "name": "🚅AX┃ColorF",
+      "key": "aaxx","name": "🚅AX┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
     },
     {
-      "key": "aV",
-      "name": "🚅IAV┃ColorF",
+      "key": "aV","name": "🚅IAV┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/iav.json"
@@ -83,16 +82,14 @@
 /////////////////////test///////////////
 
     {
-      "key": "BBV",
-      "name": "🔌BBV┃TEST",
+      "key": "BBV","name": "🔌BBV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/bbv.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bbv.json"
     },
     {
-      "key": "freesm",
-      "name": "🔌Freebd┃TEST",
+      "key": "freesm","name": "🔌Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/freebd.json"
