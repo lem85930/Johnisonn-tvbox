@@ -11,41 +11,55 @@
         "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
         "直接播放": "1",
         "筛选":{
-                "bondage":{"key":"by","name":"排序","value":[
-                            {"n":"全部","v":""},
-                            {"n":"popular","v":"best"},
-                            {"n":"most viewed","v":"viewed"},
-                            {"n":"most commented","v":"commented"}]},
-                "chinese-bdsm":{"key":"by","name":"排序","value":[
-                            {"n":"全部","v":""},
-                            {"n":"popular","v":"best"},
-                            {"n":"most viewed","v":"viewed"},
-                            {"n":"most commented","v":"commented"}]},
-                "electro-tens":{"key":"by","name":"排序","value":[
-                            {"n":"全部","v":""},
-                            {"n":"popular","v":"best"},
-                            {"n":"most viewed","v":"viewed"},
-                            {"n":"most commented","v":"commented"}]},
-                "forced-orgasm":{"key":"by","name":"排序","value":[
-                            {"n":"全部","v":""},
-                            {"n":"popular","v":"best"},
-                            {"n":"most viewed","v":"viewed"},
-                            {"n":"most commented","v":"commented"}]},
-                "chastity":{"key":"by","name":"排序","value":[
-                            {"n":"全部","v":""},
-                            {"n":"popular","v":"best"},
-                            {"n":"most viewed","v":"viewed"},
-                            {"n":"most commented","v":"commented"}]},
-                "outdoor-bdsm":{"key":"by","name":"排序","value":[
-                            {"n":"全部","v":""},
-                            {"n":"popular","v":"best"},
-                            {"n":"most viewed","v":"viewed"},
-                            {"n":"most commented","v":"commented"}]},
-                "vintage-bdsm":{"key":"by","name":"排序","value":[
+                "bondage":[
+                            {"key":"by","name":"排序","value":[
                             {"n":"全部","v":""},
                             {"n":"popular","v":"best"},
                             {"n":"most viewed","v":"viewed"},
                             {"n":"most commented","v":"commented"}]}
+                        ],          
+                "chinese-bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"popular","v":"best"},
+                            {"n":"most viewed","v":"viewed"},
+                            {"n":"most commented","v":"commented"}]}
+                        ],
+                "electro-tens":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"popular","v":"best"},
+                            {"n":"most viewed","v":"viewed"},
+                            {"n":"most commented","v":"commented"}]}
+                        ],
+                "forced-orgasm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"popular","v":"best"},
+                            {"n":"most viewed","v":"viewed"},
+                            {"n":"most commented","v":"commented"}]}
+                        ],
+                "chastity":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"popular","v":"best"},
+                            {"n":"most viewed","v":"viewed"},
+                            {"n":"most commented","v":"commented"}]}
+                        ],
+                "outdoor-bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"popular","v":"best"},
+                            {"n":"most viewed","v":"viewed"},
+                            {"n":"most commented","v":"commented"}]}
+                        ],
+                "vintage-bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"popular","v":"best"},
+                            {"n":"most viewed","v":"viewed"},
+                            {"n":"most commented","v":"commented"}]}
+                        ]
 
 
 
