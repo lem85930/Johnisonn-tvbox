@@ -23,13 +23,13 @@
 
 
         //"直接播放":"1",
-        "搜索模式":"1",
-        "搜索url":"https://www.ingbo.tv/search/{catePg}/?keyword={wd}",
-        "搜索数组":"public-list-bj&&public-play",
-        "搜索图片":"data-original=\"&&\"",
-        "搜索标题":"alt=\"&&\"",
-        "搜索副标题":"public-list-prb hide ft2\"&&</span>",
-        "搜索链接":"href=\"&&\""
+        "搜索模式":"1"
+        //"搜索url":"https://www.ingbo.tv/search/{catePg}/?keyword={wd}",
+        //"搜索数组":"public-list-bj&&public-play",
+        //"搜索图片":"data-original=\"&&\"",
+        //"搜索标题":"alt=\"&&\"",
+        //"搜索副标题":"public-list-prb hide ft2\"&&</span>",
+        //"搜索链接":"href=\"&&\""
 
         
 
