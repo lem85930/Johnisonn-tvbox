@@ -1,5 +1,5 @@
 {
-        "分类url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0;;ak",
+        "分类url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#综合$6",
 
         "数组":"public-list-bj&&public-play",
