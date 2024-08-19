@@ -1,0 +1,18 @@
+{
+        "主页url":"https://www.ingbo.tv/vod/list/{catePg}/{cateId}/{class}/{year}/{area}/{lang}/0/0",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#综合$6",
+
+        //"二次截取":"grid-images_box rounded-lg dark:bg-gray-200 xl:aspect-w-7 xl:aspect-h-8 p-2.5 border-2 display relative flex text-center&&</div></div>",
+        "数组":"public-list-bj&&public-bg",
+        "图片":"src=\"&&\"",
+        "标题":"alt=\"&&\"",
+        "副标题":"public-list-prb hide ft2\"&&</span>",
+        "链接":"href=\"&&\"",
+
+        //"直接播放":"1",
+        "搜索模式":"1",
+        "搜索url":"https://www.ingbo.tv/search/{catePg}/{wd}"
+
+
+
+}
