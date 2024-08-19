@@ -24,7 +24,8 @@
 
         //"直接播放":"1",
         "搜索模式":"1",
-        "搜索url":"https://www.ingbo.tv/search/{catePg}/{wd}"
+        "搜索url":"https://www.ingbo.tv/search/{catePg}/?keyword={wd}"
+        
 
 
 
