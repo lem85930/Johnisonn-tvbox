@@ -4,7 +4,7 @@
 
         //"二次截取":"grid-images_box rounded-lg dark:bg-gray-200 xl:aspect-w-7 xl:aspect-h-8 p-2.5 border-2 display relative flex text-center&&</div></div>",
         "数组":"public-list-bj&&public-bg",
-        "图片":"src=\"&&\"",
+        "图片":"data-original=\"&&\"",
         "标题":"alt=\"&&\"",
         "副标题":"public-list-prb hide ft2\"&&</span>",
         "链接":"href=\"&&\"",
