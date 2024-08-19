@@ -307,6 +307,12 @@
 //////////////////////////XBPQ(21)///////////////////////////
 
     {
+        "key": "ingbo","name": "🎐映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/映播.json"
+    },
+    {
         "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
