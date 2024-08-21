@@ -14,7 +14,7 @@
             "播放列表":"<a&&/a>",
 
             "搜索模式": "1",
-            "搜索url":"https://www.subaibaiys.com/page/{catePg}/?s={wd}",
+            "搜索url":"https://www.subaibaiys.com/page/{catePg}?s={wd}",
             
             "搜索二次截取":"search_list&&</ul>",
             "搜索数组":"<li>&&</div>",
