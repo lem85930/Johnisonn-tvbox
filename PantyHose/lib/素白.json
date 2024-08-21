@@ -1,5 +1,5 @@
 {
-            "分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg};;k",
+            "分类url":"https://www.subaibaiys.com/{cateId}/page/{catePg}",
             "分类":"电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama",
             
             "二次截取":"bt_img mi_ne_kd&&</ul>",
