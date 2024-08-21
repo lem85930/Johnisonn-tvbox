@@ -7,12 +7,9 @@
             "标题":"title=\"&&\"",
             "链接":"href=\"&&\"",
 
-            "线路数组":"hl-tabs-btn hl-slide-swiper&&/a>[排序:量子>>暴风>>非凡>>黑木耳]",
+            "线路数组":"hl-tabs-btn hl-slide-swiper&&/a>[排序:量子>暴风>非凡>黑木耳]",
             "线路标题":"</i>&&<",
 
-            //"播放数组":"",
-            //"播放标题":"",
-            //"播放列表":"",
 
             "搜索模式":"1",
             "搜索url":"http://svip.zhuiying.cyou/index.php/vod/search/page/{catePg}/wd/{wd}.html"
