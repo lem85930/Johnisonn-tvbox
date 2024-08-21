@@ -1,17 +1,30 @@
 {
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
-          
-     {
-        "key": "ingbo","name": "🎐映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+
+    {
+        "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/映播.json"
     },
+    {
+        "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/骚火.json"
+    },
+    {
+        "key": "sbb","name": "👙素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/素白.json"
+    },
+    {
+      "key": "星辰","name": "☪️星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/星辰.json"
+    },         
       {
         "key": "ix","name": "低端┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/etc/低端影视.json"
     },
    
