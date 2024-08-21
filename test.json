@@ -8,7 +8,13 @@
         "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/映播.json"
     },
-    
+      {
+        "key": "ix","name": "低端┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/etc/低端影视.json"
+    },
+   
     
            {
         "key": "XXX","name": "Shiny┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -18,7 +24,6 @@
             "主页url":"https://bunkr.si/{cateId}",
             "分类":"VD$a/Ed7H8P21",
 
-            //"二次截取":"grid-images_box rounded-lg dark:bg-gray-200 xl:aspect-w-7 xl:aspect-h-8 p-2.5 border-2 display relative flex text-center&&</div></div>",
             "数组":"text-center\"&&</p><p>",
             "图片":"src=\"&&\"",
             "标题":"text-white-700*>&&</p>",
@@ -26,8 +31,6 @@
             "链接":"href=\"&&\"",
 
             "直接播放":"1"
-            //"搜索模式":"1",
-            //"搜索url":"https://pornxp.one/tags/{wd}?page={catePg}",
 
 
 
