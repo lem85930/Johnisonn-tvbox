@@ -1,5 +1,5 @@
 {
-  "spider": "./PantyHose/spider/XBPQ.jar",
+  "spider": "./PantyHose/spider/chuanxin.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -251,43 +251,40 @@
 
     {
         "key":"南瓜","name":"🎃南瓜┃外A","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_NanGua","jar":"./PantyHose/spider/FTY.jar"
+        "api": "csp_NanGua"
     },
     {
         "key":"热播","name":"🌴热播┃外A","type":3,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,
-        "api":"csp_AppTT","jar":"./PantyHose/spider/FTY.jar",
+        "api":"csp_AppTT",
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
        "key":"萌米","name":"🌾萌米┃外A","type":3,"timeout":15,"playerType":1,
-       "api":"csp_AppTT","jar":"./PantyHose/spider/FTY.jar",
+       "api":"csp_AppTT",
        "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {   
         "key":"可可","name":"🐥可可┃外接","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_Kekys","jar":"./PantyHose/spider/FTY.jar"
+        "api":"csp_Kekys"
     },
     {
         "key":"苹果","name":"🍎苹果┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_LiteApple","jar":"./PantyHose/spider/FTY.jar"
+        "api":"csp_LiteApple"
     },
     {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_Kkys","jar":"./PantyHose/spider/FTY.jar"
+        "api": "csp_Kkys"
     },
     {   
-        "key":"机器人bot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_Ikanbot",
-        "jar":"./PantyHose/spider/MoYu.jar"
+        "key":"Ibot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
+        "api":"csp_Ikanbot"
     },
     {  
-        "key":"csp_Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-        "api":"csp_Kuaikan",
-        "jar":"./PantyHose/spider/MoYu.jar"
+        "key":"Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api":"csp_Kuaikan"
     },
     {
         "key": "csp_New6v","name": "✡️六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_New6v",
-        "jar": "./PantyHose/spider/chuanxin.jar",
         "ext": "https://www.xb6v.com"
     },
 
@@ -428,30 +425,30 @@
     },
     {
       "key": "MTV","name": "🎧明星┃MV","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
       "ext": "./PantyHose/lib/MTV.json"
     },
     {
       "key": "Bili","name": "🅱哔哩┃合集","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
       //"ext": "./PantyHose/lib/bilibili.json"
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bilibili.json"
     },
     {
       "key": "戏曲杂苑","name": "🅱哔哩┃戏曲","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "ext": "./PantyHose/lib/bili戏曲.json"
     },
     {
       "key": "相声小品","name": "🅱哔哩┃小品","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "ext": "./PantyHose/lib/bili相声.json"
     },
     {
       "key": "Biliych","name": "🅱哔哩┃歌曲","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
       "ext": "./PantyHose/lib/bili歌曲.json"
     },
@@ -463,19 +460,19 @@
     },
     {
       "key": "少儿教育","name": "📚少儿┃教育","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
       "ext": "./PantyHose/lib/少儿教育.json"
     },
     {
       "key": "小学课堂","name": "📚小学┃课堂","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
       "ext": "./PantyHose/lib/小学课堂.json"
     },
     {
       "key": "初中课堂","name": "📚初中┃课堂","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_Bili",
       "style": {"type": "rect","ratio": 1.597},
       "ext": "./PantyHose/lib/初中课堂.json"
     },
@@ -487,7 +484,7 @@
     },
     {
       "key": "Aid","name": "🚑急救┃教学","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_FirstAid","jar":"./PantyHose/spider/FTY.jar",
+      "api": "csp_FirstAid",
       "style": {"type": "rect","ratio": 3.8}
     }
 
@@ -671,21 +668,14 @@
               {"name":"解析聚合","type":3,"url":"Demo"},
               {"name":"Json并发","type":2,"url":"Parallel"},
               {"name":"Json轮询","type":2,"url":"Sequence"},
-              {"name":"m3u8tv高清","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
               {"name":"zui","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
-              {"name":"BL","type":0,"url":"https://vip.bljiex.com/?v=","ext":{"flag":["ltnb"]}},
-              {"name": "777","type": 0,"url": "https://jx.777jiexi.com/player/?url="},
-              {"name": "杰森","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
               {"name": "虾米","type": 0,"url": "https://jx.xmflv.com/?url="},
               {"name": "26db","type": 0,"url": "http://vip.26db.cn/g/?url="},
               {"name": "看看","type": 0,"url": "https://jx.xmflv.cc/?url="},
-              {"name": "神秘哥哥","type": 1,"url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
-               "ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果",
-                            "tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
               {"name": "免费分享","type": 0, "url": "https://jx.xmflv.com/?url=",
                "ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo",
-                  "letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-                "header": {"User-Agent": "okhttp/4.1.0"}}
+                                "letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
+                        "header": {"User-Agent": "okhttp/4.1.0"}}
               }
 
   ],
@@ -731,20 +721,17 @@
               ]
       }
   ],
-  "flags":[
-    "youku","qq","iqiyi","qiyi","letv","le","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","CL4K","腾讯","PPTV",
-    "ltnb","爱奇艺","奇艺","优酷","芒果","哔哩哔哩","哔哩","miaoparty","rx","rongxing","xfyun","rrm3u8","xueren",
-    "zijian","1905","m1905","dbm3u8","leduo","duoduozy","fuckapp","ftqp2","ftqp3","ftqp4","ftqp5","longteng", "ziqie",
-    "wuduzy","xuanfeng","xigua"
-  ],
-  "ads":[
-    "mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn",
-    "cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top",
-    "z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn",
-    "hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn",
-    "tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top",
-    "img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com",
-    "s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top",
-    "ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"
-  ]
+  "flags":["youku","qq","iqiyi","qiyi","letv","le","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","CL4K","腾讯","PPTV",
+        "ltnb","爱奇艺","奇艺","优酷","芒果","哔哩哔哩","哔哩","miaoparty","rx","rongxing","xfyun","rrm3u8","xueren","zijian","1905",
+        "m1905","dbm3u8","leduo","duoduozy","fuckapp","ftqp2","ftqp3","ftqp4","ftqp5","longteng", "ziqie","wuduzy","xuanfeng",
+        "xigua"],
+  "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn",
+        "cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com", 
+        "stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn",
+        "sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com",
+        "xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com",
+        "xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
+        "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top",
+        "qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
