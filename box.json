@@ -326,11 +326,6 @@
         "ext": "./PantyHose/lib/freeok.json"
     },
     {
-        "key": "Ddys","name": "🍳蛋蛋┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/ddys.json"
-    },
-    {
         "key": "圣城","name": "⛅️酷云┃PQ","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/酷云.json"
