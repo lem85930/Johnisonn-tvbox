@@ -4,9 +4,9 @@
 
 
     {
-        "key": "vk","name": "VK┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "rb","name": "热播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/vk.json"
+        "ext": "./PantyHose/lib/热播.json"
     },
 
     {
