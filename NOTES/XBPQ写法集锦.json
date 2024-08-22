@@ -57,5 +57,25 @@
     "数组":"stui-vodlist__thumb lazyload\"&&</h4>[不包含:推荐]",
     "线路数组":"#down&&</li>[排序:奇>搜>咪]",
 -------------
-
+    "分类url": "https://mayitube.com/c/{cateId}?country={area}&page={catePg}&year={year};;k",
+    "跳转播放链接": "https://mayitube.com+Base64(var video = {};*('&&')"
+-------------
+    "搜索url": "https://www.dadagui.me/vodsearch/{wd}-------------.html",
+    "嗅探词": "v3-dy-o.zjcdn.com#huoshanvod.com#mp4#m3u8#.m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com#v.123pan.cn#/tos/",
+    "线路标题": "\"tab\">&&</a>",
+    "线路数组": "[替换:Y云播>>自营1080P#非云>>高清有4K#蓝光>>1080P#非凡云播>>非凡微广告#量子云播>>量子微广告#无尽云播>>无尽有广告][排序:自营1080P>高清有4K>非凡微广告>量子微广告>无尽有广告]",
+    "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
+    "跳转解析": "默认$空#高清有4K$https://www.dadagui.me/webcloud/?vid=#1080P无广$https://www.dadagui.me/webcloud/?vid=",
+    "跳转播放链接": "解析+link_pre*url\":\"&&\"",
+    "分类url": "http://www.dadagui.me/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
+-------------
+    "分类url": "https://shdy3.com/list/{cateId}-{catePg}.html;;r1da",
+    "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+    "ocr": "https://api.xhofe.top/ocr/b64/text",
+    "数组二次截取": "class=\"v_list\">&&</ul>",
+    "数组": "\"v_img\"&&/div>",
+    "跳转播放链接": "<iframe*src=\"&&\"",
+    "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+    "三次跳转播放链接": "\"url\"*\"&&\""
+------------
 
