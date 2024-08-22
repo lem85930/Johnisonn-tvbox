@@ -283,14 +283,14 @@
         //"jar":"./PantyHose/spider/MoYu.jar"
     },
     {  
-         "key":"csp_Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "key":"csp_Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
         "api":"csp_Kuaikan",
         "jar":"./PantyHose/spider/MoYu.jar"
     },
     {
         "key": "csp_New6v","name": "✡️六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_New6v",
-        "jar": "./PantyHose/spider/chuanxin.jar",
+        //"jar": "./PantyHose/spider/chuanxin.jar",
         "ext": "https://www.xb6v.com"
     },
 
@@ -414,8 +414,8 @@
     },
     {
         "key": "全集网","name": "⚛️全集┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,//网站需验证
-        "jar": "./PantyHose/spider/HCCX.jar",
-        //"api": "csp_XBPQ",
+        //"jar": "./PantyHose/spider/HCCX.jar",
+        "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
     },
 
