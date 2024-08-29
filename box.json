@@ -3,9 +3,9 @@
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
-      "name": "BOBO",
+      "name": "BOBO1",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/BOBOLIVE.TXT",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/bobolive820.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
