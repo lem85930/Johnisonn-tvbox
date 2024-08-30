@@ -159,6 +159,7 @@
         "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
     },
     {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar": "./PantyHose/spider/chuanxin.jar",
         "api": "csp_Kkys"
     }
 
