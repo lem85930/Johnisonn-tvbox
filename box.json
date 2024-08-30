@@ -145,14 +145,6 @@
         "台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]
     },
     {
-        "key": "新浪","name": "🛒新浪┃采集","type": 1,"searchable": 0,"quickSearch": 1,"filterable": 1,
-        "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-        "categories":
-        ["短剧","邵氏电影","爽文短剧","动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影",
-        "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫",
-        "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
-    },
-    {
         "key": "红牛","name": "🛒红牛┃采集","type": 1,"searchable": 0,"quickSearch": 1,"filterable": 1,
         "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
         "categories":
@@ -257,7 +249,7 @@
     },
 
 
-//////////////////////外挂接口(9)///////////////////////////////
+//////////////////////外挂接口(8)///////////////////////////////
 
     {
         "key":"南瓜","name":"🎃南瓜┃外A","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -281,9 +273,6 @@
         "key":"苹果","name":"🍎苹果┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_LiteApple"
     },
-    {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_Kkys"
-    },
     {   
         "key":"Ibot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_Ikanbot"
@@ -293,18 +282,13 @@
         "api":"csp_Kuaikan"
     },
     {
-        "key": "csp_New6v","name": "✡️六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+        "key": "csp_New6v","name": "💎六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_New6v",
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(20)///////////////////////////
+//////////////////////////XBPQ(18)///////////////////////////
 
-    {
-        "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/追影.json"
-    },
     {
         "key": "knvod","name": "🚹柯南┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
