@@ -1,5 +1,5 @@
 {
-    "spider": "./PantyHose/spider/FTY.jar",
+    "spider": "./PantyHose/spider/HCCX.jar",
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [
 
@@ -45,38 +45,32 @@
     {
         "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/映播.json"
     },
     {
         "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/骚火.json"
     },
     {
         "key": "sbb","name": "👙素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/素白.json"
     },
     {
       "key": "星辰","name": "☪️星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/星辰.json"
     },
     {
       "key": "csp_超前","name": "🚼️超前┃PQ","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,//网站需验证
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/超前B站.json"
     },
     {
       "key": "BDSMvilla","name": "🚸Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/villa.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
     },
@@ -84,7 +78,6 @@
       "key": "bdgvl","name": "🚸Valley┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/valley.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/valley.json"    
     },
@@ -92,21 +85,18 @@
       "key": "pornXP","name": "🚸pornXP┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/pornXP.json"
     },
     {
       "key": "asianPorn","name": "🚸Asian┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/asian.json"
     },
     {
       "key": "hamster","name": "🚸Hamster┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/hamster.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
     },
@@ -114,7 +104,6 @@
       "key": "PornLab","name": "🚸PornLab┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/pornlab.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/pornlab.json"
     },
@@ -122,14 +111,12 @@
       "key": "aaxx","name": "🚸AX┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
     },
     {
       "key": "aV","name": "🚸IAV┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/iav.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
     },
@@ -139,7 +126,6 @@
       "key": "BBV","name": "🚫BBV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/bbv.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bbv.json"
     },
@@ -147,7 +133,6 @@
       "key": "freesm","name": "🚫Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/freebd.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
     },
