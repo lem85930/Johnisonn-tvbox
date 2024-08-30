@@ -17,6 +17,7 @@
     },
     {
         "key":"PanSearch","name":"💠盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "jar": "./PantyHose/spider/FTY.jar",
         "api":"csp_PanSearch",
         "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     },
