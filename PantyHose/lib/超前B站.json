@@ -25,7 +25,7 @@
     
     //"搜索url":"/index.php/vod/search.html?wd={wd}",
     
-    "搜索url":"https://bzhanyy.com/index.php/vod/search/page/{catePg}/wd/{wd}.html",
+    "搜索url":"https://bzhanyy.com/index.php/vod/search.html?wd={wd}",
 
     "搜索数组":"_top\"&&/div></div><div",
     
