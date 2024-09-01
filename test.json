@@ -1,7 +1,26 @@
 {
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
+           {
+        "key": "XXX","name": "Shiny┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": 
+        {
+            "分类url":"https://bunkr.si/{cateId}",
+            "分类":"VD$a/Ed7H8P21",
 
+            "数组":"relative flex text-center&&</div></div>",
+            "图片":"src=\"&&\"",
+            "标题":"text-white-700*>&&</p>",
+            "副标题":"#ffd369 !important;\">&&</p>",
+            "链接":"href=\"&&\"",
+
+            "直接播放":"1"
+
+
+
+        }
+    },
 
     {
         "key": "HH","name": "豪华┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -23,29 +42,10 @@
         "key": "ix","name": "低端┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/etc/低端影视.json"
-    },
+    }
    
     
-           {
-        "key": "XXX","name": "Shiny┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": 
-        {
-            "分类url":"https://bunkr.si/{cateId}",
-            "分类":"VD$a/Ed7H8P21",
 
-            "数组":"relative flex text-center&&/p></div></div>",
-            "图片":"src=\"&&\"",
-            "标题":"text-white-700*>&&</p>",
-            "副标题":"#ffd369 !important;\">&&</p>",
-            "链接":"href=\"&&\"",
-
-            "直接播放":"1"
-
-
-
-        }
-    }
 
 
   ]
