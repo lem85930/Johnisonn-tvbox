@@ -1,12 +1,12 @@
         {
-            "分类url":"https://bunkr.si/a/{cateId}",
+            "分类url":"https://bunkr.si/a/{cateId};;v",
             "分类":"shinyBound$Ed7H8P21",
 
             "数组":"relative flex text-center&&text-white-900",
             "图片":"src=\"&&\"",
             "标题":"text-white-700*>&&</p>",
-            "链接":"href=\"&&\"",
-            "免嗅":"1"
+            "链接":"href=\"&&\""
+            //"免嗅":"1"
             //"嗅探词":".webm",
             //"直接播放":"1"
 
