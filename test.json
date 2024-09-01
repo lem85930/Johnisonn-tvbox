@@ -34,10 +34,10 @@
             "分类url":"https://bunkr.si/{cateId}",
             "分类":"VD$a/Ed7H8P21",
 
-            "数组":"text-center\"&&/p></div></div>",
+            "数组":"relative flex text-center&&/p></div></div>",
             "图片":"src=\"&&\"",
             "标题":"text-white-700*>&&</p>",
-            //"副标题":"#ffd369 !important;\">&&</p>",
+            "副标题":"#ffd369 !important;\">&&</p>",
             "链接":"href=\"&&\"",
 
             "直接播放":"1"
