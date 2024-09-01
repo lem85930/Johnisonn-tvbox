@@ -3,38 +3,17 @@
     "wallpaper": "https://picsum.photos/1280/720/?blur=10",
     "sites": [
 
-////////////////内置接口//////////////////
 
     {
         "key":"zxzj","name":"📡在线┃内置","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_Zxzj",
         "ext":"https://www.zxzja.com/"
     },
-    {
-        "key":"夸搜","name":"💠夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_PanSearch",
-        "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
-    },
-    {
-        "key":"PanSearch","name":"💠盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "jar": "./PantyHose/spider/FTY.jar",
-        "api":"csp_PanSearch",
-        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
+    {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar": "./PantyHose/spider/chuanxin.jar",
+        "api": "csp_Kkys"
     },
 
-////////////////外挂接口//////////////////
- 
-    {   
-        "key":"JOJO","name":"🍭JOJO┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,
-        "api":"csp_Jiohub",
-        "jar":"./PantyHose/spider/MoYuDanMu.jar"
-    },
-    {
-        "key":"csp_XYQHiker_影搜","name":"💠影搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-        "api":"csp_XYQHiker",
-        "jar":"./PantyHose/spider/chuanxin.jar",
-        "ext":"./PantyHose/lib/影搜.json"
-    },
 
 ////////////////XBPQ接口//////////////////
 
@@ -47,26 +26,6 @@
         "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/映播.json"
-    },
-    {
-        "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/骚火.json"
-    },
-    {
-        "key": "sbb","name": "👙素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/素白.json"
-    },
-    {
-      "key": "星辰","name": "☪️星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/星辰.json"
-    },
-    {
-      "key": "csp_超前","name": "🚼️超前┃PQ","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,//网站需验证
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/超前B站.json"
     },
     {
       "key": "BDSMvilla","name": "🚸Villa┃ColorF",
@@ -89,19 +48,6 @@
       "ext": "./PantyHose/lib/pornXP.json"
     },
     {
-      "key": "asianPorn","name": "🚸Asian┃ColorF",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/asian.json"
-    },
-    {
-      "key": "hamster","name": "🚸Hamster┃ColorF",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/hamster.json"
-             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
-    },
-    {
       "key": "PornLab","name": "🚸PornLab┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
@@ -121,6 +67,20 @@
       "ext": "./PantyHose/lib/iav.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
     },
+    {
+      "key": "asianPorn","name": "🚸Asian┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/asian.json"
+    },
+    {
+      "key": "hamster","name": "🚸Hamster┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/hamster.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
+    },
+
 
 
     {
@@ -159,11 +119,23 @@
         "欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫",
         "大陆综艺","港台综艺","日韩综艺","欧美综艺"]
     },
-    {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "jar": "./PantyHose/spider/chuanxin.jar",
-        "api": "csp_Kkys"
+    {
+        "key":"夸搜","name":"💠夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "api":"csp_PanSearch",
+        "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
+    },
+    {
+        "key":"PanSearch","name":"💠盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
+        "jar": "./PantyHose/spider/FTY.jar",
+        "api":"csp_PanSearch",
+        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
+    },
+    {
+        "key":"csp_XYQHiker_影搜","name":"💠影搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "api":"csp_XYQHiker",
+        "jar":"./PantyHose/spider/chuanxin.jar",
+        "ext":"./PantyHose/lib/影搜.json"
     }
-
     
 
 
