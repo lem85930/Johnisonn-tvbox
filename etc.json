@@ -42,10 +42,9 @@
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/valley.json"    
     },
     {
-      "key": "pornXP","name": "🚸pornXP┃ColorF",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/pornXP.json"
+        "key": "bunkr","name": "🚸Shiny┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/bunkr.si.json" 
     },
     {
       "key": "PornLab","name": "🚸PornLab┃ColorF",
@@ -53,6 +52,12 @@
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/pornlab.json"
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/pornlab.json"
+    },
+    {
+      "key": "pornXP","name": "🚸pornXP┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/pornXP.json"
     },
     {
       "key": "aaxx","name": "🚸AX┃ColorF",
@@ -98,7 +103,7 @@
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
     },
 
-////////////////DRPY2接口//////////////////
+/////////////////////////////////
 
     {
       "key": "drpy_js_酷6网","name": "🔯酷6┃DR","type": 3,"searchable":0,"changeable": 0,//无搜索
