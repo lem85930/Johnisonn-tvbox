@@ -249,8 +249,13 @@
     },
 
 
-//////////////////////外挂接口(8)///////////////////////////////
+//////////////////////外挂接口(9)///////////////////////////////
 
+    {   
+        "key":"JOJO","name":"🍭JOJO┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,
+        "api":"csp_Jiohub",
+        "jar":"./PantyHose/spider/MoYuDanMu.jar"
+    },
     {
         "key":"南瓜","name":"🎃南瓜┃外A","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_NanGua"
@@ -287,9 +292,23 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(18)///////////////////////////
+//////////////////////////XBPQ(21)///////////////////////////
 
     {
+        "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/骚火.json"
+    },
+    {
+        "key": "sbb","name": "👙素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/素白.json"
+    },
+    {
+      "key": "星辰","name": "☪️星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/星辰.json"
+    },    {
         "key": "knvod","name": "🚹柯南┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/柯南.json"
