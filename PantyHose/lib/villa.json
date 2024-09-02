@@ -1,7 +1,8 @@
 {
 
         "数组":"class=\"card colorbackground vidholder d-inline-block\"&&class=\"fa fa-eye likedcalc\">",
-        "图片":"class=\"card-img-top\" src=\"&&\"",
+        //"图片":"class=\"card-img-top\" src=\"&&\"",
+        "图片":"<video*poster=\"&&\"",
         "标题":"titlesize\">&&</h6>",
         "链接":"href=\"&&\"",
         "分类url":"https://bdsmvilla.com/{cateId}/{by}?page={catePg}",
