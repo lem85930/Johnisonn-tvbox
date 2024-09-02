@@ -8,8 +8,8 @@
             "链接":"href=\"&&\"",
             "简介":"无",
 
-            "跳转播放链接": "<source src=\"&&\"",//necessary
-            "嗅探词":".webm"//necessary
+            "跳转播放链接": "<source src=\"&&\""//necessary
+            //"嗅探词":".webm"//necessary
             //"直接播放":"1"//must not,If this option is added, the direct link cannot be found!
 
 
