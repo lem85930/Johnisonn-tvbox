@@ -4,12 +4,12 @@
 
             "数组":"relative flex text-center&&text-white-900",
             "图片":"src=\"&&\"",
-            "标题":"text-white-700*>&&.webm</p>",
+            "标题":"text-white-700*>&&</p>",
             "链接":"href=\"&&\"",
             "简介":"无",
 
-            "跳转播放链接": "<source src=\"&&\""//necessary
-            //"嗅探词":".webm"//necessary
+            "跳转播放链接": "<source src=\"&&\"",//necessary
+            "嗅探词":".webm"//necessary
             //"直接播放":"1"//must not,If this option is added, the direct link cannot be found!
 
 
