@@ -1,6 +1,6 @@
         {
             "分类url":"https://bunkr.si/a/{cateId}",
-            "分类":"1ShinyBound$Ed7H8P21",
+            "分类":"ShinyBound$Ed7H8P21",
 
             "数组":"relative flex text-center&&text-white-900",
             "图片":"src=\"&&\"",
@@ -8,11 +8,11 @@
             "链接":"href=\"&&\"",
             "简介":"无",
 
-            "跳转播放链接": "<source src=\"&&\"",
+            //"跳转播放链接": "<source src=\"&&\"",
 
 
             "嗅探词":".webm"
-            //"直接播放":"1"
+            //"直接播放":"1"//无需直接播放，填写此项后无法获取直链
 
 
 
