@@ -3,22 +3,6 @@
   "sites": [
        
     {
-        "key": "z","name": "星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "https://gitee.com/newgolo/tvbox/raw/master/XBPQ/%E6%98%9F%E8%BE%B0.json"
-    },
-    {
-        "key": "io","name": "来看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "https://gitee.com/newgolo/tvbox/raw/master/XBPQ/%E6%9D%A5%E7%9C%8B.json"
-    },
-    {
-        "key": "is","name": "素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "https://gitee.com/newgolo/tvbox/raw/master/XBPQ/%E7%B4%A0%E7%99%BD.json"
-    },
-
-    {
         "key": "HH","name": "豪华┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/豪华资源.json"
