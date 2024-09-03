@@ -1,7 +1,7 @@
 {
 
     "数组":"VideoCardThumb-module__thumb&&class=\"VideoCardInfoLayout-module__action",
-    "图片":"img*src=\"&&\"",
+    "图片":"src=\"&&\"",
     "标题":"title=\"&&\"",
     "链接":"href=\"&&\"",
     "副标题":"data-testid=\"video_card_duration\">&&</span>",
