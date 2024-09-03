@@ -1,10 +1,10 @@
 {
 
-    "数组":"VideoCardThumb-module__thumb&&VideoCardPreview-module__footer",
+    "数组":"vkuiTappable vkuiTappable--hasPointer-none vkuiClickable__resetLinkStyle vkuiClickable__host vkuiClickable__realClickable vkui-focus-visible VideoCardThumb-module__thumb&&VideoCardPreview-module__footer",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
-    "副标题":"data-testid=\"video_card_duration\">&&</span>",
+    //"副标题":"data-testid=\"video_card_duration\">&&</span>",
 
     "分类url":"https://vk.com/{cateId}",
     "分类":"尼古拉斯赵四$video/playlist/646646891_16"
