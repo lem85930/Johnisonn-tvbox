@@ -23,11 +23,6 @@
         "ext": "./PantyHose/lib/追影.json"
     },
     {
-        "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/映播.json"
-    },
-    {
       "key": "BDSMvilla","name": "🚸Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
