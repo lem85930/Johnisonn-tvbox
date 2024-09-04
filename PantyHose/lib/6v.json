@@ -8,8 +8,8 @@
         "副标题":"title=\"&&\"",
         "链接":"href=\"&&\"",
 
-        "搜索模式":"1"
-        //"搜索url":"https://www.xb6v.com/e/search/result/index.php?page={catePg}&searchid={wd}",
+        "搜索模式":"1",
+        "搜索url":"https://www.xb6v.com/e/search/result/index.php?page={catePg}&searchid={wd}",
 
 
 
