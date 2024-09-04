@@ -3,19 +3,14 @@
   "sites": [
        
     {
+      "key": "cctv","name": "cctv┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/cctv.json"
+    },
+    {
       "key": "6v","name": "6v┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/6v.json"
-    },
-    {
-      "key": "南瓜","name": "南瓜┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/南瓜.json"
-    },
-     {
-      "key": "小苹果","name": "苹果┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/苹果.json"
     },
     {
         "key": "up","name": "up┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -23,21 +18,10 @@
         "ext": "./PantyHose/lib/bdup.json"
     },
     {
-        "key": "vk","name": "VK┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/vk.json"
-    },
-    {
         "key": "HH","name": "豪华┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/豪华资源.json"
     },
-    {
-        "key": "rb","name": "2热播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/热播.json"
-    },
-
     {
         "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
