@@ -3,6 +3,21 @@
   "sites": [
        
     {
+      "key": "6v","name": "6v┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/6v.json"
+    },
+    {
+      "key": "南瓜","name": "南瓜┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/南瓜.json"
+    },
+     {
+      "key": "小苹果","name": "苹果┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/苹果.json"
+    },
+    {
         "key": "up","name": "up┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bdup.json"
