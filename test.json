@@ -3,9 +3,28 @@
   "sites": [
        
     {
-      "key": "cctv","name": "cctv┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/cctv.json"
+        "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/追影.json"
+    },  
+    {
+        "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/映播.json"
+    },
+    {
+        "key": "ix","name": "低端┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/etc/低端影视.json"
+    },
+    {
+        "key":"zxzj","name":"📡在线┃内置","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
+        "api":"csp_Zxzj",
+        "ext":"https://www.zxzja.com/"
+    },
+    {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar": "./PantyHose/spider/chuanxin.jar",
+        "api": "csp_Kkys"
     },
     {
       "key": "6v","name": "6v┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -21,16 +40,6 @@
         "key": "HH","name": "豪华┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/豪华资源.json"
-    },
-    {
-        "key": "ingbo","name": "🏴映播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/映播.json"
-    },
-      {
-        "key": "ix","name": "低端┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/etc/低端影视.json"
     }
    
     
