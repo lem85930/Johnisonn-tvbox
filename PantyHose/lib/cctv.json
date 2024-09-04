@@ -1,0 +1,22 @@
+{   
+
+        "分类url":"https://tv.cctv.com/live/cctv{cateId}",
+        "分类":"CCTV1$1#CCTV2$2#CCTV3$3#CCTV4$4#CCTV5$5#CCTV6$6#CCTV7$7#CCTV8$8#CCTV9$9#CCTV10$10#CCTV11$11",
+        "二次截取":"class=\"overview\"&&</div>",
+        "数组":"<dt>&&</dt>",
+        "图片":"https://p3.img.cctvpic.com/photoAlbum/templet/special/PAGEGRxiNJPvYdSJnYUJ1wij201216/ELMTum7xhpp8Jq8e03jIoqYK210913_1631502853.png",
+        "标题":"data-spm-anchor-id*>&&<",
+        "链接":"href=\"&&\"",
+
+        "嗅探词":".m3u8"
+
+
+
+
+
+
+
+
+
+
+}
