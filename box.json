@@ -292,8 +292,13 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(22)///////////////////////////
+//////////////////////////XBPQ(23)///////////////////////////
 
+    {
+        "key": "GG","name": "🤵光棍┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/光棍.json"
+    },
     {
         "key": "RB","name": "🌺热波┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
