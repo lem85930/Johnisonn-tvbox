@@ -292,8 +292,13 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(21)///////////////////////////
+//////////////////////////XBPQ(22)///////////////////////////
 
+    {
+        "key": "RB","name": "🌺热播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/热播.json"
+    },
     {
         "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
