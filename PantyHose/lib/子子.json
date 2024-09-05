@@ -1,0 +1,14 @@
+    {
+    
+    
+        "搜索url":"https://www.ziziys.com/vsearch/{wd}--{catePg}.html",
+        
+        "数组":"module-item-pic&&class=\"loading\">",
+        
+        
+        "分类url":"https://www.ziziys.com/list/{cateId}.html",
+        
+        "分类":"电影$1#历史传记$25#纪录片$29#国剧$13"
+    
+    
+    }
