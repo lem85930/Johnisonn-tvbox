@@ -295,6 +295,11 @@
 //////////////////////////XBPQ(23)///////////////////////////
 
     {
+        "key": "ZZ","name": "🍂子子┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/子子.json"
+    },
+    {
         "key": "GG","name": "🤵光棍┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/光棍.json"
