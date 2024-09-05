@@ -292,8 +292,13 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(23)///////////////////////////
+//////////////////////////XBPQ(25)///////////////////////////
 
+    {
+        "key": "CQ","name": "🥝传奇┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/传奇.json"
+    },
     {
         "key": "ZZ","name": "🍂子子┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
