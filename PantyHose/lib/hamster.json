@@ -1,8 +1,12 @@
 {
    
     //"分类url":"https://zh.megaxh.com/categories/{cateId}/{catePg}",
-    "分类url":"https://zh.xhvid.com/categories/{cateId}/{catePg}",
-    "分类":"BDSM$bdsm#SUSP$suspension-bondage#TIE$tied-up#JP$shibari#BD$bondage#HOG$hogtied#KINK$kinky#SYBIAN$sybian#HITACHI$hitachi#GAG$ball-gagged#BLIND$blindfolded#STOCKING$stockings#THONG$thong#PANTY$pantyhose#HIGHEEL$high-heels#LINGERIE$lingerie#NYLON$nylon#SECRETARY$secretary#STRIPTEASE$striptease",
+
+    "分类url":"https://zh.xhvid.com/{cateId}/{catePg}",
+    "分类":"favorites$my/favorites/videos",
+    "登录":"https://zh.xhvid.com/login,job105,850125",
+/*  "分类url":"https://zh.xhvid.com/categories/{cateId}/{catePg}",
+    "分类":"BDSM$bdsm#SUSP$suspension-bondage#TIE$tied-up#JP$shibari#BD$bondage#HOG$hogtied#KINK$kinky#SYBIAN$sybian#HITACHI$hitachi#GAG$ball-gagged#BLIND$blindfolded#STOCKING$stockings#THONG$thong#PANTY$pantyhose#HIGHEEL$high-heels#LINGERIE$lingerie#NYLON$nylon#SECRETARY$secretary#STRIPTEASE$striptease",       */
     "数组":"role-pop thumb-image-container\"&&class=\"video-thumb-info\">",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
