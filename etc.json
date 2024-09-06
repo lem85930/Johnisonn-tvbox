@@ -26,6 +26,12 @@
       "ext": "./PantyHose/lib/cure.json"
     },
     {
+      "key": "smx","name": "🚸Smx┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/smx.json"
+    },
+    {
         "key": "bunkr","name": "🚸Shiny┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bunkr.si.json" 
