@@ -78,4 +78,24 @@
     "二次跳转播放链接": "https://hkjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
     "三次跳转播放链接": "\"url\"*\"&&\""
 ------------
-
+    "主页url": "https://www.xbw20.com/",
+    "编码": "gb2312",
+    "起始页": 2,
+    "倒序": 1,
+------------
+    "分类ID": "href=\"/hk&&.html\"",
+    "分类url": "http://www.hongbaohk.com/rou/{cateId}--{by}------{catePg}---.html[]"
+------------
+    "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
+    "数组": "class=\"vod_box\">&&</li>",
+    "图片": "url('&&'",
+    "标题": "title=\"&&\"",
+    "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
+    "跳转播放链接": "var playUrl = '&&'",
+    "直接播放": "1",
+    "嗅探词": "index.m3u8",
+    "分类数组": "<a&&</a",
+    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
+    "分类ID": "href=\"/sort/id/&&.html\"",
+    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
+------------
