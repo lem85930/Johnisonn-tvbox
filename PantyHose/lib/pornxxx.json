@@ -4,8 +4,8 @@
             "分类url":"https://pornxxx.tube/videos/{cateId}/?{by}page={catePg}",
             "分类":"fetish$fetish#chinese$chinese#milf$milf#kinky$kinky#submissive$submissive#spandex$spandex#secretary$secretary#bdsm$bdsm#office$office#high-heels$high-heels#stockings$stockings#vintage$vintage#miniskirt$miniskirt#slave$slave#panties$panties#bondage$bondage#tied-up$tied-up#pantyhose$pantyhose#punishment$punishment#handcuffed$handcuffed#clothed$clothed#strip$strip#leggings$leggings#lezdom$lezdom#domination$domination#goth$goth#garter-belt$garter-belt#gagging$gagging#fucking-machine$fucking-machine#foot-fetish$foot-fetish",
 
-            "数组":"js-gallery-link\"&&</picture>",
-            "二次截取":"b-thumb-list__wrap&&</div></div></div>",
+            "数组":"class=\"js-gallery-stats js-gallery-link\"&&</picture>",
+            //"二次截取":"b-thumb-list__wrap&&</div></div></div>",
             "图片":"type=\"image/jpeg\" srcset==\"&&\"",
             "标题":"alt=\"&&\"",
             "链接":"href=\"&&\"",
