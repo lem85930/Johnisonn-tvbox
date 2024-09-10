@@ -3,11 +3,6 @@
   "sites": [
        
     {
-        "key": "BT","name": "🦅BARBT┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/barbt.json"
-    },  
-    {
         "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/追影.json"
