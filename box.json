@@ -295,6 +295,11 @@
 //////////////////////////XBPQ(25)///////////////////////////
 
     {
+        "key": "BT","name": "🐝BARBT┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/barbt.json"
+    },
+    {
         "key": "CQ","name": "🥝传奇┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/传奇.json"
