@@ -99,3 +99,8 @@
     "分类ID": "href=\"/sort/id/&&.html\"",
     "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
 ------------
+    "分类数组": "<li&&</li>",
+    "分类标题": ">&&</a",
+    "分类ID": "/vodtype/&&.html",
+    "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
+------------
