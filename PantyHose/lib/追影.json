@@ -4,8 +4,8 @@
             "分类":"电影$20#剧集$21#综艺$22#动漫$23#短剧$24",
 
             "数组":"class=\"myui-vodlist__thumb lazyload\"&&</a>",
-            //"图片":"data-original=\"&&\"",
-            "图片":"background-image: url('&&')",
+            "图片":"data-original=\"&&\"",
+            //"图片":"background-image: url('&&')",
             "标题":"title=\"&&\"",
             "副标题":"class=\"pic-tag pic-tag-top\"*>&&</span>",
             "链接":"href=\"&&\"",
