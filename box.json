@@ -290,7 +290,7 @@
 //////////////////////////XBPQ(28)///////////////////////////
 
     {
-        "key": "New6v","name": "💎六葳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+        "key": "New6v","name": "🐩六葳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/6v.json"
     },
