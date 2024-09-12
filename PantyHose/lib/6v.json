@@ -16,8 +16,9 @@
 
         "播放二次截取":"下载速度会更快&&class=\"navigation container\"",
         "播放数组":"</h3>&&</div>",
-        "播放标题":">&&<",
         "播放列表":"<a&&/a>",
+        "播放标题":">&&<",
+        "播放链接":"href=\"&&\"",
 
         "搜索模式":"1",
         "搜索url":"https://www.xb6v.com/e/search/index.php;post;show=title&tempid=1&tbname=article&mid=1&dopost=search&submit=&keyboard={wd}"
