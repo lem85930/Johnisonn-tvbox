@@ -3,7 +3,7 @@
 
             "分类":"电影$20#剧集$21#综艺$22#动漫$23#短剧$24",
 
-            "数组":"class=\"myui-vodlist__thumb\"&&</h4>",
+            "数组":"class=\"myui-vodlist__thumb lazyload\"&&</a>",
             "图片":"background-image: url(&&)",
             "标题":"title=\"&&\"",
             "链接":"href=\"&&\"",
