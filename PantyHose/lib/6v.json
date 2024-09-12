@@ -1,6 +1,6 @@
 {   
 
-        "分类url":"https://www.xb6v.com/{cateId}/index_{catePg}.html",
+        "分类url":"https://www.xb6v.com/{cateId}/index_{catePg}.html[https://www.xb6v.com/{cateId}]",
         "分类":"喜剧$xijupian#动作$dongzuopian#爱情$aiqingpian#科幻$kehuanpian#剧情$juqingpian#战争$zhanzhengpian#纪录$jilupian#动画$donghuapian#国剧$dianshiju/guoju#综艺$ZongYi",
         "二次截取":"<ul id=\"post_container\"&&</ul>",
         "数组":"class=\"thumbnail\"&&class=\"info_views info_ico\"",
@@ -9,7 +9,7 @@
         "副标题":"class=\"info_date info_ico\">&&</span>",
         "标题":"title=\"&&\"",
         "链接":"href=\"&&\"",
-
+"调试":"1",
         "线路数组":"class=\"widget box row\"&&</div>",
         "线路标题":"<h3>&&</h3>",
 
