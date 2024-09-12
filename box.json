@@ -249,7 +249,7 @@
     },
 
 
-//////////////////////外挂接口(9)///////////////////////////////
+//////////////////////外挂接口(8)///////////////////////////////
 
     {   
         "key":"JOJO","name":"🍭JOJO┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,
@@ -286,14 +286,14 @@
         "key":"Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
         "api":"csp_Kuaikan"
     },
+
+//////////////////////////XBPQ(28)///////////////////////////
+
     {
-        "key": "csp_New6v","name": "💎六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-        "api": "csp_New6v",
-        "ext": "https://www.xb6v.com"
+        "key": "New6v","name": "💎六葳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/6v.json"
     },
-
-//////////////////////////XBPQ(25)///////////////////////////
-
     {
         "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
