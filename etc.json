@@ -48,6 +48,12 @@
       "ext": "./PantyHose/lib/pornXP.json"
     },
     {
+      "key": "sugar","name": "🚸Sugar┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/sugar.json"
+    },
+    {
       "key": "aaxx","name": "🚸AX┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
