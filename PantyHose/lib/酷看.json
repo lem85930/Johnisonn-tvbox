@@ -15,7 +15,11 @@
     "标题":"title=\"&&\"",
     "副标题":"class=\"module-item-douban\"&&</div>",
     "图片":"data-original=\"&&\"",
-    "链接":"href=\"&&\""
+    "链接":"href=\"&&\"",
+
+    "线路二次截取":"class=\"swiper-wrapper\"&&</ul>",
+    "线路数组":"<li>&&</li>",
+    "线路标题":"href*>&&<"
         
 
     
