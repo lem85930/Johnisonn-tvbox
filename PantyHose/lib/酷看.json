@@ -1,40 +1,23 @@
 {
     
+    //"分类url":"http://www.hkact-china.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html[http://www.hkact-china.com/type/{cateId}.html]",
+    //"分类":"电影$1#电视剧$2#综艺$3#动漫$4"       
+
+    
+    "分类二次截取": "stui-header__menu type-slide&&</ul>",
+    "分类数组": "<li>&&</li>",//[不包含:首页]
+    "分类标题": ">&&</a",
+    "分类ID": "/type/&&.html",
+    "分类url":"http://www.hkact-china.com/type/{cateId}-{catePg}.html",
     
     
     "数组":"class=\"stui-vodlist__thumb lazyload\"&&class=\"stui-vodlist__detail\"",
-    
     "标题":"title=\"&&\"",
-    
     "副标题":"class=\"module-item-douban\"&&</div>",
-    
     "图片":"data-original=\"&&\"",
-    
-    "链接":"href=\"&&\"",
-    
-/*     "搜索url":"/so/-------------.html;post;wd={wd}",
-    
-    "搜索数组":"stui-vodlist__thumb&&</a>",
-    
-    
-    "线路数组":"<h3 class=\"title\"&&/h3>[不包含:ikun资源#卧龙资源#闪电资源#红牛资源]",
-    
-    "线路标题":"喵影视TV-+>&&<",
-    
-    "播放数组":"stui-content__playlist clearfix&&</ul>",
-    
-    "播放标题":">&&<",
-    
-    "播放列表":"<a&&/a>",
-    
-    //"分类url":"http://www.hkact-china.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html[http://www.hkact-china.com/type/{cateId}.html]",
-    //"分类":"电影$1#电视剧$2#综艺$3#动漫$4"          */
+    "链接":"href=\"&&\""
+        
 
-    "分类二次截取": "stui-header__menu type-slide&&</ul>",
-    "分类数组": "<li>&&</li>[不包含:首页]",
-    "分类标题": ">&&<",
-    "分类ID": "/type/&&.html",
-    "分类url":"http://www.hkact-china.com/type/{cateId}-{catePg}.html"
     
     
 /*    "筛选":{
