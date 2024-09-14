@@ -289,6 +289,13 @@
 
 //////////////////////////XBPQ(28)///////////////////////////
 
+
+    {   "key":"酷看","name":"💡酷看┃外接","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        //"jar": "./PantyHose/spider/chuanxin.jar",
+        //"api": "csp_Kkys"
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/酷看.json"
+    },
     {
         "key": "New6v","name": "🐩六葳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_XBPQ",
