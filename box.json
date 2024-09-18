@@ -278,14 +278,14 @@
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": 2,"timeout": 15,
       "api": "csp_AppTT",
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "jar":"./PantyHose/spider/meow.jar"
+      "jar":"./PantyHose/spider/meow.jar;md5;7949BE328984866E5E47D85228DBAC2A"
       //"jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
       "key": "ngys",
       "name": "南瓜┃影视",
       "type": 3,
-      "api": "csp_NanGua","jar":"./PantyHose/spider/meow.jar",
+      "api": "csp_NanGua","jar":"./PantyHose/spider/meow.jar;md5;7949BE328984866E5E47D85228DBAC2A",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -295,7 +295,7 @@
       "key": "mmys",
       "name": "萌米┃影视",
       "type": 3,
-      "api": "csp_AppTT","jar":"./PantyHose/spider/meow.jar",
+      "api": "csp_AppTT","jar":"./PantyHose/spider/meow.jar;md5;7949BE328984866E5E47D85228DBAC2A",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -308,7 +308,7 @@
       "key": "pgys",
       "name": "苹果┃影视",
       "type": 3,
-      "api": "csp_LiteApple","jar":"./PantyHose/spider/meow.jar",
+      "api": "csp_LiteApple","jar":"./PantyHose/spider/meow.jar;md5;7949BE328984866E5E47D85228DBAC2A",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
