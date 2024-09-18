@@ -1,5 +1,5 @@
 {
-  "spider": "./PantyHose/spider/chuanxin.jar",
+  "spider": "./PantyHose/spider/JunYu.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -252,25 +252,30 @@
 //////////////////////外挂接口(6)///////////////////////////////
 
     {
-        "key":"南瓜","name":"🎃南瓜┃外A","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key":"南瓜","name":"🎃南瓜┃APP","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "jar":"./PantyHose/spider/meow.jar",
         "api": "csp_NanGua"
     },
     {
-        "key":"热播","name":"🌴热播┃外A","type":3,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,
+        "key":"热播","name":"🌴热播┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,
+        "jar":"./PantyHose/spider/meow.jar",
         "api":"csp_AppTT",
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },  
     {
-       "key":"萌米","name":"🌾萌米┃外A","type":3,"timeout":15,"playerType":1,
+       "key":"萌米","name":"🌾萌米┃APP","type":3,"timeout":15,"playerType":1,
+       "jar":"./PantyHose/spider/meow.jar",
        "api":"csp_AppTT",
        "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
-        "key":"苹果","name":"🍎苹果┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
+        "key":"苹果","name":"🍎苹果┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,
+        "jar":"./PantyHose/spider/meow.jar",
         "api":"csp_LiteApple"
     },
     {   
         "key":"Ibot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
+        "jar":"./PantyHose/spider/XYQ.jar",
         "api":"csp_Ikanbot"
     },
     {  
@@ -278,9 +283,14 @@
         "api":"csp_Kuaikan"
     },
 
-//////////////////////////XBPQ(28)///////////////////////////
+//////////////////////////XBPQ(30)///////////////////////////
 
 
+    {
+        "key": "kk","name": "🏴可可┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/可可.json"
+    },
     {   "key":"酷看","name":"💡酷看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         //"jar": "./PantyHose/spider/chuanxin.jar",
         //"api": "csp_Kkys"
