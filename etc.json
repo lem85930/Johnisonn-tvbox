@@ -48,10 +48,10 @@
       "ext": "./PantyHose/lib/pornXP.json"
     },
     {
-      "key": "sugar","name": "🚸Sugar┃ColorF",
+      "key": "up","name": "🚸Bdup┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/sugar.json"
+      "ext": "./PantyHose/lib/bdup.json"
     },
     {
       "key": "aaxx","name": "🚸AX┃ColorF",
@@ -104,11 +104,6 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "jar": "./PantyHose/spider/PG.jar",
       "ext": "./PantyHose/lib/酷6.js"
-    },
-    {
-      "key": "4KHDR","name": "✡️HDR┃DR","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/4khdr.js"
     },
     {
         "key": "新浪","name": "🛒新浪┃采集","type": 1,"searchable": 0,"quickSearch": 1,"filterable": 1,
