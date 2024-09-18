@@ -3,9 +3,9 @@
     "分类url":"https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
     "分类":"电影$1#电视剧$2#动漫$3#综艺纪录$4#短剧$5",
     "数组":"class=\"module-item\"&&class=\"v-item-top-right\"",
-    "图片":"data-original=\"&&\" referrerpolicy=\"no-referrer\" alt=",
+    //"图片":"data-original=\"&&\" referrerpolicy=\"no-referrer\" alt=",
 
-    //https://61.147.93.252:15002/vod1/vod/cover/20240813/13/51/03/3c28637b89b3fdaefce826462e1a37ad.jpg
+    "图片":"https://61.147.93.252:15002/vod1/vod/cover/20240813/13/51/03/3c28637b89b3fdaefce826462e1a37ad.jpg",
     "标题":"title=\"&&\"",
     "副标题":"<span>&&</span>",
     "链接":"href=\"&&\"",
