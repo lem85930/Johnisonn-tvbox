@@ -1,0 +1,9 @@
+{
+    "分类url":"http://www.tengfeigg.com/vodshow/{cateId}/by/{by}/page/{catePg}/year/{year}.html",
+
+
+    "搜索url":"http://www.tengfeigg.com/vodsearch.html?wd={wd}&submit="
+
+
+    
+}
