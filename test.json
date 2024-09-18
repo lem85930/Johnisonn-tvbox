@@ -3,6 +3,16 @@
   "sites": [
        
     {
+        "key": "ibot","name": "🏴机器┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/机器.json"
+    },
+    {
+        "key": "kuaik","name": "🏴快看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/快看.json"
+    },
+    {
         "key": "kk","name": "🏴可可┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/可可.json"
