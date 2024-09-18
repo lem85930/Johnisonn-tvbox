@@ -1,5 +1,5 @@
 {
-  "spider": "./PantyHose/spider/JunYu.jar",
+  "spider": "./PantyHose/spider/HCCX.jar",
   "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
@@ -120,7 +120,7 @@
     {
       "key": "豆豆",
       "name": "【小波丁丁蕤】","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
-      "api": "csp_DouDou"
+      "api": "csp_DouBan"
     },
 /////////////////////////采集站（搜索不支持）///////////////////////////
     {
@@ -244,7 +244,6 @@
     {
       "key": "cctv","name": "📺央视┃快线","type": 3,"searchable": 0,"filterable": 0,
       "api": "csp_CCTV",
-      "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/央视大全.json"
     },
 
@@ -253,24 +252,24 @@
 
     {
         "key":"南瓜","name":"🎃南瓜┃APP","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "jar":"./PantyHose/spider/meow.jar",
+        "jar":"./PantyHose/spider/meow.php",
         "api": "csp_NanGua"
     },
     {
         "key":"热播","name":"🌴热播┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,
-        "jar":"./PantyHose/spider/meow.jar",
+        "jar":"./PantyHose/spider/meow.php",
         "api":"csp_AppTT",
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },  
     {
        "key":"萌米","name":"🌾萌米┃APP","type":3,"timeout":15,"playerType":1,
-       "jar":"./PantyHose/spider/meow.jar",
+       "jar":"./PantyHose/spider/meow.php",
        "api":"csp_AppTT",
        "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
         "key":"苹果","name":"🍎苹果┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,
-        "jar":"./PantyHose/spider/meow.jar",
+        "jar":"./PantyHose/spider/meow.php",
         "api":"csp_LiteApple"
     },
     {   
@@ -280,6 +279,7 @@
     },
     {  
         "key":"Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+        "jar":"./PantyHose/spider/XYQ.jar",
         "api":"csp_Kuaikan"
     },
 
