@@ -12,6 +12,9 @@
     "标题":"title=\"&&\"",
     "链接":"ef=\"&&\" title=",
 
+    "线路数组":"role=\"group\" aria-label=&&small class=\"no\"",
+    "线路标题":">&&<",
+
 
     "跳转播放链接":"<iframe*src=\"&&\""
     //"嗅探词":"m3u8"
