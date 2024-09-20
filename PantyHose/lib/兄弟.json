@@ -5,17 +5,14 @@
     "分类标题":"title=\"&&\"",
     "分类ID":"href=\"/type/&&/\"",        
 
-    //"分类":"电影$1#电视剧$2",
 
     "数组":"module-items module-poster-items-base&&module-poster-item-info",
     //"数组":"<a>&&</a>",
     "图片":"<img class=*data-original=\"&&\"",
     "标题":"title=\"&&\"",
     "链接":"href=\"&&\"",
-    "播放链接":"https://play.brovod.com/?url=aoo00oH0Roo00o04cO0O0OH0M9lO0O0OMoo00o00ElMkYlMkZtM3UubmlrYW5iYS5saXZlJTJGcoo00ohhcmUlMkYyNmEwMGMwMTBjMmM0ZDhlOWE5ODJjNTM0MTNlZjkxZC5tM3U4&next=//&title=在线播放千博士驱魔研究所 720P",
 
-    //"跳转播放链接":"<iframe border*src=\"&&\"",
-    //"跳转播放链接":"https://play.brovod.com/?url=aoo00oH0Roo00o04cO0O0OH0M9lO0O0OMoo00o00ElMkYlMkZtM3UubmlrYW5iYS5saXZlJTJGcoo00ohhcmUlMkYyNmEwMGMwMTBjMmM0ZDhlOWE5ODJjNTM0MTNlZjkxZC5tM3U4&next=//&title=在线播放千博士驱魔研究所 720P",
+    "跳转播放链接":"<iframe border*src=\"&&\"",
     "免嗅":"1"
 
 
