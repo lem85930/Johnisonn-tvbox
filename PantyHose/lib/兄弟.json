@@ -1,0 +1,20 @@
+{
+
+    "分类url":"https://www.brovod.com/type/{cateId}/",
+    "分类数组":"swiper-slide navbar-item&&</li>",
+    "分类标题":"title=\"&&\"",
+    "分类ID":"href=\"/type/&&/\"",
+
+    "二次截取":"module-items module-poster-items-base&&</div></div></div>",
+    "数组":"<a>&&</a>",
+    "图片":"<img class=*src=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    "跳转播放链接":"<iframe border*src=\"&&\"",
+    "免嗅":"1"
+
+
+
+
+}
