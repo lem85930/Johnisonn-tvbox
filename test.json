@@ -3,6 +3,11 @@
   "sites": [
        
     {
+        "key": "XD","name": "兄弟┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/兄弟.json"
+    },
+    {
         "key": "ibot","name": "🏴机器┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/机器.json"
