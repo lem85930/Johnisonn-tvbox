@@ -12,7 +12,7 @@
     "标题":"title=\"&&\"",
     "链接":"ef=\"&&\" title=",
 
-    "线路数组":"role=\"group\" aria-label=&&small class=\"no\"",
+    "线路数组":"class=\"swiper-slide module-tab-item tab-item&&small class=\"no\"",
     "线路标题":">&&<",
 
 
