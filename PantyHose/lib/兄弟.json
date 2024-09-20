@@ -1,15 +1,15 @@
 {
 
     "分类url":"https://www.brovod.com/type/{cateId}/",
- /*   "分类数组":"swiper-slide navbar-item&&</li>",
+    "分类数组":"swiper-slide navbar-item&&</li>",
     "分类标题":"title=\"&&\"",
-    "分类ID":"href=\"/type/&&/\"",        */
+    "分类ID":"href=\"/type/&&/\"",        
 
-    "分类":"电影$1#电视剧$2",
+    //"分类":"电影$1#电视剧$2",
 
     "数组":"module-items module-poster-items-base&&module-poster-item-info",
     //"数组":"<a>&&</a>",
-    "图片":"<img class=*src=\"&&\"",
+    "图片":"<img class=*data-original=\"&&\"",
     "标题":"title=\"&&\"",
     "链接":"href=\"&&\"",
 
