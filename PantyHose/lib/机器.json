@@ -4,7 +4,7 @@
     "分类":"电影$hot/index-movie#剧集$hot/index-tv#榜单$billboard",
 
     "数组":"class=\"col-xs-4 col-sm-3 col-md-2 item\"&&</div>",
-    "图片":"data-src=\"&&\"",
+    "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
 
