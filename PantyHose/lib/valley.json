@@ -1,7 +1,8 @@
 {
     
     //"首页数组": "class=\"video-list-image\"&&class=\"play_hover_btn\"",
-    "首页":"https://bondagevalley.cc/videos/latest",
+    "首页":"最新$latest",
+    //"首页": "",//可指定展示分类和数量，如"电影$20"，不指定数量默认展示最多40个，不指定分类默认展示首页推荐
     "分类url":"https://bondagevalley.cc/videos/{cateId}{class}?page_id={catePg}&type={by}",
 
 
