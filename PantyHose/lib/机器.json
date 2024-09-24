@@ -1,6 +1,6 @@
 {
 
-    "分类url":"https://v.ikanbot.com/{cateId}-{class}-p-{catePg}.html[https://v.ikanbot.com/{cateId}-{class}.html]",
+    "分类url":"https://v.ikanbot.com/{cateId}-{class}-p-{catePg}.html[https://v.ikanbot.com/{cateId}-热门.html]",
     "分类":"电影$hot/index-movie#剧集$hot/index-tv#榜单$billboard",
 
     "数组":"class=\"col-xs-4 col-sm-3 col-md-2 item\"&&</div>",
