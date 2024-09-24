@@ -12,6 +12,9 @@
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
+
+    "跳转播放链接":"<link rel=\"preload\" href=\"&&\" as=\"fetch\" crossorigin>",
+
     "直接播放":"1",
     "搜索模式":"1",
     "搜索url":"https://zh.megaxh.com/search/{wd}?page={catePg}",
