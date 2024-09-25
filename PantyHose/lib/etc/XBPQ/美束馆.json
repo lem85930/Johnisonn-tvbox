@@ -15,7 +15,7 @@
 
     //"分类":"周热门$week#半岛$tag/半岛束艺",
 
-    "分类url":"https://symsg5120.com/week",
+    "分类url":"https://symsg5120.com/{cateId}",
 
     "数组":"class=\"excerpt excerpt-c4\"&&</a></h2><footer>",
     "图片":"data-src=\"&&\"",
