@@ -10,7 +10,7 @@
     {
         "key": "msg","name": "美束馆┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/美束馆.json"
+        "ext": "./PantyHose/lib/ect/XBPQ/美束馆.json"
     }
     
 
