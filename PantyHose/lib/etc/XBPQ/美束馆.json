@@ -12,9 +12,9 @@
     "分类":"周热门&半岛&随心&逍遥&绳之韵&胜景&樱束&得意客&网友&嗷大喵",
     "分类值":"week&tag/半岛束艺&tag/随心原创&tag/逍遥原创&tag/绳之韵&tag/胜景影视&tag/樱束原创&tag/得意客&tag/网友原创&tag/嗷大喵",
 
-    "数组":"class=\"excerpt excerpt-c4\"&&<footer>",
+    "数组":"class=\"excerpt excerpt-c4\"&&</a></h2><footer>",
     "图片":"data-src=\"&&\"",
-    "标题":"<a target=\"_blank*>&&</a>",
+    "标题":"<h2><a target=\"_blank*>&&</a>",
     "链接":"href=\"&&\"",
 
     "播放数组":"class=\"article-content\"&&</p>",
