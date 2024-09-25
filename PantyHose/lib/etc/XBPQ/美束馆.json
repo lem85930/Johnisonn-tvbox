@@ -1,9 +1,9 @@
 {
 
     "分类url":"https://symsg5120.com/tag/{cateId}/page/{catePg}",
-    "分类二次截取":"<div class=\"bomnav\">&&</ul>",
-    "分类数组":"<a&&</li>",
-    "分类ID":"href=\"https://symsg5120.com/&&\">",
+    "分类二次截取":"class=\"tagslist\">&&</ul>",
+    "分类数组":"<li><a class=\"name\"&&/a><small>",
+    "分类ID":"href=\"https://symsg5120.com/tag/&&\">",
     "分类标题":">&&<",
 
     "数组":"class=\"excerpt excerpt-c4\"&&<footer>",
