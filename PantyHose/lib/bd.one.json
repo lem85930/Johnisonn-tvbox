@@ -4,7 +4,7 @@
     "分类":"gag$c167/gags#bondage$c120/bondage",
 
     //"数组":"class=\"th movie-&&class=\"video-title\"",
-    "数组":"class=\"thumbs-container\"&&class=\"video-title\"",
+    "数组":"class=\"th&&class=\"video-title\"",
     "图片":"<img src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
