@@ -2,6 +2,15 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
        
+  
+  
+  
+  
+    {
+        "key": "cc","name": "CC┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/bondage-me.json"
+    },
     {
         "key": "up","name": "up┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
