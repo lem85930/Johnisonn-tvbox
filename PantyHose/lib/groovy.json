@@ -3,7 +3,7 @@
     "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
     "分类":"bdsm$bdsm#stockings$stockings#chinese$chinese#webcam$webcam#office$office#uniform$uniform#casting$casting",
 
-    "数组":"<div class=\"item  \"&&class=\"item-quality\"",
+    "数组":"<div class=\"item&&class=\"item-quality\"",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
