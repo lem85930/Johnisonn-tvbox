@@ -5,7 +5,7 @@
     "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/",
 
 
-    "数组":"<div class=\"item&&class=\"item-quality\"",
+    "数组":"data-rating=&&class=\"item-quality\"",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
