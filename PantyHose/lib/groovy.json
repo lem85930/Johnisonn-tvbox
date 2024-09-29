@@ -1,20 +1,20 @@
 {
 
-    //"分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
     "分类":"bdsm$bdsm#stockings$stockings#chinese$chinese#webcam$webcam#office$office#uniform$uniform#casting$casting",
-    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/",
+    //"分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/",
 
 
-    "数组":"data-rating=&&class=\"item-quality\"",
+    "数组":"data-rating=&&data-cnt",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
 
     "跳转播放链接":"<source id=\"video_source*src=\"&&\"",
     "嗅探词":".mp4",
-    "直接播放":"1"
+    "直接播放":"1",
 
-/*    "筛选":{
+    "筛选":{
                 "bdsm":[
                             {"key":"by","name":"排序","value":[
                             {"n":"全部","v":""},
@@ -90,7 +90,7 @@
 
 
 
-        }  */
+        }  
 
 
 
