@@ -14,6 +14,11 @@
         "播放标题":"<span>&&</span>",
         "播放链接":"href=\"&&\"",
         
+        "搜索数组":"class=\"module-item-pic\"&&class=\"loading\"></div>",
+        "搜索图片":"data-src=\"&&\"",
+        "搜索标题":"alt=\"&&\"",
+        "搜索链接":"href=\"&&\"",
+
         "分类url":"https://www.ziziys.com/list/{cateId}.html",
         
         "分类":"电影$1#历史传记$25#纪录片$29#国剧$13"
