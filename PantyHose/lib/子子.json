@@ -1,8 +1,8 @@
     {
     
     
-        "搜索url":"https://www.ziziys.com/vsearch/{wd}--{catePg}.html",
-        
+        //"搜索url":"https://www.ziziys.com/vsearch/{wd}--{catePg}.html",
+        "搜索url":"https://www.ziziys.com/vsearch/--.html?wd={wd}",
         "数组":"module-item-pic&&class=\"loading\">",
         
         
