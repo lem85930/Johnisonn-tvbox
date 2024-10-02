@@ -8,8 +8,9 @@
         "线路数组":"class=\"module-tab-content\"&&/small>",
         "线路标题":"data-dropdown-value=\"&&\"",
 
-        "播放数组":"class=\"scroll-content\"&&</div>",
-        "播放列表":"<a>&&</a>",
+        //"播放数组":"class=\"scroll-content\"&&</div>",
+        "播放数组":"class=\"sort-item\"&&</div>",
+        "播放列表":"<a&&</a>",
         "播放标题":"<span>&&</span>",
         "播放链接":"href=\"&&\"",
         
