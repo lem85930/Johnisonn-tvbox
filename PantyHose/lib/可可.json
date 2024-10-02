@@ -12,7 +12,9 @@
     "副标题":"<span>&&</span>",
     "链接":"href=\"&&\"",
 
-    "搜索url":"https://www.keke1.app/search?k={wd}&page={catePg}"
+    //"搜索url":"https://www.keke1.app/search?k={wd}&page={catePg}"
+
+    "搜索url":"https://www.keke1.app/search?os=pc&k={wd}"
 
 
 
