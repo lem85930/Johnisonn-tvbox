@@ -26,6 +26,10 @@
       "ext": "./PantyHose/lib/cure.json"
     },
     {
+        "key": "one","name": "one┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/bd.one.json"
+    },    {
         "key": "bunkr","name": "🚸Shiny┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bunkr.si.json" 
