@@ -7,6 +7,11 @@
   
   
     {
+        "key": "FM","name": "疯猫┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/疯猫.json"
+    }, 
+    {
         "key": "MF","name": "Milf┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/Xmilf.json"
