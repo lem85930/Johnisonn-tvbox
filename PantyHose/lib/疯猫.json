@@ -1,14 +1,16 @@
 {
 
     "分类url":"https://o7b.fmav59.icu/fly/{cateId}_p{cataPg}.html",
-    "分类数组":"gag$ball-gag",
+    "分类二次截取": "class=\"nav nav-sidebar\">&&</ul>",
+    "分类数组": "<li>&&</li>",
+    "分类标题": "</span>&&</a>",
+    "分类ID": "<a href=\"/fly/&&_p.html\"",
 
-    "数组":"<article&&class=\"quality\"",
-    "图片":"data-src=\"&&\"",
-    "标题":"title=\"Poster: &&\"",
-    "副标题":"class=\"duration\"*</svg>&&</i>",
+    "数组":"class=\"resent-grid-img recommended-grid-img\"&&</h5>",
+    "图片":"data-original=\"&&\"",
+    "标题":"class=\"title\">&&</a>",
+    //"副标题":"class=\"duration\"*</svg>&&</i>",
     "链接":"href=\"&&\"",
-    "简介":"masha_index masha_index1*</span>&&</span>",
 
     "直接播放":"1"
 
