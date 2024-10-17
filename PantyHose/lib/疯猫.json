@@ -12,6 +12,15 @@
     //"副标题":"class=\"duration\"*</svg>&&</i>",
     "链接":"href=\"&&\"",
 
+    "线路数组":"glyphicon-play-circle\"&&</a>",
+
+    //"播放数组":"myList&&</ul>",
+    //"播放标题":"</span>&&/a>",
+    
+    "搜索url":"/ss/key_{wd}_p{pg}.html",
+    "简介":"myList\"&&</p>",
+    //"嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+
     "直接播放":"1"
 
 
