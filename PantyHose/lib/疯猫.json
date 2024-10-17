@@ -14,6 +14,7 @@
     "线路数组":"glyphicon-play-circle\"&&</a>",
     "简介":"myList\"&&</p>",
 
+    "搜索url":"/ss/key_{wd}_p{pg}.html"
 
 /*
 "请求头":"手机",
@@ -25,28 +26,12 @@
 "数组":"col-md-3 resent-grid recommended-grid&&</div></div></div>", 
 "标题":"title\"&&</a>",
 "图片":"data-original=\"&&\"",
- */
-
-"搜索url":"/ss/key_{wd}_p{pg}.html",
-
-//"嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+ "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
+*/
 
 
-
-"播放数组":"myList&&</ul>",
-"播放标题":"</span>&&/a>"
-
-
-
-
-
-
-
-
-
-
-
-
+//"播放数组":"myList&&</ul>",
+//"播放标题":"</span>&&/a>"
 
 
 
