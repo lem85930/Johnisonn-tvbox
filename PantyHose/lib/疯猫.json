@@ -14,8 +14,8 @@
 
     "线路数组":"glyphicon-play-circle\"&&</a>",
 
-    //"播放数组":"myList&&</ul>",
-    //"播放标题":"</span>&&/a>",
+    "播放数组":"myList&&</ul>",
+    "播放标题":"</span>&&/a>",
     
     "搜索url":"/ss/key_{wd}_p{pg}.html",
     "简介":"myList\"&&</p>",
