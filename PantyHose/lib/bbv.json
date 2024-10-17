@@ -3,17 +3,16 @@
     "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
     "数组":"img-responsive-16by9\"&&</span>",
     
-    "搜索模式": "1",
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
 
     
     //"跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
     "跳转播放链接":"<iframe src=\"&&\"",
     "二次跳转播放链接":"prompt(\"Node\", \"&&\")",
-    //"嗅探词":"m3u8",
+    "嗅探词":"m3u8#voe.sx"
               
 
-    "直接播放":"1"
+    //"直接播放":"1"
 
 
 }
