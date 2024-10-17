@@ -2,7 +2,7 @@
 
     "分类url":"https://o7b.fmav59.icu/fly/{cateId}_p{cataPg}.html",
     "分类二次截取": "class=\"nav nav-sidebar\">&&</ul>",
-    "分类数组": "<li>&&</li>",
+    "分类数组": "<li  >&&</li>",
     "分类标题": "</span>&&</a>",
     "分类ID": "<a href=\"/fly/&&_p.html\"",
 
