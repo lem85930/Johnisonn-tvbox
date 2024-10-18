@@ -11,7 +11,7 @@
     "数组":"img-responsive-16by9\"&&/span>",
     "图片":"<img src=\"&&\"",
     "标题":"title=\"&&\"",
-    //"副标题":"</i>&&<",
+    "副标题":"</i>&&<",
     "链接":"href=\"&&\"",
 
     "简介":"read-more--text text-white/70 text-white/70 leading-5 whitespace-normal&&</p>",
@@ -22,7 +22,7 @@
     "播放标题":"class=\"title\">&&</h1>",
     //"播放链接":"<iframe src=\"&&\"",
 
-
+"调试":"1",
 
     "播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
     "跳转播放链接":"prompt(\"Node\", \"&&\")",
