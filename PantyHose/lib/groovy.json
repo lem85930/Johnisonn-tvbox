@@ -7,7 +7,7 @@
 */    
 
     "分类二次截取":"second-menu-holder second-menu-categories second-menu-opened&&</ul>",
-    "分类url:":"https://xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
     "分类数组":"<li>&&</li>",
     "分类ID":"<a href=\"https://cn.xgroovy.com/categories/&&/\"",
     "分类标题":">&&<",
