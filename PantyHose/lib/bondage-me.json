@@ -10,7 +10,9 @@
 
     "跳转播放链接":"<iframe src=\"&&\"",
     //"点击":"<iframe src=\"&&\"",
-    "二次跳转播放链接":"https://s39.wayshare.cc:183/d/+video|vjsplayer|*type|&&|+/video.mp4",
+    "二次跳转播放链接":"https://+poster=\"https://&&.wayshare.cc/+.wayshare.cc:183/d/+video|vjsplayer|*type|&&|+/video.mp4",
+
+    
 "调试":"1",
     "免嗅":"1",
     //"嗅探词":".mp4",
