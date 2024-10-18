@@ -23,6 +23,7 @@
     "播放链接":"<iframe src=\"&&\"",
 
 "调试":"1",
+"请求头":"手机",
 
     //"播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
     "跳转播放链接":"prompt(\"Node\", \"&&\")",
