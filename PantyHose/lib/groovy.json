@@ -1,17 +1,17 @@
 {
 
-/*    "分类url:":"https://xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类url:":"https://xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
     "分类":"bdsm$bdsm#stockings$stockings#chinese$chinese#webcam$webcam#office$office#uniform$uniform#casting$casting",
     //"分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/",
 
-*/    
-
+    
+/*
     "分类二次截取":"second-menu-holder second-menu-categories second-menu-opened&&</ul>",
     "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
     "分类数组":"<li>&&</li>",
     "分类ID":"<a href=\"https://cn.xgroovy.com/categories/&&/\"",
     "分类标题":">&&<",
-
+*/
     "数组":"data-rating=&&data-cnt",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
