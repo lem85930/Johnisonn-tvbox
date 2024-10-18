@@ -12,8 +12,8 @@
     "分类ID":"<a href=\"https://cn.xgroovy.com/categories/&&/\"",
     "分类标题":">&&<",
 */
-    "数组":"data-rating=&&data-cnt",
-    "图片":"src=\"&&\"",
+    "数组":"data-rating=&&class=\"item-quality\"",
+    "图片":"data-jpg=\"&&\"",
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
 
