@@ -1,17 +1,17 @@
 {
-    "分类二次截取":"class=\"has-text-color has-medium-font-size has-vivid-cyan-blue-color\"&&</p>",
+/*    "分类二次截取":"class=\"has-text-color has-medium-font-size has-vivid-cyan-blue-color\"&&</p>",
     "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/",
     "分类数组":"<a&&/a>",
     "分类ID":"href=\"https://bestbondagevideos.com/tag/&&/\">",
     "分类标题":">&&<",
-    
-/*    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
+ */   
+    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
     "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
-*/    
+    
     "数组":"img-responsive-16by9\"&&/span>",
     "图片":"<img src=\"&&\"",
     "标题":"title=\"&&\"",
-    "副标题":"</i>&&<",
+    //"副标题":"</i>&&<",
     "链接":"href=\"&&\"",
 
     "简介":"read-more--text text-white/70 text-white/70 leading-5 whitespace-normal&&</p>",
@@ -20,9 +20,11 @@
 
     "播放数组":"class=\"main-content\"&&post-views content-post post-36748 entry-meta load-static",
     "播放标题":"class=\"title\">&&</h1>",
-    "播放链接":"<iframe src=\"&&\"",
+    //"播放链接":"<iframe src=\"&&\"",
 
-    //"跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
+
+
+    "播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
     "跳转播放链接":"prompt(\"Node\", \"&&\")",
     "嗅探词":"m3u8#voe.sx",
               
