@@ -20,11 +20,11 @@
 
     "播放数组":"class=\"main-content\"&&post-views content-post post-36748 entry-meta load-static",
     "播放标题":"class=\"title\">&&</h1>",
-    //"播放链接":"<iframe src=\"&&\"",
+    "播放链接":"<iframe src=\"&&\"",
 
 "调试":"1",
 
-    "播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
+    //"播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
     "跳转播放链接":"prompt(\"Node\", \"&&\")",
     "嗅探词":"m3u8#voe.sx",
               
