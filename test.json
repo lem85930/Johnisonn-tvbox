@@ -2,18 +2,10 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
        
-      {
+    {
         "key": "VK","name": "VK┃PQ","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/vk.json"
-    }, 
-  
-  
-  
-    {
-        "key": "FM","name": "疯猫┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/疯猫.json"
     }, 
     {
         "key": "MF","name": "Milf┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -26,19 +18,9 @@
         "ext": "./PantyHose/lib/groovy.json"
     },
     {
-        "key": "cc","name": "CC┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/bondage-me.json"
-    },
-    {
         "key": "up","name": "up┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bdup.json"
-    },
-    {
-        "key": "msg","name": "美束馆┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/etc/XBPQ/美束馆.json"
     }
     
 
