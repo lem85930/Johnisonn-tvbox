@@ -21,7 +21,9 @@
 
 "调试":"1",
 
-    "跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
+    //"跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
+                  //https://richardstorehalf.com/e/gkqpxo4lnqba
+    "跳转播放链接":"<iframe src=\"&&\"",
     "二次跳转播放链接":"prompt(\"Node\", \"&&\")",
     "嗅探词":".m3u8",
               
