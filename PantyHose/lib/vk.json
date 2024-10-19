@@ -1,10 +1,10 @@
 {
 
-    "二次截取":"{\"apiPrefetchCache\":\\[&&,{\"method\"",
-    "数组":"\"files\":&&\"player\":",
-    "图片":"items.image[7].url",
-    "标题":"\"title\": \"&&\"",
-    "链接":"\"mp4_720\": \"&&\"",
+    "二次截取":"\"items\"&&max_attached_short_videos",
+    "数组":"\"duration\"&&\"added\"",
+    "图片":"\"image\":\\[{\"url\":\"&&\"",
+    "标题":"\"title\":\"&&\"",
+    "链接":"\"player\":\"&&\"",
 
 "调试":"1",
 
