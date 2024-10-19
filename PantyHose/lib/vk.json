@@ -1,6 +1,6 @@
 {
 
-    "二次截取":"{\"apiPrefetchCache\":[&&,{\"method\"",
+    "二次截取":"{\"apiPrefetchCache\":\\[&&,{\"method\"",
     "数组":"\"files\":&&\"player\":",
     "图片":"items.image[7].url",
     "标题":"\"title\": \"&&\"",
