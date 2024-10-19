@@ -1,13 +1,15 @@
 {
 
-    "数组":"vkuiTappable vkuiTappable--hasPointer-none vkuiClickable__resetLinkStyle vkuiClickable__host vkuiClickable__realClickable vkui-focus-visible VideoCardThumb-module__thumb&&VideoCardPreview-module__footer",
-    "图片":"src=\"&&\"",
-    "标题":"alt=\"&&\"",
-    "链接":"href=\"&&\"",
-    //"副标题":"data-testid=\"video_card_duration\">&&</span>",
+    "二次截取":"{\"apiPrefetchCache\":[&&,{\"method\"",
+    "数组":"\"files\":&&\"player\":",
+    "图片":"items.image[7].url",
+    "标题":"\"title\": \"&&\"",
+    "链接":"\"mp4_720\": \"&&\"",
 
-    "分类url":"https://vk.com/{cateId}",
-    "分类":"尼古拉斯赵四$video/playlist/646646891_16"
+
+    "分类url":"https://vk.com/video/playlist/{cateId}",
+    "分类":"Hunter$443402636_1#古拉四$646646891_16"
+    
 
 
 
