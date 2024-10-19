@@ -1,10 +1,12 @@
 {
 
     "二次截取":"\"items\"&&max_attached_short_videos",
-    "数组":"\"duration\"&&\"added\"",
+    "数组":"\"ads\"&&\"added\"",
     "图片":"\"image\":\\[{\"url\":\"&&\"",
     "标题":"\"title\":\"&&\"",
-    "链接":"\"player\":\"&&\"",
+    "链接":"https://vk.com/video+\"video_id\":\"&&\"",
+
+    "播放链接":"\"player\":\"&&\"",
 
 "调试":"1",
 
