@@ -8,11 +8,8 @@
     
 */
 
-    
-
-
     "二次截取":"\"apiPrefetchCache\":\\[&&,{\"method\":\"video.getAlbumById\"",
-    "数组":"response.items[]",
+    //"数组":"response.items[]",
     "图片":"response.items.image[7].url",
     "标题":"response.items.first_frame.title",
     "链接":"https://vk.com/video+response.items.ads.params.video_id",
