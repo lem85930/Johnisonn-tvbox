@@ -1,13 +1,23 @@
 {
-
+/*
     "二次截取":"\"items\"&&max_attached_short_videos",
     //"数组":"\"ads\"&&\"added\"",
     "数组":"\"duration\"&&\"added\"",
     "图片":"\"image\":\\[{\"url\":\"&&\"",
     "标题":"\"title\":\"&&\"",
-    //"链接":"https://vk.com/video+\"video_id\":\"&&\"",
+    
+*/
 
-    "链接":"\"player\":\"&&\"",
+    
+
+
+    "二次截取":"\"apiPrefetchCache\":\\[&&,{\"method\":\"video.getAlbumById\"",
+    "数组":"response.items[]",
+    "图片":"response.items.image[7].url",
+    "标题":"response.items.first_frame.title",
+    "链接":"https://vk.com/video+response.items.ads.params.video_id",
+
+    "播放链接":"response.items.first_frame.player",
 
     "免嗅":"1",
     "直接播放":"1",
