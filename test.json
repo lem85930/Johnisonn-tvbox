@@ -2,11 +2,7 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
        
-    {
-        "key": "VK","name": "VK┃PQ","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/vk.json"
-    }, 
+
     {
         "key": "MF","name": "Milf┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
