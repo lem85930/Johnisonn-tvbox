@@ -4,7 +4,7 @@
     "数组":"\"duration\"&&\"added\"",
     "图片":"\"image\":\\[{\"url\":\"&&\"",
     "标题":"\"title\":\"&&\"",
-    "链接":"https://vk.com/video+\"video_id\":\"&&\"",
+    "链接":"https://vk.com/video+\"video_id\":\"&&=vid+=vid_u",
     "跳转播放链接":"<link itemprop=\"embedUrl\" href=\"&&\"",
     "二次跳转播放链接":"\"hls\":\"&&\"",
 
