@@ -27,7 +27,12 @@
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
     },
     {
-        "key": "cc","name": "🚸MeCC┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "VK","name": "🚸VK┃ColorF","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/vk.json"
+    },
+    {
+        "key": "cc","name": "🚸MeCC┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bondage-me.json"
     },
@@ -37,7 +42,7 @@
         "ext": "./PantyHose/lib/bunkr.si.json" 
     },
     {
-        "key": "msg","name": "🚸美束馆┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "msg","name": "🚸美束馆┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/etc/XBPQ/美束馆.json"
     },
@@ -48,7 +53,7 @@
       "ext": "./PantyHose/lib/cure.json"
     },
     {
-        "key": "one","name": "🚸One┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "one","name": "🚸One┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bd.one.json"
     },
@@ -96,7 +101,7 @@
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
     },
     {
-        "key": "FM","name": "疯猫┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "FM","name": "疯猫┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/疯猫.json"
     }, 
