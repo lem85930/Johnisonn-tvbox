@@ -2,12 +2,11 @@
 
     "二次截取":"\"items\"&&max_attached_short_videos",
     "数组":"\"duration\"&&\"added\"",
-    //"图片":"\"image\":\\[{\"url\":\"&&\"",
-    "图片":"image[6].url",
+    "图片":"\"image\":\\[{\"url\":\"&&\"",
     "标题":"\"title\":\"&&\"",
     "链接":"https://vk.com/video+\"video_id\":\"&&\"",
     "跳转播放链接":"<link itemprop=\"embedUrl\" href=\"&&\"",
-    "二次跳转播放链接":"\"mp4_1080\":\"&&\"",
+    "二次跳转播放链接":"\"hls\":\"&&\"",
 
     //"播放链接":"\"player\":\"&&\"", //此链接为数组内直链，可以直接播放，在JSON字段中 
 
@@ -19,8 +18,9 @@
     "链接":"https://vk.com/video+response.items[].ads.params.video_id",
     "播放链接":"response.items.first_frame.player",
 */
-    "免嗅":"1",
+    //"免嗅":"1",
     "直接播放":"1",
+    "嗅探词":"m3u8",
 
 "调试":"1",
 
