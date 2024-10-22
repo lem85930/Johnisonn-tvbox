@@ -5,7 +5,9 @@
     "图片":"\"image\":\\[{\"url\":\"&&\"",
     "标题":"\"title\":\"&&\"",
     "链接":"https://vk.com/video+\"video_id\":\"&&\"",
-    "跳转播放链接":"\"player\":\"&&\"",    
+    "跳转播放链接":"<link itemprop=\"embedUrl\" href=\"&&\"",
+
+    //"播放链接":"\"player\":\"&&\"", //此链接为数组内直链，可以直接播放，在JSON字段中 
 
 /*
     "二次截取":"\"apiPrefetchCache\":\\[&&,{\"method\":\"video.getAlbumById\"",
