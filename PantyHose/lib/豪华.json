@@ -1,5 +1,5 @@
 {
-
+/*
     "数组二次截取": "list\":[&&]",
     "数组": "{&&}",
     "图片": "vod_pic\"*\"&&\"",
@@ -11,17 +11,15 @@
 
     //"跳转播放链接":"<link itemprop=\"embedUrl\" href=\"&&\"",
     //"二次跳转播放链接":"\"hls\":\"&&\"",
-
-
-/*json模式，暂时失败
-
-    "二次截取":"\"apiPrefetchCache\":\\[&&,{\"method\":\"video.getAlbumById\"",
-    //"数组":"response.items[]",
-    "图片":"response.items[].image[7].url",
-    "标题":"response.items[].first_frame.title",
-    "链接":"https://vk.com/video+response.items[].ads.params.video_id",
-    "播放链接":"response.items.first_frame.player",
 */
+
+//  //json模式，暂时失败
+
+    "数组":"list[]",
+    "图片":"list[].vod_pic",
+    "标题":"list[].vod_name",
+    "链接":"'https://hhzyapi.com/index.php/vod/detail/id/'+list[].vod_id+'.html'",
+
     "直接播放":"1",
     "嗅探词":"m3u8",
 
