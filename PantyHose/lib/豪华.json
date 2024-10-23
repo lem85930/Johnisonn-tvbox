@@ -1,5 +1,5 @@
 {
-/*
+
     "分类url":"https://hhzyapi.com/api.php/provide/vod/?ac=videolist&t={cateId}&pg={catePg}",
     "分类":"纪录片$16#内地剧$20",
 
@@ -11,15 +11,15 @@
     "链接": "https://hhzyapi.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
              
     
-    "线路数组":"class=\"vod-list-title\"&&/span>",
-    "线路标题":">&&<",
+    "跳转线路数组":"class=\"vod-list-title\"&&/span>",
+    "跳转线路标题":">&&<",
 
-    "播放数组":"</h3>&&可直接拖动复制全部",
-    "播放列表":"<a&&</a>",
-    "播放标题":"class=\"list-title\"*>&&\\$",
-    //"播放链接":"href=\"&&\"",
+    "跳转播放数组":"</h3>&&可直接拖动复制全部",
+    "跳转播放列表":"<a&&</a>",
+    "跳转播放标题":"class=\"list-title\"*>&&\\$",
+    "跳转播放链接":"href=\"&&\"",
 
-  //json模式
+/*  //json模式
 
     //"数组":"list[]",
     "图片":"list[].vod_pic",
@@ -30,10 +30,10 @@
     //"直接播放":"1",
     //"嗅探词":"m3u8",
 
-"调试":"1",
+"调试":"1"
 
 
-    "分类url":"https://hhzyapi.com/index.php/vod/type/id/{cateId}.html",
+ /*   "分类url":"https://hhzyapi.com/index.php/vod/type/id/{cateId}.html",
     "分类":"纪录片$16#内地剧$20",
 
     "数组": "class=\"list-item\">&&</em>",
@@ -50,7 +50,7 @@
     "播放标题":"class=\"list-title\"*>&&\\$",
     "播放链接":"href=\"&&\""
     
-
+*/
 
 
 
