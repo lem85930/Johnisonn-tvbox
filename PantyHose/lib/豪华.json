@@ -7,9 +7,14 @@
     "副标题": "vod_remarks\"*\"&&\"",
     "链接": "https://hhzyapi.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
              
-    //"播放链接":"vod_play_url\"*\"&&\"",
+    
+    "线路数组":"<h3>&&</h3>",
+    "线路标题":"class=\"vod-list-title\"&&</span>",
 
-
+    "播放数组":"</h3>&&可直接拖动复制全部 </p>",
+    "线路列表":"<a>&&</a>",
+    "播放标题":"class=\"list-title\"*>&&\\$",
+    "播放链接":"href=\"&&\"",
 
 /*  //json模式
 
