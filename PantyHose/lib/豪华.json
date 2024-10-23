@@ -33,12 +33,12 @@
 "调试":"1",
 
 
-    "分类url":"https://hhzyapi.com/index.php/vod/type/id/{cateId}.html?ac=detail",
+    "分类url":"https://hhzyapi.com/index.php/vod/type/id/{cateId}.html",
     "分类":"纪录片$16#内地剧$20",
 
-    "数组": "class=\"list-item\">&&</a>",
+    "数组": "class=\"list-item\">&&</em>",
     //"图片": "vod_pic\"*\"&&\"",
-    "标题": "\">&&<em",
+    "标题": "detail\">&&<em",
     "链接": "href=\"&&\"",
              
     
