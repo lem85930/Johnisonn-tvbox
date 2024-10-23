@@ -11,8 +11,8 @@
     "链接": "https://hhzyapi.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
              
     
-    "跳转线路数组":"class=\"vod-list-title\"&&/span>",
-    "跳转线路标题":">&&<",
+    //"跳转线路数组":"class=\"vod-list-title\"&&/span>",
+    //"跳转线路标题":">&&<",
 
     "跳转播放数组":"</h3>&&可直接拖动复制全部",
     "跳转播放列表":"<a&&</a>",
