@@ -25,13 +25,13 @@
     
 */
     "直接播放":"1",
-    "嗅探词":"m3u8",
+    //"嗅探词":"m3u8",
 
 "调试":"1",
 
 
     "分类url":"https://hhzyapi.com/api.php/provide/vod/?ac=videolist&t={cateId}&pg={catePg}",
-    "分类":"纪录片$16"
+    "分类":"纪录片$16#内地剧$20"
     
 
 
