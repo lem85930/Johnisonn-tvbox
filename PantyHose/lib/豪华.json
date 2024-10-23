@@ -5,9 +5,9 @@
     "图片": "vod_pic\"*\"&&\"",
     "标题": "vod_name\"*\"&&\"",
     "副标题": "vod_remarks\"*\"&&\"",
-    //"链接": "https://hhzyapi.com/index.php/vod/detail/id/+\"vod_id\"*\"&&\"+.html?ac=detail",
+    "链接": "https://hhzyapi.com/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
              
-    "播放链接":"vod_play_url\"*\"&&\"",
+    //"播放链接":"vod_play_url\"*\"&&\"",
 
     //"跳转播放链接":"<link itemprop=\"embedUrl\" href=\"&&\"",
     //"二次跳转播放链接":"\"hls\":\"&&\"",
