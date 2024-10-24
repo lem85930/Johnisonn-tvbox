@@ -1,5 +1,5 @@
 {
-"调试":"1",
+//"调试":"1",
 
 "分类url":"https://ptt.red/p/{cateId}?page={catePg}",
 "分类数组":"px-2 px-sm-3 py-2 nav-link&&</li>",
@@ -20,7 +20,7 @@
 
 
 "线路二次截取":"<p>播放器快捷鍵</p></a></li>&&</ul>",
-"线路数组":"<li class=\"nav-item\">&&</a></li>",  //[不包含:歷#器]
+"线路数组":"<li class=\"nav-item\">&&</a></li>",  
 "线路标题":"<p>&&</p>",
 
 "播放数组":"seqs mb-4&&</div>",
@@ -39,7 +39,7 @@
 
 
 "主演":"fa fa-users&&class=\"mt-3\"",
-"简介":"fa fa-pie-chart&&</p>"
+"简介":"fa-info-circle&&</div>"
 
 
 
