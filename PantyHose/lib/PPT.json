@@ -12,7 +12,13 @@
 "副标题":"badge badge-success\">&&</span>",
 "链接":"href=\"&&\"",
 
-"线路二次截取":"class=\"mt-2\"&&</ul>",
+"多线二次截取":"class=\"mt-2\"&&</ul>",
+"多线数组":"class=\"nav-item\">&&</li",
+"多线链接":"href=\"&&\"",
+"多线链接前缀": "https://ptt.red",
+"多线链接后缀": "",
+
+//"线路二次截取":"class=\"mt-2\"&&</ul>",
 "线路数组":"class=\"nav-item\">&&</li>[不包含:歷#器]",
 "线路标题":"<p>&&</p>",
 
@@ -22,7 +28,7 @@
 "播放链接":"href=\"&&\"",
 "跳转播放链接":"contentUrl\":\"&&\"",
 
-"搜索url":"https://ptt.red/q/{wd}?page={catePg}",
+"搜索url":"https://ptt.red/q/{wd}?page={catePg};;k",
 
 "主演":"fa fa-users&&class=\"mt-3\"",
 "简介":"fa fa-pie-chart&&</p>"
