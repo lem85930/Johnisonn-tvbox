@@ -30,11 +30,8 @@
 "跳转播放链接":"contentUrl\":\"&&\"",
 
 "搜索模式":"1",
-//"搜索url":"https://ptt.red/q/{wd}?page={catePg};;k",
-//"搜索url":"https://ptt.red/q/{wd}",
 
-"搜索url":"https://ptt.red/node/search?title={wd}",
-//"搜索数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
+"搜索url":"https://ptt.red/zh-cn/q/{wd}",
 "搜索数组":"col-4 item p-0 pr-1&&card-body p-1 p-sm-2",
 "搜索图片":"src=\"&&\"",
 "搜索标题":"alt=\"&&\"",
