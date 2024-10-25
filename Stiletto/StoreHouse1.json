@@ -2,7 +2,7 @@
 "urls":
 [
 {"name":"小波【GITEE】","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
-{"name":"小波【GITHUB】","url":"https://ghp.ci/https://raw.githubusercontent.com/Johnisonn/tvbox/refs/heads/main/box.json"},
+{"name":"小波【GITHUB】","url":"https://ghp.ci/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
 {"name":"【TEST】","url":"https://gitee.com/johnisonn/tvbox/raw/main/test.json"},
 
 {"name":"★OK猫★","url":"http://ok321.top/tv"},
