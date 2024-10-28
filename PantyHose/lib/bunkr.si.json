@@ -2,10 +2,10 @@
             "分类url":"https://bunkr.si/a/{cateId}",
             "分类":"ShinyBound$Ed7H8P21",
 
-            "数组":"relative flex text-center&&#ffd369 !important",
+            "数组":"class=\"grid-images_box-txt\"&&aria-label=\"download\"",
             "图片":"src=\"&&\"",
-            "标题":"text-white-700*>&&.webm</p>",
-            "副标题":"text-white-900*>&&</p>",
+            "标题":"truncate theName text-center\">&&.webm</p>",
+            "副标题":"style=\"margin: 5px 0 5px 0\">&&</p>",
             "链接":"href=\"&&\"",
             "简介":"无",
 
