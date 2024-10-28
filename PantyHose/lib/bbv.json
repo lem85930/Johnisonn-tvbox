@@ -18,8 +18,8 @@
     
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
 
-    "跳转播放链接":"<iframe src=\"&&\"",//此链接不定期变更域名，变化后二次跳转失效，但仍可嗅探到，如频繁更换的话直接使用这个
-    //"跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
+    //"跳转播放链接":"<iframe src=\"&&\"",//此链接不定期变更域名，变化后二次跳转失效，但仍可嗅探到，如频繁更换的话直接使用这个
+    "跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"$<iframe src=\"&&\"",
     //"跳转播放链接":"https://richardstorehalf.com/+<iframe src=\"https://voe.sx/&&\"",//上2链接为旧域名，目前已换为下边域名
     //"跳转播放链接":"https://kimberlyonlocal.com/+<iframe src=\"https://voe.sx/&&\"",
     "二次跳转播放链接":"prompt(\"Node\", \"&&\")",
