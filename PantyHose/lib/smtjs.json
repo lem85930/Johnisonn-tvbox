@@ -3,9 +3,9 @@
     "分类url":"https://tslbbs.com/forum-{cateId}-{catePg}.html",
 
 
-    "分类":"国产$102#日精$117#CN-BD$114#免费$100#暗影$115#日GTJ$124#日JBD$125",
+    "分类":"国产$102#日精$117#CN-BD$114#暗影$115#日GTJ$124#日JBD$125",
     "二次截取":"hideStickThread();&&</table>",
-    "数组":"forumtit\">&&新窗口打开\" target=\"_blank\">",//"forumtit\">&&</a></li><li>",
+    "数组":"forumtit\">&&</a></li><li>",
     "图片":"zoomfile=\"&&\"",
     "标题":"class=\"s xst\">&&</a>",
     "链接":"href=\"&&\"",
@@ -17,10 +17,6 @@
     "嗅探词":".m3u8",
 
 
-    //"搜索模式":"1",
-    //"搜索url": "https://bondagevalley.cc/search?keyword={wd}&page_id={catePg}",
-    
-    //"简介": "itemprop=\"description\">&&</p>",
 
 
 "调试":"1"
