@@ -12,7 +12,7 @@
  */     
     "数组":"class=\"thumb__img clicktotube\"&&class=\"thumb__content\"",
     //"图片":"https://jbdsm.com/t/AA/ + data-tn=\"&&??\" + / + data-tn=\"??&&\" + .jpg",
-    "图片":"/t/aa/+data-tn=\"&&\"",
+    "图片":"/t/+'A+A/+data-tn=\"&&\"",
     "标题":"alt=\"&&\"",
     "副标题":"class=\"thumb__time\">&&</span>",
     "链接":"data-url=\"&&\"",
