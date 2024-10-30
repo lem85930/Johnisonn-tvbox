@@ -13,7 +13,7 @@
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/valley.json"    
     },
     {
-      "key": "BBV","name": "🚸BBV┃TEST",
+      "key": "BBV","name": "🚸BBV┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
       "ext": "./PantyHose/lib/bbv.json"
@@ -35,6 +35,11 @@
         "key": "cc","name": "🚸MeCC┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bondage-me.json"
+    },
+    {
+        "key": "tjs","name": "🚸tjs┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/smtjs.json"
     },
     {
         "key": "bunkr","name": "🚸Shiny┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
