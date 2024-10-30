@@ -4,9 +4,9 @@
 
 
     "分类":"国产$102#精品$117#CN-BD$114#暗影$115",
-    //"数组":"class=\"new forumtit\"&&zoomfile",
-    "数组":"class=\"new forumtit\"&&exx_listpic_pic",
-    "图片":"<img src=\"&&\"",
+    "数组":"class=\"new forumtit\"&&</ul>",
+    //"数组":"class=\"new forumtit\"&&exx_listpic_pic",
+    "图片":"zoomfile=\"&&.jpg\"+.jpg",
     "标题":"class=\"s xst\">&&</a>",
     "链接":"href=\"&&\"",
     "链接前缀":"https://tslbbs.com/",
