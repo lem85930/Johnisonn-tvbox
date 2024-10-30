@@ -32,12 +32,17 @@
         "ext": "./PantyHose/lib/vk.json"
     },
     {
-        "key": "cc","name": "🚸MeCC┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "abjav","name": "🚸abjav┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/abjav.json"
+    },
+    {
+        "key": "cc","name": "🚸MeCC┃Clips","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bondage-me.json"
     },
     {
-        "key": "tjs","name": "🚸tjs┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "tjs","name": "🚸tjs┃Clips","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/smtjs.json"
     },
