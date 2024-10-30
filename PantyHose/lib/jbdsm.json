@@ -1,8 +1,8 @@
 {
 
-    "分类url":"https://jbdsm.com{cateId}",
+    "分类url":"https://jbdsm.com/en/{cateId}",
     "分类数组":"class=\"thumb__img\">&&</div>",
-    "分类ID":"href=\"&&\"",
+    "分类ID":"href=\"/en/&&\"",
     "分类标题":"alt=\"&&\">",
 
  /*   
