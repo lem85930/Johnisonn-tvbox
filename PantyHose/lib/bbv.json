@@ -1,10 +1,18 @@
 {
-  
+/* 
 
     "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/",
     "分类数组":"category-bondage&&itemscope",
     "分类ID":"tag-&& tag",
     "分类标题":"tag-&& tag",
+*/
+
+    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/",
+    "分类二次截取":"list-post ax row&&itemscope",
+    "分类数组":"tag&& ",
+    "分类ID":"-&& ",
+    "分类标题":"-&& ",
+
 /*   
     "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
     "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
