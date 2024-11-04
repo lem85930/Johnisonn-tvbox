@@ -17,12 +17,17 @@
     "简介":"read-more--text text-white/70 text-white/70 leading-5 whitespace-normal&&</p>",
     
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
-
+/*
     //"跳转播放链接":"<iframe src=\"&&\"",//此链接不定期变更域名，变化后二次跳转失效，但仍可嗅探到，如频繁更换的话直接使用这个
     //"跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
-    //"跳转播放链接":"https://richardstorehalf.com/+<iframe src=\"https://voe.sx/&&\"",//上2链接为旧域名，目前已换为下边域名
-    "跳转播放链接":"https://kimberlyonlocal.com/+<iframe src=\"https://voe.sx/&&\"",
-    "二次跳转播放链接":"prompt(\"Node\", \"&&\")",
+    //"跳转播放链接":"https://richardstorehalf.com/+<iframe src=\"https://voe.sx/&&\"",
+    //"跳转播放链接":"https://kimberlyonlocal.com/+<iframe src=\"https://voe.sx/&&\"",//以上为旧域名，目前已换为下
+    "跳转播放链接":"https://toddpartneranimal.com/+<iframe src=\"https://voe.sx/&&\"",
+
+*/
+    "跳转播放链接":"<iframe src=\"&&\"",
+    "二次跳转播放链接":"window.location.href = '&&'",
+    "三次跳转播放链接":"prompt(\"Node\", \"&&\")",
     "嗅探词":".m3u8",
               
 "调试":"1",
