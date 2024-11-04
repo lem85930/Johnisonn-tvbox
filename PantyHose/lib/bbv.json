@@ -1,13 +1,14 @@
 {
-/*    "分类二次截取":"class=\"has-text-color has-medium-font-size has-vivid-cyan-blue-color\"&&</p>",
+  
+
     "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/",
-    "分类数组":"<a&&/a>",
-    "分类ID":"href=\"https://bestbondagevideos.com/tag/&&/\">",
-    "分类标题":">&&<",
- */   
+    "分类数组":"category-bondage&&itemscope",
+    "分类ID":"tag-&& tag",
+    "分类标题":"tag-&& tag",
+/*   
     "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
     "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
-    
+*/   
     "数组":"img-responsive-16by9\"&&/span>",
     "图片":"<img src=\"&&\"",
     "标题":"title=\"&&\"",
@@ -18,12 +19,11 @@
     
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
 /*
-    //"跳转播放链接":"<iframe src=\"&&\"",//此链接不定期变更域名，变化后二次跳转失效，但仍可嗅探到，如频繁更换的话直接使用这个
     //"跳转播放链接":"https://zacharycollectionmight.com/+<iframe src=\"https://voe.sx/&&\"",
     //"跳转播放链接":"https://richardstorehalf.com/+<iframe src=\"https://voe.sx/&&\"",
     //"跳转播放链接":"https://kimberlyonlocal.com/+<iframe src=\"https://voe.sx/&&\"",//以上为旧域名，目前已换为下
     "跳转播放链接":"https://toddpartneranimal.com/+<iframe src=\"https://voe.sx/&&\"",
-
+    "二次跳转播放链接":"prompt(\"Node\", \"&&\")",
 */
     "跳转播放链接":"<iframe src=\"&&\"",
     "二次跳转播放链接":"window.location.href = '&&'",
