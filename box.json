@@ -10,16 +10,23 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "XHTV",
+      "name": "范明明v6",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/xhtv.txt",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "范明明v6",
+      "name": "yuanzl77",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/Johnisonn/IPTV-/refs/heads/main/live.txt",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "XHTV",
+      "type": 0,"playerType": 1,"ua": "okhttp/3.15",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/xhtv.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
